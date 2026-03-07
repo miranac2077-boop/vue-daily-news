@@ -1,0 +1,122 @@
+[
+  {
+    "id": "2026-03-05-1",
+    "title": "阿里巴巴 Qwen 技术负责人突然离职，引发开源社区震动",
+    "description": "阿里云 Qwen 主要架构师 Junyang Lin（林俊阳）在 X 上宣布辞任技术负责人，消息震惊开源 AI 社区，阿里股价盘中一度下跌 5.3%。 🔗 https://www.bloomberg.com/news/articles/2026-03-04/alibaba-qwen-head-who-warned-of-openai-gap-steps-down",
+    "url": "",
+    "publishedAt": "2026-03-05T09:00:00.000Z",
+    "source": {
+      "name": "每日 AI/Tech"
+    },
+    "category": "technology",
+    "urlToImage": null
+  },
+  {
+    "id": "2026-03-05-2",
+    "title": "Nvidia 停止向中国出口 H200 芯片，TSMC 产能转向 Vera Rubin",
+    "description": "受出口管制升级影响，英伟达已暂停对华 H200 芯片生产，并将台积电产能重新分配给下一代 Vera Rubin AI 芯片。 🔗 https://money.usnews.com/investing/news/articles/2026-03-05/nvidia-refocuses-tsmc-capacity-as-export-controls-stall-china-sales-ft-reports",
+    "url": "",
+    "publishedAt": "2026-03-05T09:00:00.000Z",
+    "source": {
+      "name": "每日 AI/Tech"
+    },
+    "category": "technology",
+    "urlToImage": null
+  },
+  {
+    "id": "2026-03-05-3",
+    "title": "Broadcom Q1 财报超预期，AI 芯片营收翻倍，CEO 预测 AI 营收将超 1000 亿美元",
+    "description": "博通第一季度业绩大幅超出预期，AI 相关收入同比翻倍，CEO Hock Tan 称已看到来自 Anthropic、Meta 和 OpenAI 的 1000 亿美元营收机会。 🔗 https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html",
+    "url": "",
+    "publishedAt": "2026-03-05T09:00:00.000Z",
+    "source": {
+      "name": "每日 AI/Tech"
+    },
+    "category": "technology",
+    "urlToImage": null
+  },
+  {
+    "id": "2026-03-05-4",
+    "title": "Apple 发布搭载 M5 芯片的 MacBook Air，AI 任务速度是 M4 的两倍",
+    "description": "苹果正式推出 13 英寸和 15 英寸 MacBook Air M5，M5 芯片在 AI 推理任务上比上代快约 2 倍，起售价 1099 美元，3 月 11 日发货。 🔗 https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+    "url": "",
+    "publishedAt": "2026-03-05T09:00:00.000Z",
+    "source": {
+      "name": "每日 AI/Tech"
+    },
+    "category": "technology",
+    "urlToImage": null
+  },
+  {
+    "id": "2026-03-05-5",
+    "title": "Apple 同步发布 MacBook Pro M5 Pro / M5 Max 版本，AI 性能提升 4 倍",
+    "description": "新款 MacBook Pro 搭载 M5 Pro 和 M5 Max 芯片，AI 任务速度比 M4 快最多 4 倍，可同步预购，3 月 11 日起正式发售。 🔗 https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+    "url": "",
+    "publishedAt": "2026-03-05T09:00:00.000Z",
+    "source": {
+      "name": "每日 AI/Tech"
+    },
+    "category": "technology",
+    "urlToImage": null
+  },
+  {
+    "id": "2026-03-05-6",
+    "title": "OpenAI 年化营收突破 250 亿美元",
+    "description": "据 The Information 报道，OpenAI 截至 2 月底的年化营收已超过 250 亿美元，继续保持爆发式增长，巩固其在 AI 商业化领域的领先地位。 🔗 https://www.reuters.com/technology/artificial-intelligence/",
+    "url": "",
+    "publishedAt": "2026-03-05T09:00:00.000Z",
+    "source": {
+      "name": "每日 AI/Tech"
+    },
+    "category": "technology",
+    "urlToImage": null
+  },
+  {
+    "id": "2026-03-05-7",
+    "title": "Anthropic 与五角大楼谈判风波：FCC 主席批评其\"走错了路\"",
+    "description": "在 Anthropic 被国防部列入限制名单后，OpenAI CEO Sam Altman 宣布 OpenAI 已与国防部达成 AI 使用协议，FCC 主席公开批评 Anthropic 应\"纠正方向\"。 🔗 https://www.cnbc.com/2026/03/03/anthropic-pentagon-department-of-defense-ai-fcc-chair.html",
+    "url": "",
+    "publishedAt": "2026-03-05T09:00:00.000Z",
+    "source": {
+      "name": "每日 AI/Tech"
+    },
+    "category": "technology",
+    "urlToImage": null
+  },
+  {
+    "id": "2026-03-05-8",
+    "title": "Claude Opus 4.6 与 GPT-5.3 Codex 全面对比：前沿模型大战进入新阶段",
+    "description": "各主流 AI 模型在 2 月至 3 月初迎来集中爆发：Gemini 3.1 Pro、Claude Opus 4.6、Claude Sonnet 4.6、GPT-5.3 Codex、Grok 4.20 等相继发布，AI 能力竞赛全面升温。 🔗 https://llm-stats.com/ai-news",
+    "url": "",
+    "publishedAt": "2026-03-05T09:00:00.000Z",
+    "source": {
+      "name": "每日 AI/Tech"
+    },
+    "category": "technology",
+    "urlToImage": null
+  },
+  {
+    "id": "2026-03-05-9",
+    "title": "中国推进\"AI+\"国家战略，Nvidia 重组芯片供应链",
+    "description": "中国政府大力推进将人工智能嵌入各行各业的\"AI+\"战略，同时 Nvidia 在地缘政治压力下积极调整全球芯片生产布局。 🔗 https://techstartups.com/2026/03/05/top-tech-news-today-march-5-2026/",
+    "url": "",
+    "publishedAt": "2026-03-05T09:00:00.000Z",
+    "source": {
+      "name": "每日 AI/Tech"
+    },
+    "category": "technology",
+    "urlToImage": null
+  },
+  {
+    "id": "2026-03-05-10",
+    "title": "约翰斯·霍普金斯研究：AI 可能根本不需要海量训练数据",
+    "description": "《Nature Machine Intelligence》最新研究表明，AI 模型在特定任务上仅需少量高质量数据即可达到顶尖性能，对大规模数据收集的传统认知提出挑战。 🔗 https://www.sciencedaily.com/releases/2025/12/251228074457.htm",
+    "url": "",
+    "publishedAt": "2026-03-05T09:00:00.000Z",
+    "source": {
+      "name": "每日 AI/Tech"
+    },
+    "category": "technology",
+    "urlToImage": null
+  }
+]
