@@ -10,30 +10,52 @@
         <div class="relative">
           <div class="flex items-center gap-2 mb-2">
             <span class="w-2 h-2 bg-green-400 rounded-full animate-pulse"></span>
-            <span class="text-sm font-medium text-indigo-200">Live updates</span>
+            <span class="text-sm font-medium text-indigo-200">每日 AI/Tech 新闻</span>
           </div>
           <h1 class="text-2xl sm:text-3xl font-bold mb-1">Your Daily Briefing</h1>
           <p class="text-indigo-200 text-sm sm:text-base">
-            Top headlines from the past 4 days, organized by date.
+            浏览历史每日 AI 与科技新闻，点击日期切换。
           </p>
         </div>
       </div>
 
-      <!-- Filter bar -->
-      <div class="bg-white rounded-xl border border-slate-200 p-4 mb-8 flex flex-col sm:flex-row sm:items-center gap-4">
-        <div class="flex items-center gap-2 text-sm font-medium text-slate-600 flex-shrink-0">
-          <svg class="w-4 h-4 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
-          </svg>
-          Filter by:
+      <!-- Date switcher + filter bar -->
+      <div class="bg-white rounded-xl border border-slate-200 p-4 mb-8 flex flex-col gap-4">
+
+        <!-- Date tabs -->
+        <div v-if="availableDates.length > 0" class="flex flex-wrap gap-2">
+          <button
+            v-for="date in availableDates"
+            :key="date"
+            @click="selectedDate = date"
+            :class="[
+              'px-3 py-1.5 rounded-lg text-sm font-medium transition-colors',
+              selectedDate === date
+                ? 'bg-indigo-600 text-white'
+                : 'bg-slate-100 text-slate-600 hover:bg-slate-200',
+              formatDateLabel(date).isToday ? 'ring-2 ring-indigo-400 ring-offset-1' : '',
+            ]"
+          >
+            {{ formatDateLabel(date).label }}
+            <span v-if="formatDateLabel(date).isToday" class="ml-1 text-xs opacity-75">今天</span>
+          </button>
         </div>
-        <CategoryFilter
-          :categories="categories"
-          v-model="selectedCategory"
-          @update:modelValue="onCategoryChange"
-        />
-        <div class="sm:ml-auto text-sm text-slate-400 flex-shrink-0">
-          {{ totalCount }} articles
+
+        <!-- Category filter row -->
+        <div class="flex flex-col sm:flex-row sm:items-center gap-4">
+          <div class="flex items-center gap-2 text-sm font-medium text-slate-600 flex-shrink-0">
+            <svg class="w-4 h-4 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
+            </svg>
+            Filter by:
+          </div>
+          <CategoryFilter
+            :categories="categories"
+            v-model="selectedCategory"
+          />
+          <div class="sm:ml-auto text-sm text-slate-400 flex-shrink-0">
+            {{ totalCount }} articles
+          </div>
         </div>
       </div>
 
@@ -61,7 +83,7 @@
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
         </svg>
         <p class="text-slate-400 font-medium">No articles found</p>
-        <p class="text-slate-300 text-sm">Try selecting a different category</p>
+        <p class="text-slate-300 text-sm">Try selecting a different category or date</p>
       </div>
 
       <!-- News grouped by date -->
@@ -79,8 +101,8 @@
     <!-- Footer -->
     <footer class="mt-16 border-t border-slate-200 bg-white">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 text-center text-sm text-slate-400">
-        <p>Daily News &mdash; Powered by Vue 3 + Vite + Tailwind CSS</p>
-        <p class="mt-1">Showing sample data. Add <code class="bg-slate-100 px-1 py-0.5 rounded text-xs">VITE_NEWS_API_KEY</code> in <code class="bg-slate-100 px-1 py-0.5 rounded text-xs">.env</code> for live articles via <a href="https://newsapi.org" target="_blank" class="text-indigo-500 hover:underline">NewsAPI</a>.</p>
+        <p>每日 AI/Tech 新闻 &mdash; Powered by Vue 3 + Vite + Tailwind CSS</p>
+        <p class="mt-1">数据来源：Obsidian 每日新闻笔记 → <code class="bg-slate-100 px-1 py-0.5 rounded text-xs">scripts/sync-news.mjs</code> → <code class="bg-slate-100 px-1 py-0.5 rounded text-xs">public/news.json</code></p>
       </div>
     </footer>
   </div>
@@ -98,17 +120,15 @@ const {
   loading,
   error,
   selectedCategory,
+  selectedDate,
+  availableDates,
   groupedArticles,
   filteredArticles,
   fetchNews,
+  formatDateLabel,
 } = useNews()
 
 const totalCount = computed(() => filteredArticles.value.length)
-
-function onCategoryChange(val) {
-  selectedCategory.value = val
-  fetchNews()
-}
 
 onMounted(() => {
   fetchNews()

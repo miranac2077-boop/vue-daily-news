@@ -1,11 +1,18 @@
 #!/usr/bin/env node
 /**
  * sync-news.mjs
- * Reads the latest (and previous day's) Obsidian daily-news markdown files,
- * parses them, and writes public/news.json for the Vue site.
+ * Reads ALL Obsidian daily-news markdown files, parses them,
+ * and writes public/news.json as a date-grouped object for the Vue site.
+ *
+ * Output format:
+ * {
+ *   "2026-03-06": [...articles],
+ *   "2026-03-05": [...articles],
+ *   ...
+ * }
  */
 
-import { readFileSync, writeFileSync, readdirSync, existsSync } from 'fs'
+import { readFileSync, writeFileSync, readdirSync } from 'fs'
 import { join, dirname } from 'path'
 import { fileURLToPath } from 'url'
 
@@ -31,22 +38,19 @@ function getSortedDates() {
 function parseMarkdown(filePath, date) {
   const content = readFileSync(filePath, 'utf8')
   const articles = []
-  let idCounter = 1
 
-  // Split on numbered list items: lines starting with "数字."
-  // Each item block looks like:
-  //   N. **Title**
-  //   Description text (may span multiple lines)
-  //   🔗 URL
-  const itemRegex = /^\d+\.\s+\*\*(.+?)\*\*\s*\n([\s\S]*?)(?=^\d+\.\s|\Z)/gm
-
-  // We'll manually split so we can handle multi-line descriptions correctly.
-  // Split the content into "blocks" by lines that start with a number + "."
   const lines = content.split('\n')
   let currentItem = null
 
   for (const line of lines) {
-    const titleMatch = line.match(/^(\d+)\.\s+\*\*(.+?)\*\*\s*$/)
+    // Format A: "N. **Title**"  (03-05 style)
+    // Format B: "**N. Title**"  (03-06 style)
+    // Format C: "## N. Title"   (03-04 style)
+    const matchA = line.match(/^(\d+)\.\s+\*\*(.+?)\*\*\s*$/)
+    const matchB = line.match(/^\*\*(\d+)\.\s+(.+?)\*\*\s*$/)
+    const matchC = line.match(/^##\s+(\d+)\.\s+(.+?)\s*$/)
+    const titleMatch = matchA || matchB || matchC
+
     if (titleMatch) {
       if (currentItem) articles.push(finalizeItem(currentItem, date))
       currentItem = {
@@ -61,15 +65,15 @@ function parseMarkdown(filePath, date) {
 
     if (!currentItem) continue
 
-    const urlMatch = line.match(/^🔗\s+(https?:\/\/\S+)/)
+    const urlMatch = line.match(/^\s*🔗\s+(https?:\/\/\S+)/)
     if (urlMatch) {
       currentItem.url = urlMatch[1].trim()
       continue
     }
 
-    // Accumulate description lines (skip blank lines at start)
+    // Accumulate description lines (skip blank lines, headings, hr)
     const trimmed = line.trim()
-    if (trimmed && !trimmed.startsWith('#')) {
+    if (trimmed && !trimmed.startsWith('#') && trimmed !== '---') {
       currentItem.descLines.push(trimmed)
     }
   }
@@ -99,24 +103,22 @@ function main() {
     process.exit(1)
   }
 
-  const allArticles = []
+  const grouped = {}
 
-  // Take the latest file
-  const latestFile = sortedDates[0]
-  const latestDate = latestFile.replace('.md', '')
-  console.log(`📰 Reading latest: ${latestFile}`)
-  allArticles.push(...parseMarkdown(join(OBSIDIAN_DIR, latestFile), latestDate))
-
-  // Also include yesterday's file if it exists
-  if (sortedDates.length >= 2) {
-    const prevFile = sortedDates[1]
-    const prevDate = prevFile.replace('.md', '')
-    console.log(`📰 Reading previous: ${prevFile}`)
-    allArticles.push(...parseMarkdown(join(OBSIDIAN_DIR, prevFile), prevDate))
+  for (const file of sortedDates) {
+    const date = file.replace('.md', '')
+    console.log(`📰 Parsing: ${file}`)
+    const articles = parseMarkdown(join(OBSIDIAN_DIR, file), date)
+    if (articles.length > 0) {
+      grouped[date] = articles
+    }
   }
 
-  console.log(`✅ Parsed ${allArticles.length} articles total`)
-  writeFileSync(OUTPUT_PATH, JSON.stringify(allArticles, null, 2), 'utf8')
+  const totalArticles = Object.values(grouped).reduce((sum, arr) => sum + arr.length, 0)
+  const totalDays = Object.keys(grouped).length
+
+  console.log(`✅ Parsed ${totalArticles} articles across ${totalDays} days`)
+  writeFileSync(OUTPUT_PATH, JSON.stringify(grouped, null, 2), 'utf8')
   console.log(`💾 Written to ${OUTPUT_PATH}`)
 }
 
