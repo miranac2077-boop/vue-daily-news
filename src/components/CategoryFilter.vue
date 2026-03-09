@@ -36,6 +36,7 @@ const dots = {
   business: 'bg-emerald-500',
   sports: 'bg-orange-500',
   general: 'bg-purple-500',
+  war: 'bg-red-600',
 }
 
 function dotColor(id) {

@@ -483,7 +483,7 @@
   ],
   "2026-03-08": [
     {
-      "id": "2026-03-08-technology-1",
+      "id": "2026-03-08-general-1",
       "title": "OpenAI 机器人部门负责人辞职，抗议五角大楼协议",
       "description": "OpenAI 机器人业务负责人 Caitlin Kalinowski 宣布辞职，理由是担忧 OpenAI 与五角大楼的合作可能导致 AI 技术被用于大规模监控和自主武器。",
       "url": "https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3",
@@ -491,11 +491,11 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "general",
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-technology-2",
+      "id": "2026-03-08-general-2",
       "title": "五角大楼正式将 Anthropic 列为\"供应链风险\"",
       "description": "美国国防部正式通知 Anthropic，将其列为供应链风险，原因是该公司拒绝向军方开放 AI 技术的无限制使用权，此举将限制其与政府的业务往来。",
       "url": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
@@ -503,11 +503,11 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "general",
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-technology-3",
+      "id": "2026-03-08-general-3",
       "title": "xAI Grok 聊天机器人发布种族歧视内容，X 平台启动调查",
       "description": "社交媒体平台 X 正在调查 xAI 聊天机器人 Grok 发布种族歧视和攻击性内容的事件，此前 Grok 已获批进入美国军方机密系统。",
       "url": "https://www.reuters.com/technology/",
@@ -515,7 +515,7 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "general",
       "urlToImage": null
     },
     {
@@ -555,7 +555,7 @@
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-technology-7",
+      "id": "2026-03-08-general-7",
       "title": "英伟达撤出 OpenAI 与 Anthropic 投资，五角大楼 AI 争端撕裂科技巨头",
       "description": "随着五角大楼 AI 选边站队事件持续发酵，英伟达宣布撤出对 OpenAI 和 Anthropic 的投资，科技巨头在军事 AI 立场上正式分裂。",
       "url": "https://brighttimesnews.com/nvidia-exits-openai-and-anthropic-bets-as-pentagon-ai-row-splits-big-tech/",
@@ -563,7 +563,7 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "general",
       "urlToImage": null
     },
     {
@@ -579,7 +579,7 @@
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-technology-9",
+      "id": "2026-03-08-business-9",
       "title": "KKR 拟以逾 30 亿美元出售数据中心冷却公司 CoolIT Systems",
       "description": "私募巨头 KKR 据报正就旗下数据中心冷却公司 CoolIT Systems 寻求买家，估值可能超过 30 亿美元，折射出 AI 基础设施热潮中数据中心配套需求的激增。",
       "url": "https://www.reuters.com/technology/artificial-intelligence/",
@@ -587,11 +587,11 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "business",
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-technology-10",
+      "id": "2026-03-08-business-10",
       "title": "谷歌与微软双双声明：将继续为非国防客户提供 Anthropic AI 服务",
       "description": "在 Anthropic 被五角大楼列为供应链风险后，谷歌和微软相继宣布将继续向民用及非国防领域客户提供 Anthropic 旗下 Claude 模型，以稳定商业伙伴关系。",
       "url": "https://yourstory.com/2026/03/microsofts-phi-4-thinks-big-women-in-mining",
@@ -599,7 +599,7 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "business",
       "urlToImage": null
     }
   ],
@@ -617,7 +617,7 @@
       "urlToImage": null
     },
     {
-      "id": "2026-03-07-technology-2",
+      "id": "2026-03-07-business-2",
       "title": "Anthropic 重启五角大楼谈判，同时反击\"供应链风险\"标签",
       "description": "Anthropic CEO Dario Amodei 公开道歉并重启与美国军方的 $200M 合同谈判，同时表示将正式抗议五角大楼将其列为\"供应链风险\"的决定。",
       "url": "https://www.techi.com/anthropic-pentagon-talks-200-million-military-ai-contract/",
@@ -625,7 +625,7 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "business",
       "urlToImage": null
     },
     {
@@ -739,7 +739,7 @@
       "urlToImage": null
     },
     {
-      "id": "2026-03-06-technology-2",
+      "id": "2026-03-06-business-2",
       "title": "大科技股遭遇 AI 热情退潮，估值承压",
       "description": "投资者对 AI 热潮的态度从狂热转向怀疑，大型科技股高估值面临挑战。",
       "url": "https://www.bloomberg.com/news/articles/2026-03-06/big-tech-stocks-were-expensive-then-the-market-turned-on-ai",
@@ -747,7 +747,7 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "business",
       "urlToImage": null
     },
     {
@@ -799,7 +799,7 @@
       "urlToImage": null
     },
     {
-      "id": "2026-03-06-technology-7",
+      "id": "2026-03-06-war-7",
       "title": "OpenAI 与美国国防部签署军事 AI 协议，引发伦理争议",
       "description": "OpenAI 达成与五角大楼的机密军事合作协议，AI 在军事领域的应用边界再受关注。",
       "url": "https://www.euronews.com/2026/03/06/watch-the-video-how-is-artificial-intelligence-used-in-warfare-right-now",
@@ -807,11 +807,11 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "war",
       "urlToImage": null
     },
     {
-      "id": "2026-03-06-technology-8",
+      "id": "2026-03-06-war-8",
       "title": "美国军方在对伊朗空袭中使用最先进 AI 技术，并与 Anthropic 产生嫌隙",
       "description": "美军在 24 小时内打击逾千个目标，使用了前所未有的 AI 辅助作战系统，同时与开发方 Anthropic 关系破裂。",
       "url": "https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/",
@@ -819,11 +819,11 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "war",
       "urlToImage": null
     },
     {
-      "id": "2026-03-06-technology-9",
+      "id": "2026-03-06-general-9",
       "title": "科罗拉多州立法者提议为医疗 AI 划定红线",
       "description": "新法案拟禁止 AI 冒充心理治疗师，并要求保险拒赔须经人工审核。",
       "url": "https://www.kunc.org/politics/2026-03-06/as-artificial-intelligence-enters-colorados-medical-system-state-lawmakers-propose-some-guardrails",
@@ -831,7 +831,7 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "general",
       "urlToImage": null
     },
     {
@@ -849,7 +849,7 @@
   ],
   "2026-03-05": [
     {
-      "id": "2026-03-05-technology-1",
+      "id": "2026-03-05-business-1",
       "title": "阿里巴巴 Qwen 技术负责人突然离职，引发开源社区震动",
       "description": "阿里云 Qwen 主要架构师 Junyang Lin（林俊阳）在 X 上宣布辞任技术负责人，消息震惊开源 AI 社区，阿里股价盘中一度下跌 5.3%。",
       "url": "https://www.bloomberg.com/news/articles/2026-03-04/alibaba-qwen-head-who-warned-of-openai-gap-steps-down",
@@ -857,7 +857,7 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "business",
       "urlToImage": null
     },
     {
@@ -873,7 +873,7 @@
       "urlToImage": null
     },
     {
-      "id": "2026-03-05-technology-3",
+      "id": "2026-03-05-business-3",
       "title": "Broadcom Q1 财报超预期，AI 芯片营收翻倍，CEO 预测 AI 营收将超 1000 亿美元",
       "description": "博通第一季度业绩大幅超出预期，AI 相关收入同比翻倍，CEO Hock Tan 称已看到来自 Anthropic、Meta 和 OpenAI 的 1000 亿美元营收机会。",
       "url": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html",
@@ -881,7 +881,7 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "business",
       "urlToImage": null
     },
     {
@@ -909,7 +909,7 @@
       "urlToImage": null
     },
     {
-      "id": "2026-03-05-technology-6",
+      "id": "2026-03-05-business-6",
       "title": "OpenAI 年化营收突破 250 亿美元",
       "description": "据 The Information 报道，OpenAI 截至 2 月底的年化营收已超过 250 亿美元，继续保持爆发式增长，巩固其在 AI 商业化领域的领先地位。",
       "url": "https://www.reuters.com/technology/artificial-intelligence/",
@@ -917,11 +917,11 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "business",
       "urlToImage": null
     },
     {
-      "id": "2026-03-05-technology-7",
+      "id": "2026-03-05-general-7",
       "title": "Anthropic 与五角大楼谈判风波：FCC 主席批评其\"走错了路\"",
       "description": "在 Anthropic 被国防部列入限制名单后，OpenAI CEO Sam Altman 宣布 OpenAI 已与国防部达成 AI 使用协议，FCC 主席公开批评 Anthropic 应\"纠正方向\"。",
       "url": "https://www.cnbc.com/2026/03/03/anthropic-pentagon-department-of-defense-ai-fcc-chair.html",
@@ -929,7 +929,7 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "general",
       "urlToImage": null
     },
     {
@@ -983,7 +983,7 @@
       "urlToImage": null
     },
     {
-      "id": "2026-03-04-technology-2",
+      "id": "2026-03-04-business-2",
       "title": "特朗普与科技巨头签署协议：AI 数据中心电费由企业自付",
       "description": "特朗普政府与微软、谷歌等大型科技公司达成协议，要求企业自行承担 AI 数据中心的电力成本，以回应外界对能源消耗的担忧。",
       "url": "https://thehill.com/policy/technology/5767824-trump-signs-agreement-with-big-tech-to-cover-data-center-electricity-costs/",
@@ -991,7 +991,7 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "business",
       "urlToImage": null
     },
     {
@@ -1007,7 +1007,7 @@
       "urlToImage": null
     },
     {
-      "id": "2026-03-04-technology-4",
+      "id": "2026-03-04-general-4",
       "title": "Anthropic 因\"五角大楼谈判失误\"遭 FCC 主席批评",
       "description": "FCC 主席公开批评 Anthropic 在与美国国防部的 AI 合作谈判中\"犯了错误\"，同日 OpenAI CEO 山姆·奥特曼宣布 OpenAI 已与国防部达成协议。",
       "url": "https://www.cnbc.com/2026/03/03/anthropic-pentagon-department-of-defense-ai-fcc-chair.html",
@@ -1015,11 +1015,11 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "general",
       "urlToImage": null
     },
     {
-      "id": "2026-03-04-technology-5",
+      "id": "2026-03-04-war-5",
       "title": "OpenAI 洽谈在 NATO 非机密网络部署 AI 技术",
       "description": "据知情人士透露，OpenAI 正在考虑与北约签订合同，将其 AI 技术部署在 NATO 的非机密网络上，进一步拓展军事领域应用。",
       "url": "https://www.reuters.com/technology/",
@@ -1027,11 +1027,11 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "war",
       "urlToImage": null
     },
     {
-      "id": "2026-03-04-technology-6",
+      "id": "2026-03-04-business-6",
       "title": "阿里巴巴 Qwen 首席技术负责人意外离职",
       "description": "曾警告阿里与 OpenAI 存在差距的 Qwen 模型架构师突然辞职，消息令开发者社区震动，外界对阿里 AI 战略走向产生疑虑。",
       "url": "https://www.bloomberg.com/news/articles/2026-03-04/alibaba-qwen-head-who-warned-of-openai-gap-steps-down",
@@ -1039,7 +1039,7 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "business",
       "urlToImage": null
     },
     {
@@ -1055,7 +1055,7 @@
       "urlToImage": null
     },
     {
-      "id": "2026-03-04-technology-8",
+      "id": "2026-03-04-business-8",
       "title": "OpenAI 估值达 8400 亿美元，完成 1100 亿美元融资",
       "description": "OpenAI 完成由软银参与的 1100 亿美元融资轮，估值飙升至 8400 亿美元，Anthropic 年化收入也有望达 200 亿美元。",
       "url": "https://www.reuters.com/technology/openai/",
@@ -1063,7 +1063,7 @@
       "source": {
         "name": "每日综合新闻"
       },
-      "category": "technology",
+      "category": "business",
       "urlToImage": null
     },
     {

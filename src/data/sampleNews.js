@@ -234,12 +234,45 @@ export const sampleArticles = [
     urlToImage: "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?w=800&q=80",
     category: "general",
   },
+  // War / Military
+  {
+    id: 22,
+    title: "Ukraine Forces Repel Major Russian Offensive in Eastern Donetsk Region",
+    description: "Ukrainian defenders held key positions near Chasiv Yar after repelling a coordinated Russian infantry and armor assault, with the frontline remaining broadly stable according to military analysts.",
+    source: { name: "Reuters" },
+    publishedAt: daysAgo(0),
+    url: "https://www.reuters.com",
+    urlToImage: "https://images.unsplash.com/photo-1579428197966-cf3bcbf94d38?w=800&q=80",
+    category: "war",
+  },
+  {
+    id: 23,
+    title: "NATO Increases Eastern Flank Troop Presence to 500,000 in Historic Buildup",
+    description: "The alliance announced the largest collective defense posture since the Cold War, deploying additional multinational battlegroups across Poland, the Baltic states, and Romania.",
+    source: { name: "Financial Times" },
+    publishedAt: daysAgo(1),
+    url: "https://www.ft.com",
+    urlToImage: "https://images.unsplash.com/photo-1580130775562-0ef92da028de?w=800&q=80",
+    category: "war",
+  },
+  {
+    id: 24,
+    title: "UN Security Council Passes Ceasefire Resolution for Gaza After Months of Deadlock",
+    description: "A landmark resolution calling for an immediate humanitarian ceasefire passed 14-1, opening the door to intensified diplomatic efforts and increased aid delivery to the war-ravaged territory.",
+    source: { name: "AP News" },
+    publishedAt: daysAgo(2),
+    url: "https://apnews.com",
+    urlToImage: "https://images.unsplash.com/photo-1564069114553-7215e1ff1890?w=800&q=80",
+    category: "war",
+  },
 ]
 
 export const categories = [
-  { id: 'all', label: 'All News' },
-  { id: 'technology', label: 'Technology' },
-  { id: 'business', label: 'Business' },
-  { id: 'sports', label: 'Sports' },
-  { id: 'general', label: 'General' },
+  { id: 'all', label: '全部' },
+  { id: 'technology', label: '科技' },
+  { id: 'business', label: '商业' },
+  { id: 'sports', label: '体育' },
+  { id: 'war', label: '军事' },
+  { id: 'general', label: '综合' },
 ]
+
