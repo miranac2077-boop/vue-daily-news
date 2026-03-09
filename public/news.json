@@ -1,4 +1,486 @@
 {
+  "2026-03-09": [
+    {
+      "id": "2026-03-09-technology-1",
+      "title": "OpenAI 收购 AI 安全平台 Promptfoo",
+      "description": "OpenAI 宣布收购企业 AI 安全平台 Promptfoo，将其漏洞检测技术直接整合进自身系统。",
+      "url": "https://www.helpnetsecurity.com/2026/03/09/openai-to-acquire-ai-security-platform-promptfoo/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-technology-2",
+      "title": "Nvidia 支持的 Nscale 估值达 146 亿美元",
+      "description": "英国 AI 基础设施公司 Nscale 完成新一轮融资，估值 146 亿美元，已聘请高盛和摩根大通为 IPO 做准备。",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/03/09/nvidia-backed-uk-ai-firm-nscale-raises-2-billion-in-funding-round",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-technology-3",
+      "title": "Amazon Zoox 机器人出租车扩张推动股价上涨",
+      "description": "亚马逊旗下 Zoox 机器人出租车业务扩张，带动亚马逊股价上涨，凸显其物流与 AI 战略布局。",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/03/09/stock-market-today-march-9-amazon-edges-higher-on-zoox-robotaxi-expansion/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-technology-4",
+      "title": "Anthropic 起诉特朗普政府供应链风险标签",
+      "description": "Anthropic 对特朗普政府提起诉讼，反对其将该公司列为国防部供应链风险，双方对峙进一步升级。",
+      "url": "https://www.politico.com/newsletters/forecast/2026/03/09/ais-moment-of-global-reckoning-00819424",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-technology-5",
+      "title": "全球 AI 支出 2026 年预计达 2.5 万亿美元",
+      "description": "Gartner 预测全球 AI 相关支出今年将增长 44%，达到 2.5 万亿美元，云计算、芯片和软件公司将最受益。",
+      "url": "https://www.fool.com/investing/2026/03/04/ai-spending-25-trillion-2026-3-stocks-benefit/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-technology-6",
+      "title": "中国五年计划重点布局量子与 AI",
+      "description": "中国将量子技术和人工智能列为新一轮五年国家发展战略核心，力争在前沿科技领域取得领导地位。",
+      "url": "https://thequantuminsider.com/2026/03/05/chinas-new-five-year-plan-specifically-targets-quantum-leadership-and-ai-expansion/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-technology-7",
+      "title": "Guardian：AI 使隐私攻击更易实施",
+      "description": "新研究显示，以 ChatGPT 为代表的 AI 平台技术使针对匿名社交媒体账户的复杂隐私攻击更加容易。",
+      "url": "https://www.theguardian.com/technology/artificialintelligenceai/2026/mar/08/all",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-technology-8",
+      "title": "华为发布 AI 数据平台 OceanStor",
+      "description": "华为在 MWC 巴塞罗那 2026 上正式推出 AI 数据平台，旨在弥合 AI 模型与商业价值之间的鸿沟。",
+      "url": "https://www.huawei.com/en/news/2026/3/aidp-oceanstor-storage",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-technology-9",
+      "title": "伦敦爆发史上最大规模反 AI 抗议",
+      "description": "数百人聚集于伦敦 AI 产业区举行反 AI 游行，警告人工智能对就业和社会带来的危害。",
+      "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-technology-10",
+      "title": "美国政府技术招聘激增，NASA 阿尔忒弥斯项目加码",
+      "description": "联邦政府启动新计划大规模招募工程师和数据科学家，NASA 阿尔忒弥斯月球项目也在扩招技术人才。",
+      "url": "https://news.clearancejobs.com/2026/03/09/government-tech-hiring-is-surging-from-a-new-federal-tech-force-to-nasas-artemis-push/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-business-1",
+      "title": "美伊战争冲击全球商业，能源价格飙升",
+      "description": "美以对伊朗战争引发全球商业震荡，能源价格飙升，关键原材料供应吃紧，贸易航线受到威胁。",
+      "url": "https://www.reuters.com/world/europe/us-israel-war-with-iran-sends-shockwaves-through-global-business-2026-03-06/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-business-2",
+      "title": "全球股市油价飙升，通胀担忧加剧",
+      "description": "能源价格暴涨引发全球股市和债市抛售，通胀压力大幅上升，市场情绪趋于谨慎。",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-03-08/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-business-3",
+      "title": "S&P Global：2 月全球 PMI 触及后疫情高位",
+      "description": "全球 PMI 产出指数在 2 月创下疫情以来最高水平之一，预示全球 GDP 年化增速回升至 3.0%。",
+      "url": "https://www.spglobal.com/marketintelligence/en/mi/research-analysis/week-ahead-economic-preview-week-of-9-march-2026.html",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-business-4",
+      "title": "德国 Vincorion 筹备法兰克福 IPO",
+      "description": "德国防务和关键电力专家 Vincorion 宣布将于 2026 年上半年在法兰克福证券交易所上市。",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-business-5",
+      "title": "日本企业在股东激进主义压力下解除交叉持股",
+      "description": "受股东激进主义威胁，日本企业加快解除相互持股，推动企业治理改革。",
+      "url": "https://www.reuters.com/business/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-business-6",
+      "title": "中国警告芯片短缺风险，Nexperia 争端再升级",
+      "description": "中国警告 Nexperia 纠纷可能引发全球芯片短缺，半导体供应链安全再度引发广泛关注。",
+      "url": "https://www.reuters.com/business/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-business-7",
+      "title": "Bloomberg：英国 2026 年经济最大希望落空",
+      "description": "英国经济增长核心预期未能实现，彭博社指出在地缘政治和能源冲击下英国复苏之路更加艰难。",
+      "url": "https://www.bloomberg.com/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-business-8",
+      "title": "美国非农就业意外下滑，失业率上升",
+      "description": "美国非农就业数据意外下滑，失业率上升，引发市场对美国劳动力市场降温的广泛担忧。",
+      "url": "https://www.reuters.com/business/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-business-9",
+      "title": "日本稀土资源安全战略成全球范本",
+      "description": "《金融时报》指出，日本在应对中国对关键矿产垄断方面走在前列，其原材料安全战略值得全球借鉴。",
+      "url": "https://www.ft.com/world",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-business-10",
+      "title": "后马杜罗时代委内瑞拉吸引国际投资者布局",
+      "description": "随着马杜罗政权落幕，国际投资者开始赴委内瑞拉考察投资机会，市场期待该国经济重建。",
+      "url": "https://www.reuters.com/business/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-sports-1",
+      "title": "印度第三次夺得 T20 板球世界杯冠军",
+      "description": "印度队击败新西兰，第三次赢得 T20 世界杯，布姆拉取 4 wicket、阿克萨尔取 3 wicket 表现出色。",
+      "url": "https://indianexpress.com/section/sports/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-sports-2",
+      "title": "2026 米兰科尔蒂纳冬季残奥会第三日赛况直播",
+      "description": "2026 冬季残奥会第三天赛事在米兰科尔蒂纳举行，多项冰雪项目奖牌角逐激烈，实时更新成绩。",
+      "url": "https://www.nbcolympics.com/news/live/2026-winter-paralympics-live-updates-mon-march-9-highlights-scores-results-medal-count-day-3",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-sports-3",
+      "title": "NBA：湖人险胜尼克斯",
+      "description": "洛杉矶湖人以领先优势险胜纽约尼克斯，完成本场从头到尾的全程领先胜利。",
+      "url": "https://www.reuters.com/sports/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-sports-4",
+      "title": "NBA All-Contract 阵容：布伦森领衔",
+      "description": "ESPN 公布 NBA All-Contract 最佳合同球员阵容，尼克斯控卫贾伦·布伦森领衔入选。",
+      "url": "https://www.espn.com/espn/latestnews",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-sports-5",
+      "title": "2026 超级越野摩托车巡回赛第 9 站：印第安纳波利斯站落幕",
+      "description": "超级越野摩托车赛印第安纳波利斯 Lucas Oil 体育场站结束，各组别前三名车手发表赛后感言。",
+      "url": "https://www.nbcsports.com/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-sports-6",
+      "title": "世界棒球经典赛：韩国对阵澳大利亚",
+      "description": "2026 世界棒球经典赛小组赛，韩国迎战澳大利亚，赛事在夏威夷赛区继续进行。",
+      "url": "https://www.staradvertiser.com/2026/03/09/sports/television-and-radio-march-9-2026/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-sports-7",
+      "title": "西弗吉尼亚大学女篮夺得 Big XII 锦标赛冠军",
+      "description": "西弗吉尼亚大学女子篮球队击败 TCU，赢得 Big XII 联合会锦标赛冠军，延续强势表现。",
+      "url": "https://wvmetronews.com/2026/03/09/metronews-this-morning-3-9-26/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-sports-8",
+      "title": "马刺对阵火箭 NBA 常规赛精彩集锦",
+      "description": "圣安东尼奥马刺与休斯顿火箭展开 2026 NBA 常规赛激烈对决，全场集锦精彩纷呈。",
+      "url": "https://www.youtube.com/watch?v=OGSsbJZ5RtE",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-sports-9",
+      "title": "NHL 综合：火焰般的水牛城军刀队险胜闪电",
+      "description": "NHL 常规赛中，状态火热的布法罗军刀队以险胜击败坦帕湾闪电，继续领跑东部排名。",
+      "url": "https://www.reuters.com/sports/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-sports-10",
+      "title": "大相扑 2026 年三月场所第一日",
+      "description": "大相扑 2026 年春季三月场所（大阪）正式开幕，第一日赛事精彩，多位横纲力士登场亮相。",
+      "url": "https://www.youtube.com/watch?v=1Hdo-sUGeCA",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-war-1",
+      "title": "伊朗战争第 10 天：美国确认第 7 名阵亡士兵",
+      "description": "五角大楼公布在伊朗战争中牺牲的第 7 名美军士兵身份，为太空旅战士，伊朗同日命名新最高领袖。",
+      "url": "https://apnews.com/live/iran-war-israel-trump-khamenei-03-09-2026",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-war-2",
+      "title": "伊朗任命莫贾塔巴·哈梅内伊为新最高领袖",
+      "description": "伊朗在最高领袖哈梅内伊遭美以联合袭击身亡后，其子莫贾塔巴被选定继任最高领袖。",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5742327/us-israel-iran-war-new-supreme-leader",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-war-3",
+      "title": "以色列对伊朗基础设施发动大规模空袭",
+      "description": "以色列发动新一轮大规模空袭，目标为伊朗多处燃料设施，爆炸后火球冲天，局势持续升级。",
+      "url": "https://www.nytimes.com/live/2026/03/03/world/iran-war-israel-lebanon-trump",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-war-4",
+      "title": "俄罗斯向伊朗提供打击美军目标情报",
+      "description": "美联社消息人士称，俄罗斯向伊朗提供了可用于打击美国军事目标的情报，美俄关系进一步紧张。",
+      "url": "https://www.pbs.org/newshour/world/the-war-in-iran-has-entered-a-second-week-heres-where-things-stand",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-war-5",
+      "title": "特朗普宣布为波斯湾商船提供保险并护航",
+      "description": "特朗普表示美国将为波斯湾商业航运提供保险保障并派军舰护航，保障关键航线畅通。",
+      "url": "https://www.cnbc.com/2026/03/03/us-iran-war-live-updates.html",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-war-6",
+      "title": "美军已摧毁 17 艘伊朗军舰，打击近 2000 个目标",
+      "description": "美国中央司令部称，美军已摧毁伊朗 17 艘军舰（含一艘潜艇）并打击了伊朗境内近 2000 个目标。",
+      "url": "https://www.theguardian.com/world/live/2026/mar/03/us-israel-war-iran-live-updates-attacks-strikes-trump-netanyahu-lebanon-middle-east-latest-news",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-war-7",
+      "title": "伊朗自开战以来已发射逾 500 枚弹道导弹、2000 架无人机",
+      "description": "据伊朗军方消息，自 2 月 28 日开战以来，伊朗已累计发射 500 多枚弹道及海军导弹和近 2000 架无人机。",
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-war-8",
+      "title": "美国参议院战争授权投票失败，特朗普获授权继续打击",
+      "description": "美国参议院就《战争权力法》投票未获通过，特朗普政府因此获得继续对伊朗实施军事打击的授权。",
+      "url": "https://www.cnbc.com/2026/03/04/us-iran-war-live-updates.html",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-war-9",
+      "title": "IDF 推进进入黎巴嫩南部 Khiam 等地区",
+      "description": "以色列国防军据报道已推进至黎巴嫩南部希亚姆和马尔贾雍区等地，黎以边境局势持续紧张。",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-4-2026/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-war-10",
+      "title": "俄乌战场：乌克兰海军陆战队重新部署至胡利艾皮勒方向",
+      "description": "ISW 评估显示，乌克兰已将海军陆战队部队重新部署至胡利艾皮勒方向，以应对俄军第 40 旅攻势。",
+      "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-march-8-2026/",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    }
+  ],
   "2026-03-08": [
     {
       "id": "2026-03-08-technology-1",
