@@ -262,7 +262,7 @@ function main() {
 
   // Deploy to Vercel
   try {
-    const vercelToken = process.env.VERCEL_TOKEN || 'vcp_6DIJIkKgTEKWQ4Yzv1a2y6tZOMMe2xfb3mBaFr7LQuobAyY39N050yTT'
+    const vercelToken = process.env.VERCEL_TOKEN || 'vcp_6e9fGXNwQ3DMvXU0Oz6JSlYKpm58JIuKZuyAHYObgjHIByFnkn2c6x5v'
     execSync(`vercel --prod --yes --token "${vercelToken}"`, {
       cwd: PROJECT_ROOT,
       env: { ...process.env, VERCEL_TOKEN: vercelToken },
