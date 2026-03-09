@@ -1,4 +1,126 @@
 {
+  "2026-03-09": [
+    {
+      "id": "2026-03-09-1",
+      "title": "Anthropic 起诉五角大楼\"供应链风险\"封禁令",
+      "description": "Anthropic 在加州联邦法院提起两项诉讼，挑战国防部将其列为\"供应链风险\"的决定，称此举出于意识形态打压，可能令公司损失数亿美元联邦合同。 🔗 [Wired](https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/) | [NYT](https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html) | [Axios](https://www.axios.com/2026/03/09/anthropic-sues-pentagon-supply-chain-risk-label) | [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html)",
+      "url": "",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-2",
+      "title": "Anthropic 发布 AI 就业冲击早预警系统，白领职业首当其冲",
+      "description": "Anthropic 构建了一套实时监测哪些美国职业最易受 AI 影响的系统，初步结果显示众多白领岗位高度暴露，此前已有亚马逊、Block 等企业以 AI 为由裁员。 🔗 [CBS News](https://www.cbsnews.com/news/anthropic-ai-jobs-most-exposed-risk/)",
+      "url": "",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-3",
+      "title": "英伟达支持的 AI 数据中心创企 Nscale 融资 20 亿美元，估值达 146 亿",
+      "description": "英国 AI 基础设施公司 Nscale 完成由 Aker 和 8090 Industries 领投的 C 轮融资，估值 146 亿美元，凸显全球对大规模 AI 算力基础设施的旺盛投资热情。 🔗 [Reuters](https://www.reuters.com/business/nvidia-backed-uk-ai-firm-nscale-raises-2-billion-funding-round-2026-03-09/) | [CNBC](https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html)",
+      "url": "",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-4",
+      "title": "Apple 全新 AI 版 Siri 预计随 iOS 26.4 于本月/四月亮相",
+      "description": "苹果透露新版 Siri 将深度整合 LLM，具备\"屏幕感知\"和上下文理解能力，计划在 iOS 26.4（3~4 月）或 iOS 27（9 月）推出，标志着苹果 AI 布局进入实质落地阶段。 🔗 [Information Age / ACS](https://ia.acs.org.au/article/2026/apple-reveals-the-ai-behind-siri-s-big-2026-upgrade.html) | [Gadget Hacks](https://apple.gadgethacks.com/news/apples-new-ai-powered-siri-finally-coming-in-2026/)",
+      "url": "",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-5",
+      "title": "Gartner：2026 年全球 AI 支出将达 2.52 万亿美元，同比增长 44%",
+      "description": "Gartner 最新预测显示，2026 年全球 AI 相关支出将突破 2.52 万亿美元，覆盖云计算、AI 芯片和软件等各层级，为多个科技股带来强劲催化剂。 🔗 [Gartner](https://www.gartner.com/en/newsroom/press-releases/2026-1-15-gartner-says-worldwide-ai-spending-will-total-2-point-5-trillion-dollars-in-2026) | [Computerworld](https://www.computerworld.com/article/4118671/gartner-global-ai-spending-to-reach-2-5-trillion-in-2026.html)",
+      "url": "",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-6",
+      "title": "儿童网络安全立法浪潮推动 AI 年龄验证技术进入主流",
+      "description": "全球多地（美国、英国、欧盟、澳大利亚）竞相通过未成年人网络保护法，推动 AI 驱动的年龄核验技术快速落地，同时引发成年用户隐私与监控新忧虑。 🔗 [Reuters](https://www.reuters.com/legal/litigation/amid-wave-kids-online-safety-laws-age-checking-tech-comes-age-2026-03-09/) | [CNBC](https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html)",
+      "url": "",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-7",
+      "title": "英国 59% 民众使用 AI 自诊健康，引发医疗安全争议",
+      "description": "研究显示，近六成英国成年人已习惯用 ChatGPT 等 AI 工具替代看病自诊，主因是全科门诊等待时间过长，但此举也带来误诊和虚假医疗信息的隐患。 🔗 [150sec](https://150sec.com/ai-medical-self-diagnosis-in-the-uk/20797/) | [HT World](https://www.htworld.co.uk/news/research-news/almost-2-in-3-brits-using-ai-for-self-diagnosis-htai26/)",
+      "url": "",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-8",
+      "title": "LeCun 离开 Meta 创立 AMI Labs，Fei-Fei Li 的 World Labs 寻 50 亿美元估值融资",
+      "description": "AI 学界大佬纷纷押注\"世界模型\"赛道：LeCun 创立 AMI Labs 寻求 30 亿欧元估值融资，李飞飞的 World Labs 发布首款 3D 世界生成产品 Marble 后，正谈判以 50 亿美元估值募资。 🔗 [TechCrunch – AMI Labs](https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/) | [AI2.work](https://ai2.work/technology/world-models-in-2026-why-lecun-fei-fei-li-and-deepmind-bet-billions-on-3d-ai/)",
+      "url": "",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-9",
+      "title": "AI 正重塑法律行业：生成式 AI 专利起草能力获评估报告高度认可",
+      "description": "Reuters 法律期刊最新评估显示，以 GPT-4 为代表的 LLM 在统一律师资格考试中已达第 90 百分位，生成式 AI 在专利起草领域的应用正从实验走向实践。 🔗 [Reuters Practical Law](https://www.reuters.com/practical-law-the-journal/transactional/evaluating-generative-ai-tools-patent-drafting-2026-03-01/)",
+      "url": "",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-09-10",
+      "title": "TechCrunch：2026 年 AI 从炒作迈向务实，新架构与可靠 Agent 将主导全年",
+      "description": "TechCrunch 年度预测指出，2026 年 AI 行业将从宏大叙事转向实际落地，小型模型、多模态世界模型、可靠自主 Agent 和物理 AI 将成为核心主题。 🔗 [TechCrunch](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)",
+      "url": "",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    }
+  ],
   "2026-03-08": [
     {
       "id": "2026-03-08-1",
