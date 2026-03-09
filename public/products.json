@@ -1,0 +1,302 @@
+{
+  "2026-03-09": {
+    "insight": "大模型头部玩家（OpenAI GPT-5.4 + Anthropic Cowork 定时任务）正在将 \"AI\" 从对话工具升级为 \"自主执行 + 长期驻留\" 的 Agent 基础设施，2026 年的竞争焦点已从模型能力转向 **Agentic Stickiness**。",
+    "products": [
+      {
+        "id": "2026-03-09-1",
+        "title": "GPT-5.4",
+        "score": 92,
+        "description": "OpenAI 最新旗舰模型，将 reasoning、coding、agentic workflows 统一在单一 frontier model 下，同步推出 GPT-5.4 Thinking（深度推理）和 GPT-5.4 Pro（高性能）三版本矩阵。",
+        "team": "OpenAI，已部署至 ChatGPT / Codex / API",
+        "popularity": "TechCrunch 头版报道，Gizmodo 跟进，发布 4 天内全平台覆盖",
+        "url": "https://openai.com/index/introducing-gpt-5/",
+        "opinion": "Pro/Thinking 双版本分层定价是经典的价值捕获策略，ROI 逻辑清晰；但 unified model 对 Codex 独立产品线的 cannibalization 风险需要关注，短期 token cost 压缩 vs. 长期订阅 Retention 是否能拉升还需要看实验数据。",
+        "publishedAt": "2026-03-09T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-09-2",
+        "title": "Claude Sonnet 4.6 + Cowork Scheduled Tasks",
+        "score": 89,
+        "description": "Anthropic 升级 Sonnet 至 4.6：1M token context window（beta），best-in-class computer use，同步上线 Cowork 定时任务——用户描述一次，Claude 按 cron 自动执行 morning brief / 周报 / 数据更新。",
+        "team": "Anthropic，已上线 Amazon Bedrock",
+        "popularity": "AWS 官方 What's New 公告，Medium 深度分析（\"10x more valuable\"），2 周内多篇 Substack 拆解",
+        "url": "https://support.claude.com/en/articles/12138966-release-notes",
+        "opinion": "Scheduled Tasks 是 Cowork 真正走向 \"AI 同事\" 而非 \"AI 工具\" 的关键转折——Hook Model 中的 Variable Reward 从用户主动 prompt 变成系统主动 deliver，Stickiness 会显著提升；1M context window 的 Engineering 成本摊薄要靠企业端来 justify。",
+        "publishedAt": "2026-03-09T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-09-3",
+        "title": "Vercel v0（全栈 Vibe Coding 平台）",
+        "score": 85,
+        "description": "Vercel 重磅升级 v0：从 UI 组件生成器进化为全栈 vibe coding platform，AI agent 自动规划任务、连接数据库（PlanDB）、配置 API，GitOps + CI/CD 一体化，一句话描述直接上线 production app。",
+        "team": "Vercel，全球顶级前端基础设施公司，背后有 Accel 等一线 VC",
+        "popularity": "Product Hunt AI Coding Agents 榜 #1（本月 launched），TechRadar 2026 vibe coding 工具 Top Pick",
+        "url": "https://vercel.com/blog/introducing-the-new-v0",
+        "opinion": "v0 从 toD 工具切向 toC/toSMB 的 PMF 信号很强——\"非程序员也能上线 app\" 这个 Job-to-be-done 市场天花板极高；但 full-stack agent 的 Hallucination on data wiring 是当前最大 Engineering 瓶颈，Watch Retention rate on projects that actually go live。",
+        "publishedAt": "2026-03-09T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-09-4",
+        "title": "VS Code Agent Kanban",
+        "score": 72,
+        "description": "专为 AI 辅助开发者设计的任务管理工具，在 VS Code 内集成 Kanban 看板，管理多个 AI agent 并发任务流，解决 \"vibe coding session 越来越难追踪\" 的真实痛点。",
+        "team": "AppSoftware（独立开发者），开源方向",
+        "popularity": "HN Show HN 85 points / 42 comments（6小时内），开发者社区强反响",
+        "url": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
+        "opinion": "这个需求是 AI coding adoption 的必然产物，ROI 逻辑闭环——agent 越多越需要 orchestration 层；但 VS Code extension 的变现路径有限，MVP 验证 PMF 之后要考虑是否 pivot 到独立 SaaS 或被 Cursor/Windsurf 收购。",
+        "publishedAt": "2026-03-09T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-09-5",
+        "title": "Sumoclip",
+        "score": 68,
+        "description": "AI 自动将长视频切割成 TikTok / YouTube Shorts / Instagram Reels 病毒短片，自动识别高光时刻、生成字幕、导出即发格式，一键完成全流程。",
+        "team": "独立创业团队，freemium 模式（Free + $25/mo）",
+        "popularity": "There's An AI For That 今日 11,815 saves（平台排名极高），同类工具 saves 均值的 3-5x",
+        "url": "https://www.sumoclip.com/",
+        "opinion": "Creator economy 的长短视频转换需求是刚需，TAAFT 11k+ saves 的 Demand Signal 不容忽视；但赛道已有 Opus Clip / Descript 强竞争，差异化护城河不够清晰——PMF 成立的前提是在字幕质量或某个垂直创作者类型上做到明显 10x，否则容易被整合进大平台。",
+        "publishedAt": "2026-03-09T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      }
+    ]
+  },
+  "2026-03-08": {
+    "insight": "",
+    "products": [
+      {
+        "id": "2026-03-08-1",
+        "title": "GPT-5.4",
+        "score": 92,
+        "description": "OpenAI 本周最大 launch：三档版本（标准 / Thinking / Pro），首个内建 native computer-use 的通用模型，1M token 上下文窗口，Hallucination 比 5.2 降 33%，新增 Tool Search API 大幅降低 token cost。",
+        "team": "OpenAI，估值超 3000 亿美元，Sam Altman",
+        "popularity": "TechCrunch 头条，Gizmodo / The Verge 全线跟进，Dev Weekly 本周榜首",
+        "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+        "opinion": "Tool Search 这个 API 设计是真正的工程红利——多 tool 场景下 token cost 可观降幅，对 B2B SaaS 集成场景 ROI 逻辑直接拉满。1M context + computer-use 原生支持，这是在跟 Gemini 正面抢 enterprise workflow 的牌。",
+        "publishedAt": "2026-03-08T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-08-2",
+        "title": "Cursor Automations",
+        "score": 87,
+        "description": "Cursor 推出 always-on agentic 编程框架：Slack 消息、GitHub PR、PagerDuty incident、Linear issue 均可触发 AI agent 自动跑代码 review、安全审计、incident response，彻底打破\"prompt-and-monitor\"范式。",
+        "team": "Cursor（估值超 90 亿美元），YC 系，工程 lead Jonas Nelle & Josh Ma",
+        "popularity": "TechCrunch 专题报道，Releasebot 追踪，本周 Dev Twitter 高度讨论",
+        "url": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+        "opinion": "这是把 Cursor 从\"编辑器\"变成\"工程团队基础设施\"的关键一步，Stickiness 直线拉升。但 Engineering 风险在于 MCP 连接稳定性和 agent 权限边界——需要观察企业客户对 auto-PR-approval 的接受度。",
+        "publishedAt": "2026-03-08T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-08-3",
+        "title": "Perplexity Computer",
+        "score": 82,
+        "description": "Perplexity 推出\"Computer\"：$200/月的云端 AI agent，调度 19 个模型（Claude Opus 4.6 做 orchestration，GPT-5.2 做长上下文搜索，Gemini 做 deep research），一个 prompt 自动拆解任务并并行执行，定位\"general-purpose digital worker\"。",
+        "team": "Perplexity AI，Aravind Srinivas，融资超 10 亿美元，a16z 领投",
+        "popularity": "The Verge + TechCrunch 双线报道，Reddit / Twitter 大量讨论",
+        "url": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
+        "opinion": "$200/月的定价 ROI 闭环取决于用户能否真正托管长周期任务——这不是 Retention 好打的价位。Multi-model orchestration 的 Hallucination 累积风险也需要验证。但作为\"AI 员工\"的 PMF 探索，这是目前最完整的产品化尝试。",
+        "publishedAt": "2026-03-08T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-08-4",
+        "title": "Claude Code Voice Mode",
+        "score": 78,
+        "description": "Anthropic 为 Claude Code 上线语音模式：`/voice` 触发，用自然语言口述指令（如\"重构认证中间件\"），Claude 直接执行。目前 5% 用户可用，滚动放量中。同步更新 multi-language STT、session naming、Claude API skill 等功能。",
+        "team": "Anthropic，Dario Amodei，$7.3B A 轮，Google/Amazon 双重背书",
+        "popularity": "TechCrunch 报道，X（原 Twitter）上 Anthropic 工程师公告获大量转发",
+        "url": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
+        "opinion": "Voice mode 对 Claude Code 的 Stickiness 贡献值得关注——hands-free coding 是 high-context work 的真实痛点。但 5% 放量说明 ElevenLabs 或第三方 STT 的 latency/accuracy 还在调优，正式 GA 前 Retention 数据才有参考价值。",
+        "publishedAt": "2026-03-08T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-08-5",
+        "title": "Simile",
+        "score": 71,
+        "description": "企业级 AI 决策引擎：模拟人类判断逻辑（decision mimicry），目标替代高风险场景的人工决策（金融、供应链）。2025 年创立，2026 年 2 月完成 Index Ventures 领投 $1 亿 Series A。",
+        "team": "2025 创立，Index Ventures 领投，团队背景未完全公开",
+        "popularity": "aibmag.com 3 月榜单 #1，TechCrunch 有提及；仍处早期",
+        "url": "https://simile.ai/",
+        "opinion": "$1 亿 Series A 估值对一个 2025 年创立的公司是强信号，但 PMF 尚未验证——\"decision mimicry\"的 Eval Sets 如何定义是核心问题。B2B enterprise 赛道 Engineering 复杂度高，短期 Retention 数据难获取，风险偏高。",
+        "publishedAt": "2026-03-08T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      }
+    ]
+  },
+  "2026-03-07": {
+    "insight": "从 Grok 4.20 的 Native Multi-Agent Inference 到 CollectivIQ 的 Consensus Layer，行业正在用两条路径解同一个问题——如何让 AI 输出更可靠：一是在模型内部做多智能体 debate，二是在模型外部做跨模型投票。**2026 年 AI 可靠性基础设施的竞争格局正在成形。**",
+    "products": [
+      {
+        "id": "2026-03-07-1",
+        "title": "Grok 4.20 (xAI)",
+        "score": 91,
+        "description": "产品定位： xAI 把 4 个专属 AI Agent（Grok/Harper/Benjamin/Lucas）内置进推理架构，每次复杂查询自动并行思考+互相 debate，再合并输出——这不是用户层面的 Multi-Agent Framework，是 Inference-time 原生架构。还新增医疗文档图片分析。",
+        "team": "xAI (Elon Musk)，ELO 估值 1505-1535，~3T 参数 MoE",
+        "popularity": "r/LocalLLaMA + X 社区持续高讨论量，NextBigFuture 专题报道，发布即爆",
+        "url": "https://x.ai/grok",
+        "opinion": "",
+        "publishedAt": "2026-03-07T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-07-2",
+        "title": "Claude Sonnet 4.6 (Anthropic)",
+        "score": 89,
+        "description": "产品定位： 2月17日落地，接替 Sonnet 4.5 成为 claude.ai 默认模型。1M token context window（beta），SWE-Bench ~80%，OSWorld 72%+，速度比 4.5 快 30-50%。多项任务已逼近 Opus 4.6 水平但定价在 Sonnet 档。",
+        "team": "Anthropic，$7.3B 融资，前 OpenAI 核心成员",
+        "popularity": "AWS Bedrock 同步上线，SD Times 专题，全球开发者社区迅速切换",
+        "url": "https://claude.ai",
+        "opinion": "",
+        "publishedAt": "2026-03-07T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-07-3",
+        "title": "OpenAI Frontier",
+        "score": 85,
+        "description": "产品定位： OpenAI 2月初推出的企业级 Agent 管理平台。核心价值：给企业提供\"shared business context\"——打通内部 ticketing、数据仓库、业务系统，让 AI Agent 真正接管 core workflows 而非只是 chatbot。",
+        "team": "OpenAI（$110B 新一轮融资背书），COO Brad Lightcap 亲自主推企业化方向",
+        "popularity": "TechCrunch、CNBC、InfoQ 同步报道，企业客户 Waitlist 持续",
+        "url": "https://openai.com/business/frontier/",
+        "opinion": "",
+        "publishedAt": "2026-03-07T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-07-4",
+        "title": "CollectivIQ",
+        "score": 78,
+        "description": "产品定位： 从隐身状态出来，首发\"AI Consensus Platform\"：同时查询 ChatGPT、Claude、Gemini、Grok 等 10 个 LLM，对比输出取共识，减少单一模型 Hallucination 风险。主打企业可靠性场景。",
+        "team": "Buyers Edge Platform 创始团队，$47M Series A（a16z 领投，Lightspeed + YC 参投）",
+        "popularity": "PRNewswire 官宣，多家媒体同步转载，3天内全网扩散",
+        "url": "https://collectiviq.com",
+        "opinion": "",
+        "publishedAt": "2026-03-07T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-07-5",
+        "title": "v0 Full Stack (Vercel)",
+        "score": 76,
+        "description": "产品定位： Vercel 本月在 Product Hunt 重新上架升级版 v0——从\"前端组件生成器\"进化为 full-stack vibe coding 平台，加入 server logic、数据库支持、一键 GitHub 同步 + Vercel 10秒部署。用户交互量突破 1亿次。",
+        "team": "Vercel（2025年底$250M 专项融资 for v0），Next.js 生态核心玩家",
+        "popularity": "Product Hunt AI Coding 类目本月榜首，TechRadar 专题评测",
+        "url": "https://v0.dev",
+        "opinion": "",
+        "publishedAt": "2026-03-07T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      }
+    ]
+  },
+  "2026-03-06": {
+    "insight": "Voice Mode + Agentic Tasks 同步爆发，AI 的下一个 Retention 战场已从\"对话界面\"转向\"系统级操作权限\"——谁先拿到 OS 级入口，谁就拿到了用户的 Default Behavior。",
+    "products": [
+      {
+        "id": "2026-03-06-1",
+        "title": "Claude Code Voice Mode",
+        "score": 88,
+        "description": "Anthropic 为 Claude Code 推出语音编程模式——开发者说一句话，Claude 直接执行代码操作（如\"重构身份验证中间件\"），彻底解放双手",
+        "team": "Anthropic，当前 Claude Code 年化营收已超 $2.5B，WAU 自1月翻倍",
+        "popularity": "TechCrunch 头条报道；Claude App 本周刚登 App Store 美区 #1，超越 ChatGPT；5% 用户已灰度",
+        "url": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
+        "opinion": "Voice → Code 这条路 PMF 非常清晰——减少 Friction 直接提升 Retention。但关键卡点在 Latency：语音识别 + LLM Inference 的端到端延迟若超过 2s，用户会回退到打字。上线后要盯 Voice Session Abandonment Rate。",
+        "publishedAt": "2026-03-06T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-06-2",
+        "title": "Gemini Agentic Tasks on Pixel (March 2026 Pixel Drop)",
+        "score": 82,
+        "description": "Google 在 Pixel 专属 Android 更新中推出 Gemini Agentic Tasks——Gemini 可在系统层面自主完成多步任务（订餐、查日历、发消息），Circle to Search 新增 \"Try it on\" 购物功能",
+        "team": "Google DeepMind + Android 团队，垂直整合优势无出其右",
+        "popularity": "多家科技媒体同步报道；Pixel Drop 每季度定期发布，但此次 Agentic 集成被认为是质变",
+        "url": "https://www.deccanherald.com/technology/artificial-intelligence/march-2026-pixel-drop-google-rolls-out-android-update-with-new-ai-features-3920438",
+        "opinion": "Agentic AI 的战场最终是 OS 层，Google 把 Gemini 嵌进系统任务调度器，这步棋很稳。真正的变量是 Apple——M5 MacBook Air 刚发布，Siri + Gemini 传言若落地，生态博弈会更激烈。现阶段 Pixel 渗透率是 Retention 天花板。",
+        "publishedAt": "2026-03-06T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-06-3",
+        "title": "PageAgent by Alibaba",
+        "score": 78,
+        "description": "阿里开源的 GUI Agent JS 库——通过极少代码集成，让任意 Web App 内嵌一个能理解 UI 并自主操作的 AI Agent。开发者无需改动后端，前端即可 AI-native",
+        "team": "Alibaba 开源团队，大厂背书 + 开源策略",
+        "popularity": "HN Show HN 132 points，66条评论，24小时内；开发者社区讨论热度高",
+        "url": "https://alibaba.github.io/page-agent/",
+        "opinion": "ROI 逻辑对开发者非常清晰：零后端改动 + 前端 AI 化，Engineering 集成成本极低。但这类工具的 PMF 验证取决于 Agent 准确率——如果任务完成率低于 85%，用户会直接放弃。需要关注他们的 Eval Sets 数据。",
+        "publishedAt": "2026-03-06T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-06-4",
+        "title": "CollectivIQ",
+        "score": 72,
+        "description": "Multi-LLM 共识平台——同时查询 ChatGPT、Claude、Gemini、Grok 等10+ 模型，取交叉结论以降低 Hallucination 风险，主打企业端数据安全（全程加密，不用于模型训练）",
+        "team": "Buyers Edge Platform（John Davie 自筹资金孵化），Boston；TechCrunch 专题报道",
+        "popularity": "TechCrunch 报道 + PR Newswire 发稿；企业内部已验证，正在公测",
+        "url": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
+        "opinion": "按 Token 消耗计费的逻辑合理，但成本是核心风险——同时调用10个模型，Token Cost 是单模型的 N 倍，如何控制 Margin 才是关键。目标用户是对 Hallucination 零容忍的企业，这个 Niche 付费意愿强，但市场规模有限。",
+        "publishedAt": "2026-03-06T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-06-5",
+        "title": "Rocket.new 25K 模板库",
+        "score": 68,
+        "description": "Vibe Coding 平台新 Feature：一次性上线 25,000+ 专业 Landing Page 模板库，用户选模板 + AI 微调，3分钟拿到生产级页面。Token 消耗大幅降低（从零生成 → 模板微调）",
+        "team": "Rocket.new，TAAFT 榜单 111,456 人使用记录",
+        "popularity": "TAAFT 热门推荐，25,000 模板发布引发社区关注",
+        "url": "https://www.rocket.new/",
+        "opinion": "用模板库解决 Token 浪费问题，这个思路有 PMF 潜力——降低 Cost per Output 的同时提升 Output Quality。但护城河脆弱：模板库可复制，差异化要靠 AI 个性化深度。关键指标看 Template → Launch 的转化漏斗。",
+        "publishedAt": "2026-03-06T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      }
+    ]
+  }
+}
