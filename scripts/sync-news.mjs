@@ -15,6 +15,7 @@
 import { readFileSync, writeFileSync, readdirSync } from 'fs'
 import { join, dirname } from 'path'
 import { fileURLToPath } from 'url'
+import { execSync } from 'child_process'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 
@@ -120,6 +121,24 @@ function main() {
   console.log(`✅ Parsed ${totalArticles} articles across ${totalDays} days`)
   writeFileSync(OUTPUT_PATH, JSON.stringify(grouped, null, 2), 'utf8')
   console.log(`💾 Written to ${OUTPUT_PATH}`)
+
+  // Auto-commit and push to trigger Vercel redeploy
+  const PROJECT_ROOT = join(__dirname, '..')
+  try {
+    const status = execSync('git status --porcelain public/news.json', { cwd: PROJECT_ROOT }).toString().trim()
+    if (status) {
+      const today = new Date().toISOString().slice(0, 10)
+      execSync('git add public/news.json', { cwd: PROJECT_ROOT })
+      execSync(`git commit -m "chore: update news data for ${today}"`, { cwd: PROJECT_ROOT })
+      execSync('git push origin main', { cwd: PROJECT_ROOT })
+      console.log(`🚀 Pushed to GitHub — Vercel will auto-redeploy`)
+    } else {
+      console.log(`ℹ️  news.json unchanged, skipping git push`)
+    }
+  } catch (err) {
+    console.error(`⚠️  Git push failed: ${err.message}`)
+    // Don't exit with error — data write was still successful
+  }
 }
 
 main()
