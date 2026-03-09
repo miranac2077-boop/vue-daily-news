@@ -131,13 +131,25 @@ function main() {
       execSync('git add public/news.json', { cwd: PROJECT_ROOT })
       execSync(`git commit -m "chore: update news data for ${today}"`, { cwd: PROJECT_ROOT })
       execSync('git push origin main', { cwd: PROJECT_ROOT })
-      console.log(`🚀 Pushed to GitHub — Vercel will auto-redeploy`)
+      console.log(`🚀 Pushed to GitHub`)
     } else {
       console.log(`ℹ️  news.json unchanged, skipping git push`)
     }
   } catch (err) {
     console.error(`⚠️  Git push failed: ${err.message}`)
-    // Don't exit with error — data write was still successful
+  }
+
+  // Deploy to Vercel (GitHub integration not connected, must deploy manually)
+  try {
+    const vercelToken = process.env.VERCEL_TOKEN
+    if (!vercelToken) throw new Error('VERCEL_TOKEN not set')
+    execSync(`vercel --prod --yes --token "${vercelToken}"`, {
+      cwd: PROJECT_ROOT,
+      env: { ...process.env },
+    })
+    console.log(`✅ Vercel deployment triggered`)
+  } catch (err) {
+    console.error(`⚠️  Vercel deploy failed: ${err.message}`)
   }
 }
 
