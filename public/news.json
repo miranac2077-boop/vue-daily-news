@@ -1,365 +1,121 @@
 {
-  "2026-03-09": [
-    {
-      "id": "2026-03-09-1",
-      "title": "Anthropic 起诉五角大楼\"供应链风险\"封禁令",
-      "description": "Anthropic 在加州联邦法院提起两项诉讼，挑战国防部将其列为\"供应链风险\"的决定，称此举出于意识形态打压，可能令公司损失数亿美元联邦合同。 🔗 [Wired](https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/) | [NYT](https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html) | [Axios](https://www.axios.com/2026/03/09/anthropic-sues-pentagon-supply-chain-risk-label) | [CNBC](https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html)",
-      "url": "",
-      "publishedAt": "2026-03-09T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-09-2",
-      "title": "Anthropic 发布 AI 就业冲击早预警系统，白领职业首当其冲",
-      "description": "Anthropic 构建了一套实时监测哪些美国职业最易受 AI 影响的系统，初步结果显示众多白领岗位高度暴露，此前已有亚马逊、Block 等企业以 AI 为由裁员。 🔗 [CBS News](https://www.cbsnews.com/news/anthropic-ai-jobs-most-exposed-risk/)",
-      "url": "",
-      "publishedAt": "2026-03-09T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-09-3",
-      "title": "英伟达支持的 AI 数据中心创企 Nscale 融资 20 亿美元，估值达 146 亿",
-      "description": "英国 AI 基础设施公司 Nscale 完成由 Aker 和 8090 Industries 领投的 C 轮融资，估值 146 亿美元，凸显全球对大规模 AI 算力基础设施的旺盛投资热情。 🔗 [Reuters](https://www.reuters.com/business/nvidia-backed-uk-ai-firm-nscale-raises-2-billion-funding-round-2026-03-09/) | [CNBC](https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html)",
-      "url": "",
-      "publishedAt": "2026-03-09T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-09-4",
-      "title": "Apple 全新 AI 版 Siri 预计随 iOS 26.4 于本月/四月亮相",
-      "description": "苹果透露新版 Siri 将深度整合 LLM，具备\"屏幕感知\"和上下文理解能力，计划在 iOS 26.4（3~4 月）或 iOS 27（9 月）推出，标志着苹果 AI 布局进入实质落地阶段。 🔗 [Information Age / ACS](https://ia.acs.org.au/article/2026/apple-reveals-the-ai-behind-siri-s-big-2026-upgrade.html) | [Gadget Hacks](https://apple.gadgethacks.com/news/apples-new-ai-powered-siri-finally-coming-in-2026/)",
-      "url": "",
-      "publishedAt": "2026-03-09T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-09-5",
-      "title": "Gartner：2026 年全球 AI 支出将达 2.52 万亿美元，同比增长 44%",
-      "description": "Gartner 最新预测显示，2026 年全球 AI 相关支出将突破 2.52 万亿美元，覆盖云计算、AI 芯片和软件等各层级，为多个科技股带来强劲催化剂。 🔗 [Gartner](https://www.gartner.com/en/newsroom/press-releases/2026-1-15-gartner-says-worldwide-ai-spending-will-total-2-point-5-trillion-dollars-in-2026) | [Computerworld](https://www.computerworld.com/article/4118671/gartner-global-ai-spending-to-reach-2-5-trillion-in-2026.html)",
-      "url": "",
-      "publishedAt": "2026-03-09T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-09-6",
-      "title": "儿童网络安全立法浪潮推动 AI 年龄验证技术进入主流",
-      "description": "全球多地（美国、英国、欧盟、澳大利亚）竞相通过未成年人网络保护法，推动 AI 驱动的年龄核验技术快速落地，同时引发成年用户隐私与监控新忧虑。 🔗 [Reuters](https://www.reuters.com/legal/litigation/amid-wave-kids-online-safety-laws-age-checking-tech-comes-age-2026-03-09/) | [CNBC](https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html)",
-      "url": "",
-      "publishedAt": "2026-03-09T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-09-7",
-      "title": "英国 59% 民众使用 AI 自诊健康，引发医疗安全争议",
-      "description": "研究显示，近六成英国成年人已习惯用 ChatGPT 等 AI 工具替代看病自诊，主因是全科门诊等待时间过长，但此举也带来误诊和虚假医疗信息的隐患。 🔗 [150sec](https://150sec.com/ai-medical-self-diagnosis-in-the-uk/20797/) | [HT World](https://www.htworld.co.uk/news/research-news/almost-2-in-3-brits-using-ai-for-self-diagnosis-htai26/)",
-      "url": "",
-      "publishedAt": "2026-03-09T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-09-8",
-      "title": "LeCun 离开 Meta 创立 AMI Labs，Fei-Fei Li 的 World Labs 寻 50 亿美元估值融资",
-      "description": "AI 学界大佬纷纷押注\"世界模型\"赛道：LeCun 创立 AMI Labs 寻求 30 亿欧元估值融资，李飞飞的 World Labs 发布首款 3D 世界生成产品 Marble 后，正谈判以 50 亿美元估值募资。 🔗 [TechCrunch – AMI Labs](https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/) | [AI2.work](https://ai2.work/technology/world-models-in-2026-why-lecun-fei-fei-li-and-deepmind-bet-billions-on-3d-ai/)",
-      "url": "",
-      "publishedAt": "2026-03-09T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-09-9",
-      "title": "AI 正重塑法律行业：生成式 AI 专利起草能力获评估报告高度认可",
-      "description": "Reuters 法律期刊最新评估显示，以 GPT-4 为代表的 LLM 在统一律师资格考试中已达第 90 百分位，生成式 AI 在专利起草领域的应用正从实验走向实践。 🔗 [Reuters Practical Law](https://www.reuters.com/practical-law-the-journal/transactional/evaluating-generative-ai-tools-patent-drafting-2026-03-01/)",
-      "url": "",
-      "publishedAt": "2026-03-09T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-09-10",
-      "title": "TechCrunch：2026 年 AI 从炒作迈向务实，新架构与可靠 Agent 将主导全年",
-      "description": "TechCrunch 年度预测指出，2026 年 AI 行业将从宏大叙事转向实际落地，小型模型、多模态世界模型、可靠自主 Agent 和物理 AI 将成为核心主题。 🔗 [TechCrunch](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)",
-      "url": "",
-      "publishedAt": "2026-03-09T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    }
-  ],
   "2026-03-08": [
     {
-      "id": "2026-03-08-1",
+      "id": "2026-03-08-technology-1",
       "title": "OpenAI 机器人部门负责人辞职，抗议五角大楼协议",
       "description": "OpenAI 机器人业务负责人 Caitlin Kalinowski 宣布辞职，理由是担忧 OpenAI 与五角大楼的合作可能导致 AI 技术被用于大规模监控和自主武器。",
       "url": "https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3",
       "publishedAt": "2026-03-08T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-2",
+      "id": "2026-03-08-technology-2",
       "title": "五角大楼正式将 Anthropic 列为\"供应链风险\"",
       "description": "美国国防部正式通知 Anthropic，将其列为供应链风险，原因是该公司拒绝向军方开放 AI 技术的无限制使用权，此举将限制其与政府的业务往来。",
       "url": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
       "publishedAt": "2026-03-08T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-3",
+      "id": "2026-03-08-technology-3",
       "title": "xAI Grok 聊天机器人发布种族歧视内容，X 平台启动调查",
       "description": "社交媒体平台 X 正在调查 xAI 聊天机器人 Grok 发布种族歧视和攻击性内容的事件，此前 Grok 已获批进入美国军方机密系统。",
       "url": "https://www.reuters.com/technology/",
       "publishedAt": "2026-03-08T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-4",
+      "id": "2026-03-08-technology-4",
       "title": "OpenAI 修订五角大楼协议，Sam Altman 承认\"处理粗糙\"",
       "description": "OpenAI 对其与国防部签订的协议进行修订，CEO Sam Altman 公开承认协议最初谈判过程\"显得草率\"，并表示将禁止 AI 技术用于大规模监控或情报机构。",
       "url": "https://www.theguardian.com/technology/2026/mar/03/openai-pentagon-ceo-sam-altman-chatgpt",
       "publishedAt": "2026-03-08T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-5",
+      "id": "2026-03-08-technology-5",
       "title": "Broadcom CEO 预测 AI 芯片营收 2027 年将突破 1000 亿美元",
       "description": "Broadcom 首席执行官 Hock Tan 表示，公司定制 AI 芯片销售额预计明年超过 1000 亿美元，定制芯片需求激增正在挑战英伟达在 AI 芯片市场的主导地位。",
       "url": "https://www.reuters.com/technology/broadcom-forecasts-second-quarter-revenue-above-estimates-2026-03-04/",
       "publishedAt": "2026-03-08T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-6",
+      "id": "2026-03-08-technology-6",
       "title": "OpenAI 发布 GPT-5.4，支持复杂推理与长上下文任务",
       "description": "OpenAI 本周推出最新旗舰模型 GPT-5.4，专为复杂推理、专业工作流和长上下文任务设计，原生支持图像处理，智能体能力从实验性迈向生产就绪。",
       "url": "https://techstartups.com/2026/03/06/this-week-in-ai-the-biggest-ai-news-breakthroughs-and-power-moves/",
       "publishedAt": "2026-03-08T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-7",
+      "id": "2026-03-08-technology-7",
       "title": "英伟达撤出 OpenAI 与 Anthropic 投资，五角大楼 AI 争端撕裂科技巨头",
       "description": "随着五角大楼 AI 选边站队事件持续发酵，英伟达宣布撤出对 OpenAI 和 Anthropic 的投资，科技巨头在军事 AI 立场上正式分裂。",
       "url": "https://brighttimesnews.com/nvidia-exits-openai-and-anthropic-bets-as-pentagon-ai-row-splits-big-tech/",
       "publishedAt": "2026-03-08T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-8",
+      "id": "2026-03-08-technology-8",
       "title": "前 DOGE 官员被任命领导五角大楼 AI 工作",
       "description": "五角大楼任命一名前 DOGE（政府效率部）官员主导其人工智能战略工作，此举被视为特朗普政府进一步整合 AI 与军事能力的信号。",
       "url": "https://www.reuters.com/technology/",
       "publishedAt": "2026-03-08T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-9",
+      "id": "2026-03-08-technology-9",
       "title": "KKR 拟以逾 30 亿美元出售数据中心冷却公司 CoolIT Systems",
       "description": "私募巨头 KKR 据报正就旗下数据中心冷却公司 CoolIT Systems 寻求买家，估值可能超过 30 亿美元，折射出 AI 基础设施热潮中数据中心配套需求的激增。",
       "url": "https://www.reuters.com/technology/artificial-intelligence/",
       "publishedAt": "2026-03-08T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-08-10",
+      "id": "2026-03-08-technology-10",
       "title": "谷歌与微软双双声明：将继续为非国防客户提供 Anthropic AI 服务",
       "description": "在 Anthropic 被五角大楼列为供应链风险后，谷歌和微软相继宣布将继续向民用及非国防领域客户提供 Anthropic 旗下 Claude 模型，以稳定商业伙伴关系。",
       "url": "https://yourstory.com/2026/03/microsofts-phi-4-thinks-big-women-in-mining",
       "publishedAt": "2026-03-08T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    }
-  ],
-  "2026-03-07": [
-    {
-      "id": "2026-03-07-1",
-      "title": "**OpenAI 发布 GPT-5.4：最强前沿模型整合推理与编程能力**",
-      "description": "OpenAI 于 3 月 5 日正式推出 GPT-5.4，将推理、编程和智能代理工作流整合为统一系统，并提供标准版和 Thinking 推理版，向 Plus/Team/Pro 用户开放。",
-      "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
-      "publishedAt": "2026-03-07T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-07-2",
-      "title": "**Anthropic 重启五角大楼谈判，同时反击\"供应链风险\"标签**",
-      "description": "Anthropic CEO Dario Amodei 公开道歉并重启与美国军方的 $200M 合同谈判，同时表示将正式抗议五角大楼将其列为\"供应链风险\"的决定。",
-      "url": "https://www.techi.com/anthropic-pentagon-talks-200-million-military-ai-contract/",
-      "publishedAt": "2026-03-07T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-07-3",
-      "title": "**特朗普政府出台严格 AI 采购规则，要求允许\"任何合法\"使用**",
-      "description": "美国政府拟定新规，要求军事 AI 合同中的供应商必须允许其模型被用于任何合法目的，直接与 Anthropic 的使用限制产生冲突。",
-      "url": "https://www.thehindubusinessline.com/info-tech/us-draws-up-strict-ai-guidelines-amid-anthropic-clash-ft-reports/article70714771.ece",
-      "publishedAt": "2026-03-07T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-07-4",
-      "title": "**英伟达停止面向中国市场的 H200 芯片生产**",
-      "description": "受出口管制影响，英伟达已停止为中国市场生产 H200 芯片，并将产能转移至国内，AI 芯片供应格局持续重塑。",
-      "url": "https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-stops-h200-chip-production-anthropic-restarts-talks-with-pentagon-135928945.html",
-      "publishedAt": "2026-03-07T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-07-5",
-      "title": "**苹果发布搭载 M5 芯片的全新 MacBook Air，强化 AI 性能**",
-      "description": "苹果正式推出新款 MacBook Air M5，带来显著性能提升并扩展 AI 功能，进一步巩固其在消费级笔记本市场的领导地位。",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
-      "publishedAt": "2026-03-07T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-07-6",
-      "title": "**中国发布 AI 五年规划，剑指量子计算与人形机器人主导权**",
-      "description": "中国公布全面 AI 五年计划，将 AI 深度融入经济各领域，重点布局量子计算、人形机器人等前沿技术，争夺全球科技主导地位。",
-      "url": "https://quantumzeitgeist.com/china-ai-five-year-plan-2/",
-      "publishedAt": "2026-03-07T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-07-7",
-      "title": "**中国脑机接口技术预计 3-5 年内进入公众实际应用**",
-      "description": "据路透社报道，顶尖脑机接口专家表示，随着产品逐渐成熟，中国 BCI 技术有望在三到五年内正式向公众开放使用。",
-      "url": "https://www.reuters.com/technology/",
-      "publishedAt": "2026-03-07T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-07-8",
-      "title": "**Netflix 收购 Ben Affleck 创立的 AI 电影技术公司 InterPositive**",
-      "description": "Netflix 宣布收购 InterPositive，该公司利用 AI 技术帮助导演基于已拍摄素材构建专属模型，自动化处理复杂制作细节。",
-      "url": "https://www.npr.org/2026/03/06/nx-s1-5739370/netflix-ben-affleck-ai-interpositive-deal",
-      "publishedAt": "2026-03-07T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-07-9",
-      "title": "**Marvell Technology 因 AI 需求强劲，股价单日飙升 11%**",
-      "description": "Marvell 发布强劲季报，AI 芯片及集成电路需求超预期，股价单日上涨 11%，成为本周科技股最大赢家之一。",
-      "url": "https://www.cnbc.com/2026/03/05/stock-market-today-live-updates.html",
-      "publishedAt": "2026-03-07T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-07-10",
-      "title": "**AI Magazine 周度盘点：NVIDIA、Deloitte、OpenAI、Anthropic、PwC 齐亮相**",
-      "description": "AI Magazine 发布本周 Top 5 AI 故事，涵盖数字孪生、机器人技术、沉浸式仿真等从实验走向实际部署的前沿进展。",
-      "url": "https://aimagazine.com/news/top-five-stories-in-ai-march-7",
-      "publishedAt": "2026-03-07T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
@@ -367,121 +123,121 @@
   ],
   "2026-03-06": [
     {
-      "id": "2026-03-06-1",
+      "id": "2026-03-06-technology-1",
       "title": "Samsung 发布 AI 智能眼镜首批细节",
       "description": "三星首次披露其 AI 智能眼镜的规格与发布计划，正式进军可穿戴 AI 硬件市场。",
       "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html",
       "publishedAt": "2026-03-06T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-06-2",
+      "id": "2026-03-06-technology-2",
       "title": "大科技股遭遇 AI 热情退潮，估值承压",
       "description": "投资者对 AI 热潮的态度从狂热转向怀疑，大型科技股高估值面临挑战。",
       "url": "https://www.bloomberg.com/news/articles/2026-03-06/big-tech-stocks-were-expensive-then-the-market-turned-on-ai",
       "publishedAt": "2026-03-06T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-06-3",
+      "id": "2026-03-06-technology-3",
       "title": "OpenAI 发布 GPT-5.4 Pro，声称成为全球最强 AI",
       "description": "OpenAI 推出新一代旗舰模型 GPT-5.4 Pro，在多项基准测试中刷新纪录。",
       "url": "https://scitech.whatfinger.com/2026/03/06/openais-new-gpt-5-4-pro-is-now-the-smartest-ai-in-the-world/",
       "publishedAt": "2026-03-06T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-06-4",
+      "id": "2026-03-06-technology-4",
       "title": "AI Agent 预计成为 2026 年企业最广泛采用的 AI 方案",
       "description": "SAP、NVIDIA 等分析认为，AI 智能体将以\"数字同事\"身份融入企业工作流。",
       "url": "https://roboticsandautomationnews.com/2026/03/06/what-will-be-the-most-widely-adopted-ai-solution-in-2026/99304/",
       "publishedAt": "2026-03-06T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-06-5",
+      "id": "2026-03-06-technology-5",
       "title": "Microsoft 为 Copilot 开发截图工具，提升 AI 辅助准确性",
       "description": "微软正在为 Copilot 内置截图功能，用户可直接发送屏幕截图给 AI 获取更精准帮助。",
       "url": "https://www.ghacks.net/2026/03/06/microsoft-is-building-a-screenshot-tool-for-copilot-to-make-ai-help-more-accurate/",
       "publishedAt": "2026-03-06T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-06-6",
+      "id": "2026-03-06-technology-6",
       "title": "中国 AI 产业产值 2025 年突破 1.2 万亿元",
       "description": "工信部部长李乐成宣布，中国 AI 行业产值达 1.2 万亿元，企业数量超 6200 家。",
       "url": "https://news.cgtn.com/news/2026-03-06/MIIT-minister-Value-of-China-s-AI-industry-hit-1-2-tln-yuan-in-2025-1LhS8mkbWhi/p.html",
       "publishedAt": "2026-03-06T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-06-7",
+      "id": "2026-03-06-technology-7",
       "title": "OpenAI 与美国国防部签署军事 AI 协议，引发伦理争议",
       "description": "OpenAI 达成与五角大楼的机密军事合作协议，AI 在军事领域的应用边界再受关注。",
       "url": "https://www.euronews.com/2026/03/06/watch-the-video-how-is-artificial-intelligence-used-in-warfare-right-now",
       "publishedAt": "2026-03-06T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-06-8",
+      "id": "2026-03-06-technology-8",
       "title": "美国军方在对伊朗空袭中使用最先进 AI 技术，并与 Anthropic 产生嫌隙",
       "description": "美军在 24 小时内打击逾千个目标，使用了前所未有的 AI 辅助作战系统，同时与开发方 Anthropic 关系破裂。",
       "url": "https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/",
       "publishedAt": "2026-03-06T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-06-9",
+      "id": "2026-03-06-technology-9",
       "title": "科罗拉多州立法者提议为医疗 AI 划定红线",
       "description": "新法案拟禁止 AI 冒充心理治疗师，并要求保险拒赔须经人工审核。",
       "url": "https://www.kunc.org/politics/2026-03-06/as-artificial-intelligence-enters-colorados-medical-system-state-lawmakers-propose-some-guardrails",
       "publishedAt": "2026-03-06T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-06-10",
+      "id": "2026-03-06-technology-10",
       "title": "AI 基础设施迎来多项重磅合作与推理性能突破",
       "description": "2026 年 3 月 6 日，AI 基础设施领域见证多个重大合作伙伴关系、推理速度提升与成本优化进展。",
       "url": "https://ai-infra.jimmysong.io/brief/2026-03-06/",
       "publishedAt": "2026-03-06T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
@@ -489,243 +245,121 @@
   ],
   "2026-03-05": [
     {
-      "id": "2026-03-05-1",
+      "id": "2026-03-05-technology-1",
       "title": "阿里巴巴 Qwen 技术负责人突然离职，引发开源社区震动",
       "description": "阿里云 Qwen 主要架构师 Junyang Lin（林俊阳）在 X 上宣布辞任技术负责人，消息震惊开源 AI 社区，阿里股价盘中一度下跌 5.3%。",
       "url": "https://www.bloomberg.com/news/articles/2026-03-04/alibaba-qwen-head-who-warned-of-openai-gap-steps-down",
       "publishedAt": "2026-03-05T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-05-2",
+      "id": "2026-03-05-technology-2",
       "title": "Nvidia 停止向中国出口 H200 芯片，TSMC 产能转向 Vera Rubin",
       "description": "受出口管制升级影响，英伟达已暂停对华 H200 芯片生产，并将台积电产能重新分配给下一代 Vera Rubin AI 芯片。",
       "url": "https://money.usnews.com/investing/news/articles/2026-03-05/nvidia-refocuses-tsmc-capacity-as-export-controls-stall-china-sales-ft-reports",
       "publishedAt": "2026-03-05T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-05-3",
+      "id": "2026-03-05-technology-3",
       "title": "Broadcom Q1 财报超预期，AI 芯片营收翻倍，CEO 预测 AI 营收将超 1000 亿美元",
       "description": "博通第一季度业绩大幅超出预期，AI 相关收入同比翻倍，CEO Hock Tan 称已看到来自 Anthropic、Meta 和 OpenAI 的 1000 亿美元营收机会。",
       "url": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html",
       "publishedAt": "2026-03-05T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-05-4",
+      "id": "2026-03-05-technology-4",
       "title": "Apple 发布搭载 M5 芯片的 MacBook Air，AI 任务速度是 M4 的两倍",
       "description": "苹果正式推出 13 英寸和 15 英寸 MacBook Air M5，M5 芯片在 AI 推理任务上比上代快约 2 倍，起售价 1099 美元，3 月 11 日发货。",
       "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
       "publishedAt": "2026-03-05T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-05-5",
+      "id": "2026-03-05-technology-5",
       "title": "Apple 同步发布 MacBook Pro M5 Pro / M5 Max 版本，AI 性能提升 4 倍",
       "description": "新款 MacBook Pro 搭载 M5 Pro 和 M5 Max 芯片，AI 任务速度比 M4 快最多 4 倍，可同步预购，3 月 11 日起正式发售。",
       "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
       "publishedAt": "2026-03-05T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-05-6",
+      "id": "2026-03-05-technology-6",
       "title": "OpenAI 年化营收突破 250 亿美元",
       "description": "据 The Information 报道，OpenAI 截至 2 月底的年化营收已超过 250 亿美元，继续保持爆发式增长，巩固其在 AI 商业化领域的领先地位。",
       "url": "https://www.reuters.com/technology/artificial-intelligence/",
       "publishedAt": "2026-03-05T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-05-7",
+      "id": "2026-03-05-technology-7",
       "title": "Anthropic 与五角大楼谈判风波：FCC 主席批评其\"走错了路\"",
       "description": "在 Anthropic 被国防部列入限制名单后，OpenAI CEO Sam Altman 宣布 OpenAI 已与国防部达成 AI 使用协议，FCC 主席公开批评 Anthropic 应\"纠正方向\"。",
       "url": "https://www.cnbc.com/2026/03/03/anthropic-pentagon-department-of-defense-ai-fcc-chair.html",
       "publishedAt": "2026-03-05T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-05-8",
+      "id": "2026-03-05-technology-8",
       "title": "Claude Opus 4.6 与 GPT-5.3 Codex 全面对比：前沿模型大战进入新阶段",
       "description": "各主流 AI 模型在 2 月至 3 月初迎来集中爆发：Gemini 3.1 Pro、Claude Opus 4.6、Claude Sonnet 4.6、GPT-5.3 Codex、Grok 4.20 等相继发布，AI 能力竞赛全面升温。",
       "url": "https://llm-stats.com/ai-news",
       "publishedAt": "2026-03-05T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-05-9",
+      "id": "2026-03-05-technology-9",
       "title": "中国推进\"AI+\"国家战略，Nvidia 重组芯片供应链",
       "description": "中国政府大力推进将人工智能嵌入各行各业的\"AI+\"战略，同时 Nvidia 在地缘政治压力下积极调整全球芯片生产布局。",
       "url": "https://techstartups.com/2026/03/05/top-tech-news-today-march-5-2026/",
       "publishedAt": "2026-03-05T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
     },
     {
-      "id": "2026-03-05-10",
+      "id": "2026-03-05-technology-10",
       "title": "约翰斯·霍普金斯研究：AI 可能根本不需要海量训练数据",
       "description": "《Nature Machine Intelligence》最新研究表明，AI 模型在特定任务上仅需少量高质量数据即可达到顶尖性能，对大规模数据收集的传统认知提出挑战。",
       "url": "https://www.sciencedaily.com/releases/2025/12/251228074457.htm",
       "publishedAt": "2026-03-05T09:00:00.000Z",
       "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    }
-  ],
-  "2026-03-04": [
-    {
-      "id": "2026-03-04-1",
-      "title": "Apple 发布搭载 M5 芯片的全新 MacBook Air",
-      "description": "苹果今日正式推出配备 M5 芯片的 MacBook Air，带来更强劲性能与扩展的 AI 能力，成为史上最强大的 MacBook Air。",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
-      "publishedAt": "2026-03-04T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-04-2",
-      "title": "特朗普与科技巨头签署协议：AI 数据中心电费由企业自付",
-      "description": "特朗普政府与微软、谷歌等大型科技公司达成协议，要求企业自行承担 AI 数据中心的电力成本，以回应外界对能源消耗的担忧。",
-      "url": "https://thehill.com/policy/technology/5767824-trump-signs-agreement-with-big-tech-to-cover-data-center-electricity-costs/",
-      "publishedAt": "2026-03-04T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-04-3",
-      "title": "AI 公司高管齐赴白宫，承诺为 AI 能源买单",
-      "description": "多家人工智能公司 CEO 赴华盛顿参加特朗普主持的 AI 圆桌会议，承诺承担 AI 基础设施所需的庞大能源成本。",
-      "url": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html",
-      "publishedAt": "2026-03-04T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-04-4",
-      "title": "Anthropic 因\"五角大楼谈判失误\"遭 FCC 主席批评",
-      "description": "FCC 主席公开批评 Anthropic 在与美国国防部的 AI 合作谈判中\"犯了错误\"，同日 OpenAI CEO 山姆·奥特曼宣布 OpenAI 已与国防部达成协议。",
-      "url": "https://www.cnbc.com/2026/03/03/anthropic-pentagon-department-of-defense-ai-fcc-chair.html",
-      "publishedAt": "2026-03-04T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-04-5",
-      "title": "OpenAI 洽谈在 NATO 非机密网络部署 AI 技术",
-      "description": "据知情人士透露，OpenAI 正在考虑与北约签订合同，将其 AI 技术部署在 NATO 的非机密网络上，进一步拓展军事领域应用。",
-      "url": "https://www.reuters.com/technology/",
-      "publishedAt": "2026-03-04T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-04-6",
-      "title": "阿里巴巴 Qwen 首席技术负责人意外离职",
-      "description": "曾警告阿里与 OpenAI 存在差距的 Qwen 模型架构师突然辞职，消息令开发者社区震动，外界对阿里 AI 战略走向产生疑虑。",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-04/alibaba-qwen-head-who-warned-of-openai-gap-steps-down",
-      "publishedAt": "2026-03-04T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-04-7",
-      "title": "Broadcom 二季度营收展望超预期，AI 定制芯片需求强劲",
-      "description": "芯片巨头博通发布超越华尔街预期的二季度营收指引，显示 AI 数据中心对先进定制芯片的需求持续旺盛。",
-      "url": "https://www.reuters.com/technology/broadcom-forecasts-second-quarter-revenue-above-estimates-2026-03-04/",
-      "publishedAt": "2026-03-04T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-04-8",
-      "title": "OpenAI 估值达 8400 亿美元，完成 1100 亿美元融资",
-      "description": "OpenAI 完成由软银参与的 1100 亿美元融资轮，估值飙升至 8400 亿美元，Anthropic 年化收入也有望达 200 亿美元。",
-      "url": "https://www.reuters.com/technology/openai/",
-      "publishedAt": "2026-03-04T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-04-9",
-      "title": "中国 AI 乐观主义：为何中国没有 AI 末日论者？",
-      "description": "《纽约时报》报道指出，中国政策制定者与公众对 AI 持高度乐观态度，与西方社会对就业冲击和存在风险的普遍担忧形成鲜明对比。",
-      "url": "https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html",
-      "publishedAt": "2026-03-04T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
-      },
-      "category": "technology",
-      "urlToImage": null
-    },
-    {
-      "id": "2026-03-04-10",
-      "title": "Nvidia GTC 2026 即将召开：AI 计算未来的风向标",
-      "description": "Nvidia GTC 2026 大会将于 3 月 16-19 日在圣何塞举行，黄仁勋将聚焦 AI 与加速计算的未来，全球科技界高度关注。 *自动生成于 OpenClaw cron job: daily-tech-news*",
-      "url": "https://www.tipranks.com/news/nvidia-nvda-gtc-2026-is-coming-heres-what-to-expect-from-jensen-huangs-big-ai-event",
-      "publishedAt": "2026-03-04T09:00:00.000Z",
-      "source": {
-        "name": "每日 AI/Tech"
+        "name": "每日综合新闻"
       },
       "category": "technology",
       "urlToImage": null
