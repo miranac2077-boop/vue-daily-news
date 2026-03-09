@@ -1,4 +1,126 @@
 {
+  "2026-03-08": [
+    {
+      "id": "2026-03-08-1",
+      "title": "OpenAI 机器人部门负责人辞职，抗议五角大楼协议",
+      "description": "OpenAI 机器人业务负责人 Caitlin Kalinowski 宣布辞职，理由是担忧 OpenAI 与五角大楼的合作可能导致 AI 技术被用于大规模监控和自主武器。",
+      "url": "https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3",
+      "publishedAt": "2026-03-08T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-08-2",
+      "title": "五角大楼正式将 Anthropic 列为\"供应链风险\"",
+      "description": "美国国防部正式通知 Anthropic，将其列为供应链风险，原因是该公司拒绝向军方开放 AI 技术的无限制使用权，此举将限制其与政府的业务往来。",
+      "url": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
+      "publishedAt": "2026-03-08T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-08-3",
+      "title": "xAI Grok 聊天机器人发布种族歧视内容，X 平台启动调查",
+      "description": "社交媒体平台 X 正在调查 xAI 聊天机器人 Grok 发布种族歧视和攻击性内容的事件，此前 Grok 已获批进入美国军方机密系统。",
+      "url": "https://www.reuters.com/technology/",
+      "publishedAt": "2026-03-08T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-08-4",
+      "title": "OpenAI 修订五角大楼协议，Sam Altman 承认\"处理粗糙\"",
+      "description": "OpenAI 对其与国防部签订的协议进行修订，CEO Sam Altman 公开承认协议最初谈判过程\"显得草率\"，并表示将禁止 AI 技术用于大规模监控或情报机构。",
+      "url": "https://www.theguardian.com/technology/2026/mar/03/openai-pentagon-ceo-sam-altman-chatgpt",
+      "publishedAt": "2026-03-08T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-08-5",
+      "title": "Broadcom CEO 预测 AI 芯片营收 2027 年将突破 1000 亿美元",
+      "description": "Broadcom 首席执行官 Hock Tan 表示，公司定制 AI 芯片销售额预计明年超过 1000 亿美元，定制芯片需求激增正在挑战英伟达在 AI 芯片市场的主导地位。",
+      "url": "https://www.reuters.com/technology/broadcom-forecasts-second-quarter-revenue-above-estimates-2026-03-04/",
+      "publishedAt": "2026-03-08T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-08-6",
+      "title": "OpenAI 发布 GPT-5.4，支持复杂推理与长上下文任务",
+      "description": "OpenAI 本周推出最新旗舰模型 GPT-5.4，专为复杂推理、专业工作流和长上下文任务设计，原生支持图像处理，智能体能力从实验性迈向生产就绪。",
+      "url": "https://techstartups.com/2026/03/06/this-week-in-ai-the-biggest-ai-news-breakthroughs-and-power-moves/",
+      "publishedAt": "2026-03-08T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-08-7",
+      "title": "英伟达撤出 OpenAI 与 Anthropic 投资，五角大楼 AI 争端撕裂科技巨头",
+      "description": "随着五角大楼 AI 选边站队事件持续发酵，英伟达宣布撤出对 OpenAI 和 Anthropic 的投资，科技巨头在军事 AI 立场上正式分裂。",
+      "url": "https://brighttimesnews.com/nvidia-exits-openai-and-anthropic-bets-as-pentagon-ai-row-splits-big-tech/",
+      "publishedAt": "2026-03-08T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-08-8",
+      "title": "前 DOGE 官员被任命领导五角大楼 AI 工作",
+      "description": "五角大楼任命一名前 DOGE（政府效率部）官员主导其人工智能战略工作，此举被视为特朗普政府进一步整合 AI 与军事能力的信号。",
+      "url": "https://www.reuters.com/technology/",
+      "publishedAt": "2026-03-08T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-08-9",
+      "title": "KKR 拟以逾 30 亿美元出售数据中心冷却公司 CoolIT Systems",
+      "description": "私募巨头 KKR 据报正就旗下数据中心冷却公司 CoolIT Systems 寻求买家，估值可能超过 30 亿美元，折射出 AI 基础设施热潮中数据中心配套需求的激增。",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "publishedAt": "2026-03-08T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-08-10",
+      "title": "谷歌与微软双双声明：将继续为非国防客户提供 Anthropic AI 服务",
+      "description": "在 Anthropic 被五角大楼列为供应链风险后，谷歌和微软相继宣布将继续向民用及非国防领域客户提供 Anthropic 旗下 Claude 模型，以稳定商业伙伴关系。",
+      "url": "https://yourstory.com/2026/03/microsofts-phi-4-thinks-big-women-in-mining",
+      "publishedAt": "2026-03-08T09:00:00.000Z",
+      "source": {
+        "name": "每日 AI/Tech"
+      },
+      "category": "technology",
+      "urlToImage": null
+    }
+  ],
   "2026-03-07": [
     {
       "id": "2026-03-07-1",
