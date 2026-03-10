@@ -1,4 +1,486 @@
 {
+  "2026-03-10": [
+    {
+      "id": "2026-03-10-technology-1",
+      "title": "Anthropic起诉美国政府，反对五角大楼未经授权使用其AI",
+      "description": "Anthropic就特朗普政府在军方强制使用其AI技术一事诉诸法律，美企与政府AI控制权博弈升温。",
+      "url": "https://fortune.com/2026/03/10/anthropic-takes-the-fight-to-court-but-trump-may-be-planning-a-new-order/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-technology-2",
+      "title": "前Meta AI负责人Yann LeCun创办AMI Labs，估值35亿美元",
+      "description": "LeCun离开Meta一个月后创立Advanced Machine Intelligence Labs，已融资逾10亿美元，团队仅十余人。",
+      "url": "https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-technology-3",
+      "title": "Anthropic发布Claude Code多智能体代码审查功能",
+      "description": "新系统可自动分析AI生成代码、标记逻辑错误，助力企业开发者管理激增的代码量。",
+      "url": "https://llm-stats.com/ai-news",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-technology-4",
+      "title": "Qualcomm与英国自动驾驶初创Wayve达成AI合作",
+      "description": "双方联合开发集成AI系统，帮助汽车厂商快速部署高级驾驶辅助与自动驾驶功能。",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-technology-5",
+      "title": "Jack Dorsey旗下Block裁员40%，科技公司AI裁员潮持续",
+      "description": "2026年3月AI驱动的结构性裁员浪潮蔓延，波及高技能岗位，美国尤为严重。",
+      "url": "https://opentools.ai/news",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-technology-6",
+      "title": "中国新五年规划：全面推进AI经济、量子计算与人形机器人",
+      "description": "中国政府蓝图提出在第二大经济体中激进部署AI，并主导量子计算等前沿科技。",
+      "url": "https://www.reuters.com/world/asia-pacific/china-vows-accelerate-technological-self-reliance-ai-push-2026-03-05/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-technology-7",
+      "title": "Apple全新AI驱动版Siri将于2026年正式亮相",
+      "description": "苹果宣布推出具备\"屏幕感知\"能力的上下文感知Siri，彻底重塑语音助手体验。",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-technology-8",
+      "title": "Gartner预测2026年全球AI支出达2.5万亿美元，同比增长44%",
+      "description": "云计算、高端芯片和软件企业有望从这一历史性AI投资浪潮中受益最多。",
+      "url": "https://www.fool.com/investing/2026/03/04/ai-spending-25-trillion-2026-3-stocks-benefit/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-technology-9",
+      "title": "NVIDIA发布2026年AI年度报告：各行业营收与效率双双提升",
+      "description": "NVIDIA《AI现状》报告揭示AI如何在医疗、制造、金融等领域驱动实质性ROI提升。",
+      "url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-technology-10",
+      "title": "万名作家联署抵制AI版权侵权，加入\"空书\"抗议活动",
+      "description": "石黑一雄、菲利帕·格雷戈里等约1万名作家加入版权运动，出版\"空书\"抗议AI未授权使用其作品。",
+      "url": "https://www.theguardian.com/technology/artificialintelligenceai/2026/mar/10/all",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-business-1",
+      "title": "WTI原油价格单日暴跌逾9%，接连跌破多个整数关口",
+      "description": "受中东战事及供应过剩担忧影响，国际原油市场剧烈震荡，布伦特原油同步大幅下挫。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-10/doc-inhqmyta0290158.shtml",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-business-2",
+      "title": "特朗普被曝在网飞与派拉蒙竞购华纳期间买入逾110万美元网飞债券",
+      "description": "美国政府文件显示特朗普于竞购白热化阶段分四笔购入网飞债券，存在明显利益冲突争议。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-10/doc-inhqmytc6459144.shtml",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-business-3",
+      "title": "德国总理默茨访华，中德达成十余项涉汽车、能源等领域商业协议",
+      "description": "双边经贸合作成果丰硕，涵盖汽车、机械、能源、物流、金融等核心产业。",
+      "url": "https://www.nbd.com.cn/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-business-4",
+      "title": "AI数据中心3万亿美元建设潮：融资困局与私募市场承压",
+      "description": "全球AI基础设施投资爆发，Bloomberg报道私募市场在零售资金涌入背景下面临严峻考验。",
+      "url": "https://www.bloomberg.com/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-business-5",
+      "title": "非农就业数据2月负增长9.2万人，美国就业市场现警示信号",
+      "description": "美国劳工部公布2月非农数据大幅低于预期，分析师警告AI结构性失业影响已开始显现。",
+      "url": "https://cn.investing.com/news/latest-news",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-business-6",
+      "title": "蔚来CFO：铜与碳酸锂涨价给全年毛利率带来巨大压力",
+      "description": "蔚来维持全年40~50%增长目标，并坚持全年NON-GAAP口径实现盈利。",
+      "url": "https://www.10jqka.com.cn/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-business-7",
+      "title": "Lumentum被纳入S&P 500指数，英伟达战略投资20亿美元",
+      "description": "受指数纳入及英伟达AI数据中心光学采购协议双重利好，Lumentum股价单日大涨逾11%。",
+      "url": "https://cj.sina.cn/articles/view/7857201856/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-business-8",
+      "title": "黄金价格与强势美元博弈，中东危机推升避险需求",
+      "description": "分析师预计在中东局势持续动荡背景下金价仍具上行支撑，但美元走强形成压制。",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-business-9",
+      "title": "Jim Cramer谈Investing Club下一步动作，私募信贷风险引发关注",
+      "description": "Boaz Weinstein警告私募信贷存在\"金融炼金术\"风险，问题正在加速累积。",
+      "url": "https://www.cnbc.com/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-business-10",
+      "title": "霍尔木兹海峡近乎瘫痪，华尔街紧盯全球供应链噩梦",
+      "description": "随着中东战火蔓延至关键能源通道，全球石油供应风险急剧上升，市场情绪高度紧张。",
+      "url": "https://cn.investing.com/news/latest-news",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-sports-1",
+      "title": "2026世界棒球经典赛：美国vs意大利今日决定出线，日本同组激战",
+      "description": "世界棒球经典赛小组赛收官日，美国与意大利等强队争夺四分之一决赛席位。",
+      "url": "https://www.usatoday.com/story/sports/mlb/wbc/2026/03/10/world-baseball-classic-live-scores-today-japan-usa-march-10/89065730007/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-sports-2",
+      "title": "NFL自由球员市场开放：今日启动法律接触期，多位明星球员待价而沽",
+      "description": "2026赛季NFL自由市场3月10日正式启动，球队可开始与球员接触谈判，12日新赛季年正式生效。",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-free-agency-tracker-updates/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-sports-3",
+      "title": "巴塞罗那主席选举：Laporta与Font激烈交锋，双方互掷个人指控",
+      "description": "巴萨主席选举辩论火药味十足，现任主席拉波尔塔与挑战者方特爆发激烈言语冲突。",
+      "url": "https://sports.yahoo.com/articles/fc-barcelona-news-10-march-100000902.html",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-sports-4",
+      "title": "加拿大vs波多黎各：世界棒球经典赛今日赛程直播指南",
+      "description": "2026世棒赛继续在圣胡安比塔科恩球场上演，加拿大迎战东道主波多黎各。",
+      "url": "https://eu.usatoday.com/story/sports/mlb/2026/03/10/how-to-watch-canada-vs-puerto-rico-march-10/89065757007/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-sports-5",
+      "title": "意甲：拉齐奥主场迎战萨索洛，蓝鹰冀终结连败颓势",
+      "description": "拉齐奥近期状态低迷，萨索洛势头正盛，双方3月10日凌晨在罗马奥林匹克球场展开对决。",
+      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801m8wg.html",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-sports-6",
+      "title": "亚历山大创历史：连续126场20+追平张伯伦63年记录，制胜三分帮雷霆险胜掘金",
+      "description": "雷霆小将谢-吉尔吉斯·亚历山大追平NBA历史纪录，单场贡献35分9篮板15助攻。",
+      "url": "https://sports.163.com/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-sports-7",
+      "title": "阿根廷国家队确认3月12日工人体育场举办2026世界杯发布会",
+      "description": "梅西率领的阿根廷队将在北京工体亮相，为年中世界杯进行预热宣传。",
+      "url": "https://sports.163.com/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-sports-8",
+      "title": "2026世棒经典赛今日完整赛程：比赛时间、转播频道与直播方式",
+      "description": "美国今日赛事时间表涵盖多场重头戏，USA Today提供全面赛程指引。",
+      "url": "https://eu.usatoday.com/story/sports/mlb/2026/03/10/world-baseball-classic-games-today-schedule-times-tv-march-10/89066886007/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-sports-9",
+      "title": "2026 NFL自由球员市场：首日结束后十大剩余明星球员盘点",
+      "description": "部分顶级自由球员已迅速找到新东家，CBS Sports梳理仍待签约的高价值球员名单。",
+      "url": "https://www.cbssports.com/nfl/news/top-10-remaining-2026-nfl-free-agents-march-9/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-sports-10",
+      "title": "全国人大代表水庆霞：希望中国足球让赢球成为习惯",
+      "description": "前中国女足主教练、人大代表水庆霞在两会期间呼吁大力发展中国足球，提升整体竞技水平。",
+      "url": "https://sports.163.com/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-war-1",
+      "title": "赫格塞斯：今日将是对伊朗政权开战以来\"最猛烈的一天\"",
+      "description": "美国防长赫格塞斯宣布3月10日将对伊朗发动开战11天来最密集的空袭，以色列同步在黎巴嫩、伊朗实施打击。",
+      "url": "https://www.theguardian.com/world/live/2026/mar/10/iran-war-live-updates",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-war-2",
+      "title": "美军用鱼雷击沉伊朗军舰，特朗普称战事\"很快\"结束",
+      "description": "美国防长证实美军在印度洋以鱼雷击沉一艘伊朗军舰，特朗普表示战争将在\"本周后\"结束。",
+      "url": "https://www.bbc.com/news/videos/cx2g4l8mlgzo",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-war-3",
+      "title": "美以出现\"首次重大分歧\"：以色列打击伊朗燃料设施超出美方预期",
+      "description": "以色列3月8日发动远超美国预期的空袭，华盛顿强烈不满，双方战略目标出现明显裂痕。",
+      "url": "https://news.sina.com.cn/zx/ds/2026-03-10/doc-inhqmysw6435079.shtml",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-war-4",
+      "title": "伊朗向以色列发射四轮导弹，约半数携带集束弹头",
+      "description": "以色列国防军评估，伊朗在本轮冲突中发射的导弹约有一半装有集束炸弹战斗部。",
+      "url": "https://www.timesofisrael.com/liveblog-march-10-2026/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-war-5",
+      "title": "美国参议院战争授权投票失败，特朗普获授权继续对伊军事打击",
+      "description": "国会阻止战争权力决议未获通过，特朗普政府的伊朗军事行动在法律层面得以延续。",
+      "url": "https://www.cnbc.com/2026/03/04/us-iran-war-live-updates.html",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-war-6",
+      "title": "俄罗斯用无人机与导弹袭击乌克兰哈尔科夫，至少10人遇难含2名儿童",
+      "description": "俄军对乌克兰第二大城市哈尔科夫发动混合打击，造成平民重大伤亡。",
+      "url": "https://www.reuters.com/world/ukraine-russia-war/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-war-7",
+      "title": "乌克兰战场综述（3月10日）：双方备战夏季攻势，后勤将决定成败",
+      "description": "前线局势相对胶着，分析人士认为双方均在积极囤积弹药与兵力，为夏季大规模行动做准备。",
+      "url": "https://news-pravda.com/world/2026/03/10/2143811.html",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-war-8",
+      "title": "日本针对中国部署射程1000公里导弹，可覆盖中国沿海城市",
+      "description": "日本宣布部署远程对地打击导弹，引发中方强烈反应，中国海军要求日方严格约束一线行动。",
+      "url": "https://www.bilibili.com/video/BV1WiPozfE5f/",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-war-9",
+      "title": "中国外交部：特使翟隽赴中东斡旋，推动立即停止军事冲突",
+      "description": "外交部发言人郭嘉昆表示，中方正积极推动各方重回谈判轨道，并将及时发布特使访问进展。",
+      "url": "https://www.mfa.gov.cn/fyrbt_673021/202603/t20260310_11872097.shtml",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-10-war-10",
+      "title": "霍尔木兹海峡陷入瘫痪，俄罗斯专家：全球能源危机已现端倪",
+      "description": "随着中东战局升级，全球最重要的石油运输通道遭到严重威胁，俄专家认为俄方石油出口或可稳定市场。",
+      "url": "https://sputniknews.cn/20260310/1070151226.html",
+      "publishedAt": "2026-03-10T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    }
+  ],
   "2026-03-09": [
     {
       "id": "2026-03-09-technology-1",
