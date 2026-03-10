@@ -1,0 +1,15 @@
+[extend]
+useDefault = true
+
+[[rules]]
+id = "custom-env-var-default"
+description = "Detect secrets used as default values in process.env fallback"
+regex = '''process\.env\.[A-Z_]+ \|\| ['"][a-zA-Z0-9_\-]{20,}['"]'''
+tags = ["secret", "env", "default-value"]
+
+[allowlist]
+description = "Allowlist for known false positives"
+paths = [
+  '''\.env\.example''',
+  '''\.env\.sample''',
+]
