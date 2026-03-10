@@ -262,7 +262,8 @@ function main() {
 
   // Deploy to Vercel
   try {
-    const vercelToken = process.env.VERCEL_TOKEN || 'vcp_6e9fGXNwQ3DMvXU0Oz6JSlYKpm58JIuKZuyAHYObgjHIByFnkn2c6x5v'
+    const vercelToken = process.env.VERCEL_TOKEN
+    if (!vercelToken) throw new Error('VERCEL_TOKEN env var is required')
     execSync(`vercel --prod --yes --token "${vercelToken}"`, {
       cwd: PROJECT_ROOT,
       env: { ...process.env, VERCEL_TOKEN: vercelToken },
