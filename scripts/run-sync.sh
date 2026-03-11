@@ -2,7 +2,11 @@
 # Wrapper script for cron: load env and run sync-news.mjs
 # Cron doesn't load .zshrc, so we set required env vars here
 
-export VERCEL_TOKEN="vcp_6e9fGXNwQ3DMvXU0Oz6JSlYKpm58JIuKZuyAHYObgjHIByFnkn2c6x5v"
+# VERCEL_TOKEN must be set in the launchd plist (EnvironmentVariables), NOT here
+if [ -z "$VERCEL_TOKEN" ]; then
+  echo "ERROR: VERCEL_TOKEN is not set. Configure it in the launchd plist." >&2
+  exit 1
+fi
 export PATH="/usr/local/bin:/opt/homebrew/bin:/Users/dreambot/.nvm/versions/node/v22.22.0/bin:$PATH"
 
 LOGFILE="/Users/dreambot/Projects/vue-daily-news/scripts/sync.log"
