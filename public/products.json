@@ -1,4 +1,79 @@
 {
+  "2026-03-10": {
+    "insight": "> AI 已从\"能力竞争\"全面转向\"工作流基础设施\"——Claude Code Review 把 agent 塞进 SDLC，NemoClaw 把 agent 推向企业内网，GPT-5.4 统一 Agentic 入口；下一个 PMF 战场不在模型本身，在谁先把 agent 嵌入用户不可分割的日常工作流。 *由 Linda AI 自动生成 | 信息来源：TechCrunch / Wired / Anthropic Blog / OpenAI Blog / CNBC / Bloomberg / Reuters / There's An AI For That*",
+    "products": [
+      {
+        "id": "2026-03-10-1",
+        "title": "Claude Code Review",
+        "score": 91,
+        "description": "产品描述： Anthropic 今日上线 Code Review 功能：向每个 PR 派遣并行 AI agent 团队，深度检测 Bug、逻辑错误、安全漏洞——不是 skim，是真正的 deep review。",
+        "team": "Anthropic（$18B 估值，OpenAI 前核心团队创立）",
+        "popularity": "TechCrunch / Wired / Dataconomy 等多家头部媒体同日报道；内部数据：84% 大型 PR 有发现，平均揪出 7.5 个问题，<1% 误报率",
+        "url": "https://claude.com/blog/code-review",
+        "opinion": "ROI 逻辑极度闭合——AI 写代码量 +200%，review 已成瓶颈，这是把 Claude Code 从\"写代码工具\"升级为\"全 SDLC 基础设施\"的关键一步。Team/Enterprise 用户的 Retention 抓手。Engineering 实现上 multi-agent parallel dispatch 难度不低，但 Anthropic 内部已跑了几个月，上线即成熟。",
+        "publishedAt": "2026-03-10T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-10-2",
+        "title": "GPT-5.4",
+        "score": 88,
+        "description": "产品描述： OpenAI 3 月 5 日发布迄今最强 frontier 模型：推理 + 编程 + Agentic 三合一，1M token context，原生 computer use，统一替代 O1/O3 + Codex 的碎片化体验。",
+        "team": "OpenAI（$157B 估值）",
+        "popularity": "The Verge / Gizmodo / Deeper Insights 全覆盖；SWE-Bench Pro 57.7%；OSWorld 75%；比上代 token 效率提升 47%",
+        "url": "https://openai.com/index/introducing-gpt-5-4/",
+        "opinion": "合并 SKU 是正确的 Product 决策，用户选择疲劳一直是 OpenAI 的隐性 Churn 原因。1M context + computer use 打开了全新的 Agent workflow 市场，但 $2.50/M input 价格能否守住面对 DeepSeek V3.2 的 $0.28/M 竞争压力，是接下来的关键验证点。",
+        "publishedAt": "2026-03-10T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-10-3",
+        "title": "AMI Labs (Advanced Machine Intelligence)",
+        "score": 85,
+        "description": "产品描述： Yann LeCun 今日官宣：旗下 AMI Labs 完成 $1.03B 融资，估值 $3.5B，方向是\"世界模型\"——让 AI 真正理解物理世界，超越 LLM 的 token prediction 范式。",
+        "team": "Yann LeCun（前 Meta 首席 AI 科学家）+ Saining Xie（CSO）+ Meta 欧洲 VP Laurent Solly（COO）；顶级研究团队",
+        "popularity": "Bloomberg / Reuters / NYT / TechCrunch 今日同步报道，$3.5B 预估值",
+        "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+        "opinion": "$1B seed 轮的底气来自 LeCun 的学术信用背书，但\"世界模型\"从 Research 到 Product 的路径目前没有 PMF 数据支撑。市场时机判断：Fei-Fei Li 的 World Labs 已先行，赛道拥挤。值得持续追踪，但短期内不是能验证 ROI 的产品方向。",
+        "publishedAt": "2026-03-10T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-10-4",
+        "title": "Nvidia NemoClaw",
+        "score": 82,
+        "description": "产品描述： Nvidia 即将在 GTC 2026（3 月 15 日）正式发布 NemoClaw：面向企业的开源 AI agent 平台，允许企业为自己的员工部署专属 AI agent 工作流，无需依赖单一云厂商。",
+        "team": "Nvidia（$3.3T 市值）——芯片生态向软件层的战略延伸",
+        "popularity": "CNBC / Wired / Techloy 今日报道；GTC 2026 期间预计数十万开发者关注",
+        "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+        "opinion": "Nvidia 的真实意图是把 GPU 算力消耗锁定在企业侧 Agent 工作流——开源是获客策略，不是公益。对于 toB AI 工具赛道的创业公司，这是重大竞争威胁信号；对开发者生态，这是短期红利窗口。",
+        "publishedAt": "2026-03-10T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-10-5",
+        "title": "MicroClipz v1.1",
+        "score": 74,
+        "description": "产品描述： AI 视频生成工具大更新：新增 Video-to-Video 编辑、Nano Banana Pro 图像生成（生成起始/结束帧）、Multi-Shot 合成——一站式覆盖从图/文 prompt 到完整视频 clip 的全流程。",
+        "team": "独立开发者 Ryan Pinkall（3 个已上线工具）",
+        "popularity": "There's An AI For That 平台 4,350+ saves；今日更新版本发布",
+        "url": "https://microclipzai.studio/",
+        "opinion": "功能迭代节奏快，Video+Image Gen 组合在 toC 创作者市场有真实需求。但独立开发者背景 + 无融资背书意味着可持续性风险高。如果 Retention D7 数据好看，值得作为\"小而美 toC AI 工具\"的 benchmark 案例研究。",
+        "publishedAt": "2026-03-10T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      }
+    ]
+  },
   "2026-03-09": {
     "insight": "大模型头部玩家（OpenAI GPT-5.4 + Anthropic Cowork 定时任务）正在将 \"AI\" 从对话工具升级为 \"自主执行 + 长期驻留\" 的 Agent 基础设施，2026 年的竞争焦点已从模型能力转向 **Agentic Stickiness**。",
     "products": [
