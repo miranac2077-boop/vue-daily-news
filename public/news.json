@@ -1,4 +1,486 @@
 {
+  "2026-03-11": [
+    {
+      "id": "2026-03-11-technology-1",
+      "title": "Uber与Zoox达成多年合作，机器人出租车登上打车平台",
+      "description": "Uber宣布与亚马逊旗下自动驾驶公司Zoox签署多年合作协议，将Zoox专属无人驾驶机器人出租车接入其平台，是Zoox首次与第三方打车服务合作。",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-technology-2",
+      "title": "NVIDIA GTC 2026大会今日开幕，Jensen Huang现场演讲",
+      "description": "NVIDIA年度GPU技术大会于3月11日上午在SAP中心开幕，CEO黄仁勋将发表主题演讲，聚焦AI加速计算与\"永远在线\"AI助手的最新进展。",
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-technology-3",
+      "title": "Apple宣布2026年推出全面重构的AI版Siri",
+      "description": "苹果正式宣布将在2026年推出全新AI驱动的Siri，具备\"屏幕感知\"能力，能理解上下文并主动完成复杂任务，是Siri历史上最大规模升级。",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-technology-4",
+      "title": "3月AI模型爆发周：12款以上新模型同时发布",
+      "description": "本月第一周内，超过12款AI模型密集发布，涵盖视频生成、3D建模和语言理解领域，其中包括基于Wan视频基础模型训练的新一代视频生成系统。",
+      "url": "https://www.sci-tech-today.com/news/march-2026-ai-models-avalanche/",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-technology-5",
+      "title": "英伟达股价获AI企业软件平台乐观预期支撑上涨",
+      "description": "英伟达前一交易日收高，市场对其持续扩大的企业AI软件平台充满乐观情绪，分析师警告$6300亿市值调整风险仍在发酵。",
+      "url": "https://www.fool.com/investing/2026/03/10/top-5-unstoppable-ai-stocks-to-buy-for-2026/",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-technology-6",
+      "title": "GPT-5进展与Google Gemini新模型引领AI三月攻势",
+      "description": "研究汇总指出3月是AI突破密集期，GPT-5功能持续完善，谷歌Gemini系列新版本发布，企业AI工具全面铺开。",
+      "url": "https://www.devflokers.com/blog/ai-breakthroughs-march-2026",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-technology-7",
+      "title": "特朗普召集AI高管入白宫，科技巨头承诺为AI买单",
+      "description": "美国总统特朗普邀请各大AI公司高管赴华盛顿开会，各公司承诺自掏腰包承担AI所需的天文数字能源成本，以推进技术落地。",
+      "url": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-technology-8",
+      "title": "Cognizant研究：AI\"即插即用\"是神话，企业更依赖IT服务商",
+      "description": "Cognizant最新报告显示，大多数企业在推进AI落地时更倾向于借助专业IT服务公司主导，纯自助式AI部署神话已被打破。",
+      "url": "https://news.cognizant.com/2026-03-10-Cognizant-Research-Shows-Plug-and-Play-AI-is-a-Myth",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-technology-9",
+      "title": "医疗AI监管严重滞后，FDA寻求制定面向未来的AI政策框架",
+      "description": "HIMSS 2026大会上，FDA高层表示医疗AI监管面临\"高度不稳定\"挑战，正积极探索能够随技术演进自我调整的监管框架。",
+      "url": "https://www.healthcaredive.com/news/ai-advancement-healthcare-regulation-himss-2026/814268/",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-technology-10",
+      "title": "英特尔CEO预警：内存价格暴涨或将持续至2028年",
+      "description": "英特尔CEO在投资者沟通中指出，存储芯片供需紧张局面将持续相当长时间，内存价格暴涨周期可能延续至2028年，引发科技供应链广泛关注。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-11/doc-inhqqcsc5849233.shtml",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-business-1",
+      "title": "美国2月CPI数据出炉：通胀在美伊战争前夕已趋稳",
+      "description": "美国2月消费者价格指数公布，数据显示战争爆发前通胀已相对平稳，但油价因中东局势上涨预计将推动3月通胀继续走高。",
+      "url": "https://www.nytimes.com/live/2026/03/11/business/inflation-report-cpi",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-business-2",
+      "title": "路透早评：市场情绪从恐慌转向观望",
+      "description": "路透社市场早评指出，全球投资者心态正从战争初期的恐慌逐渐转向耐心等待，但中东紧张局势和油价波动仍是核心不确定因素。",
+      "url": "https://www.reuters.com/business/finance/global-markets-view-usa-2026-03-11/",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-business-3",
+      "title": "印度股市崩跌：Nifty50大跌，BSE Sensex暴泻1342点",
+      "description": "受美伊战争持续升温影响，印度Nifty50和BSE Sensex指数今日大幅下挫逾1%，地缘政治紧张情绪主导市场走向。",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-11-2026-dalal-street-indian-equities-global-markets-us-iran-war-donald-trump/articleshow/129433887.cms",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-business-4",
+      "title": "力拓集团阿根廷碳酸锂项目首批货物正式发货",
+      "description": "力拓集团宣布其阿根廷萨尔塔省林孔项目产出首批碳酸锂，200吨货物已从布宜诺斯艾利斯港启运发往亚洲，计划2028年起年产能提升至5.3万吨。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-11/doc-inhqqcsc5849233.shtml",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-business-5",
+      "title": "A股三大指数收涨，储能锂矿化工板块领涨",
+      "description": "3月11日A股三大指数集体收涨，储能、锂矿、绿电概念活跃，化工板块受国际油价支撑强势，但创业板指冲高回落，全市场逾3200只个股收跌。",
+      "url": "https://news.sina.com.cn/zx/ds/2026-03-11/doc-inhqrmmh5472104.shtml",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-business-6",
+      "title": "中国1-2月货物贸易进出口同比增长18.3%",
+      "description": "海关总署数据显示，2026年前两个月我国货物贸易进出口总值达7.73万亿元，同比增长18.3%，出口4.62万亿元，贸易开局强劲。",
+      "url": "http://news.10jqka.com.cn/",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-business-7",
+      "title": "全国政协闭幕：人民币国际化与CIPS发展被列入重点任务",
+      "description": "全国政协十四届四次会议3月11日上午举行闭幕会，习近平出席；年度政府工作报告将\"扩大人民币跨境使用\"写入重点任务，为金融改革指引方向。",
+      "url": "https://finance.sina.com.cn/stock/y/2026-03-11/doc-inhqqixx9600116.shtml",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-business-8",
+      "title": "黄金价格震荡：期货下跌但实物金价各地走高",
+      "description": "受战争形势持续扰动，黄金期货价格走势分化，国内期货市场小幅回落，但德里、孟买等主要城市实物黄金零售价仍在上涨。",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-march-11-2026-check-gold-rate-in-in-delhi-mumbai-chennai-kolkata-hyderabad-bangalore-ahmedabad-lucknow-patna/articleshow/129453172.cms",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-business-9",
+      "title": "中概股集体上涨，阿里巴巴涨3.17%，英伟达领衔美股成交榜",
+      "description": "3月11日中概股整体走强，阿里巴巴涨3.17%；英伟达连续蝉联美股成交额榜首，收高1.16%，成交额328亿美元。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-11/doc-inhqqcsc5849233.shtml",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-business-10",
+      "title": "国际油价暴跌近20%后反弹，市场多空博弈激烈",
+      "description": "中东战争引发国际油价剧烈波动，此前一度暴跌近20%后迅速反弹，欧洲股市随之大幅反攻，市场对霍尔木兹海峡局势持续保持高度警惕。",
+      "url": "https://finance.ifeng.com/",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-sports-1",
+      "title": "2026世界棒球经典赛火热开打，多场强强对决今日上演",
+      "description": "2026年世界棒球经典赛（WBC）继续进行，今日看点包括加拿大对阵古巴、多米尼加对阵委内瑞拉，大谷翔平领衔的群星阵容备受瞩目。",
+      "url": "https://www.usatoday.com/story/sports/mlb/2026/03/11/world-baseball-classic-games-today-schedule-times-tv-march-11/89082352007/",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-sports-2",
+      "title": "NBA今日焦点战：克利夫兰骑士客战奥兰多魔术",
+      "description": "NBA常规赛今日赛程，骑士将于美东时间晚7:30挑战魔术，ESPN全程直播；湖人昨日由东契奇砍下31分三双击败森林狼。",
+      "url": "https://www.usatoday.com/story/sports/nba/2026/03/11/nba-games-today-schedule-times-tv-march-11/89096009007/",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-sports-3",
+      "title": "阿德巴约单场83分超科比，热火迎来6连胜",
+      "description": "热火队中锋阿德巴约在最近一场比赛中拿下83分，打破科比·布莱恩特的纪录，成为历史第二，热火队也乘胜完成6连胜。",
+      "url": "https://sports.163.com/",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-sports-4",
+      "title": "欧冠八强战：巴塞罗那客场1-0击败纽卡斯尔，亚马尔传射建功",
+      "description": "欧冠1/8决赛首回合，巴塞罗那拉明·亚马尔在圣詹姆斯公园球场打入点球，巴萨客场1-0击败纽卡斯尔，占据晋级优势。",
+      "url": "https://sports.yahoo.com/articles/fc-barcelona-news-11-march-100000263.html",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-sports-5",
+      "title": "欧冠焦点战：亚特兰大主场迎战拜仁慕尼黑，诺伊尔因伤缺席",
+      "description": "欧冠1/8决赛首回合，意甲独苗亚特兰大主场迎战卫冕冠军拜仁慕尼黑，拜仁门将诺伊尔因伤缺席，防线面临考验。",
+      "url": "https://cj.sina.com.cn/articles/view/7879995911/1d5af320706801mbc2",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-sports-6",
+      "title": "王曼昱WTT重庆冠军赛爆冷0-3不敌日本选手，终结六年不败纪录",
+      "description": "中国乒乓球女将王曼昱在WTT重庆冠军赛中0-3负于日本选手，终结了对日长达六年的不败纪录，场外指导马琳的临场决策引发争议。",
+      "url": "https://news.sina.com.cn/zx/ds/2026-03-11/doc-inhqqcrw5837496.shtml",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-sports-7",
+      "title": "樊振东归队悬而未决，王励勤表示尊重个人规划",
+      "description": "前国乒主力樊振东的归队问题仍无定论，国乒教练王励勤表示尊重其个人规划，大杨扬则呼吁外界以开放心态看待运动员职业发展。",
+      "url": "https://news.sina.com.cn/zx/ds/2026-03-11/doc-inhqqcrw5837496.shtml",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-sports-8",
+      "title": "NFL自由市场：爱国者签下三年合约锁定Alijah Vera-Tucker",
+      "description": "新英格兰爱国者队与进攻线锋Alijah Vera-Tucker签下一份三年合约，同时WR Tyquan Thornton以2年1100万美元加盟堪萨斯城酋长队。",
+      "url": "http://www.espn.com/espn/latestnews",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-sports-9",
+      "title": "NBA太阳挑战雄鹿，欧冠多场焦点战今夜打响",
+      "description": "今日体育看点密集：NBA太阳对阵雄鹿，欧冠亚特兰大主场战拜仁；体育迷将迎来观赛高峰夜。",
+      "url": "https://cj.sina.com.cn/articles/view/7879995911/1d5af320706801mbg4",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-sports-10",
+      "title": "世界棒球经典赛：日本谋求卫冕，多支强队本届零败战绩登场",
+      "description": "三届WBC冠军日本队带着上届不败纪录强势回归，本届将面对来自美洲和亚洲的强力挑战者，赛程正逐步进入白热化阶段。",
+      "url": "https://eu.usatoday.com/story/sports/mlb/2026/03/11/world-baseball-classic-games-today-schedule-times-tv-march-11/89082352007/",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-war-1",
+      "title": "美军摧毁16艘伊朗布雷船只，特朗普警告禁止在霍尔木兹海峡布雷",
+      "description": "美军宣布已摧毁16艘伊朗在霍尔木兹海峡附近的布雷舰艇；特朗普同时宣布伊朗民用港口可能成为军事打击目标，局势持续升温。",
+      "url": "https://www.moneycontrol.com/world/us-iran-israel-war-news-live-updates-11th-march-2026-liveblog-13856519.html",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-war-2",
+      "title": "今日霍尔木兹海峡3艘船只遭不明弹药击中，战争累计14艘商船受损",
+      "description": "今日霍尔木兹海峡再有3艘船只遭不明来源弹药击中，自美以对伊战争爆发以来，已有累计14艘商船在该水域受损。",
+      "url": "https://www.justsecurity.org/133624/early-edition-march-11-2026/",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-war-3",
+      "title": "国防部长赫格塞斯：今天将是最猛烈的空袭日",
+      "description": "美国国防部长赫格塞斯对外宣布，3月11日将是整场战争迄今为止打击力度最强的一天，美以联军对伊打击行动进入新高峰。",
+      "url": "https://www.cnbc.com/video/2026/03/11/the-pre-market-rundown-march-11-2026.html",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-war-4",
+      "title": "伊朗逮捕120余名内鬼，战争第11天：美军7死140伤，以军击毙1900名伊士兵",
+      "description": "战争进入第11天，伊朗已逮捕120余名疑似内部泄密人员；美军累计伤亡7死140伤，以色列方面宣称已消灭约1900名伊朗士兵及指挥官。",
+      "url": "https://news.sina.com.cn/zx/ds/2026-03-11/doc-inhqrfck5546527.shtml",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-war-5",
+      "title": "以色列对德黑兰与贝鲁特发动大规模空袭，摧毁伊朗军事指挥中心",
+      "description": "以色列国防军宣布摧毁伊朗最高国家安全委员会总部及总统办公室；同日以军授权对黎巴嫩实施地面入侵，以夺取战略要地。",
+      "url": "https://www.foxla.com/news/iran-war-live-updates-march-11-2026",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-war-6",
+      "title": "美军宣布已在伊朗上空取得制空权",
+      "description": "美国参谋长联席会议主席丹·凯恩在新闻发布会上正式宣布，美军已完全控制伊朗领空，标志战场态势向美以一方明显倾斜。",
+      "url": "https://zh.wikipedia.org/zh-hans/2026%E5%B9%B4%E4%BC%8A%E6%9C%97%E8%A1%9D%E7%AA%81",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-war-7",
+      "title": "特朗普称美以对伊战争\"差不多了\"，不排除购买伊朗石油",
+      "description": "特朗普在多个媒体专访中表示战争\"非常彻底，差不多了\"，并称美国\"大幅超前进度\"，同时未排除战后购买伊朗石油的可能性。",
+      "url": "https://www.bbc.com/zhongwen/articles/cn9e484xdgwo/simp",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-war-8",
+      "title": "俄罗斯向伊朗分享美军坐标，战局变数增大",
+      "description": "据多方消息，俄罗斯已开始向伊朗提供美军舰船和飞机的坐标信息，此举被分析人士视为中东战场的重大变量，可能大幅提升美军潜在损失。",
+      "url": "https://news.qq.com/rain/a/20260307A00TMQ00",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-war-9",
+      "title": "英法德等欧洲盟国拒绝配合，美以联军行动遭国际社会广泛谴责",
+      "description": "英国首相斯塔默拒绝美军使用其军事基地；法国马克龙称行动\"不符合国际法\"；西班牙、德国亦明确拒绝参战，西方内部出现明显裂痕。",
+      "url": "https://news.qq.com/rain/a/20260307A02C4L00",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-11-war-10",
+      "title": "巴基斯坦部署军队压制亲伊朗抗议，吉尔吉特等城市暴力升级",
+      "description": "巴基斯坦政府在北部城市吉尔吉特、斯卡都调兵镇压亲伊抗议活动；什叶派示威者此前冲击了联合国在阿扎德克什米尔的军事观察组办公室。",
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+      "publishedAt": "2026-03-11T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    }
+  ],
   "2026-03-10": [
     {
       "id": "2026-03-10-technology-1",
