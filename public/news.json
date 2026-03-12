@@ -1,4 +1,486 @@
 {
+  "2026-03-12": [
+    {
+      "id": "2026-03-12-technology-1",
+      "title": "Atlassian裁员1,600人全力押注AI",
+      "description": "澳大利亚科技巨头Atlassian宣布裁减1,600名员工，CTO同步离职，由\"下一代AI人才\"接棒，转型全面推进AI战略。",
+      "url": "https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-technology-2",
+      "title": "一周内12+大模型集中爆发，AI进入\"雪崩时代\"",
+      "description": "OpenAI、阿里、Meta、字节跳动等在3月1–8日集中发布至少12款重量级AI模型，涵盖视频、语言、3D生成等多个领域。",
+      "url": "https://www.sci-tech-today.com/news/march-2026-ai-models-avalanche/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-technology-3",
+      "title": "Amazon强推AI工具Kiro，但员工称其频繁\"幻觉\"拖累效率",
+      "description": "亚马逊全员强制使用内部AI编程工具Kiro，但员工反映生成代码错误率高，AI加速反成负担。",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/11/amazon-artificial-intelligence",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-technology-4",
+      "title": "Meta收购AI机器人社交网络，押注\"智能体社交\"",
+      "description": "Meta收购近期广受关注的AI机器人社交平台，探索AI智能体之间像人类一样社交互动的新模式。",
+      "url": "https://www.cnn.com/2026/03/10/tech/meta-moltbook-bots-social-media",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-technology-5",
+      "title": "NVIDIA GTC 2026即将召开，AI驱动全行业增收降本",
+      "description": "NVIDIA年度GPU技术大会即将登场，最新\"AI现状报告\"揭示AI已在各行各业实现营收提升、成本削减与生产力飞跃。",
+      "url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-technology-6",
+      "title": "Apple全新AI版Siri确认2026年正式亮相",
+      "description": "苹果宣布彻底重构Siri，新版本具备\"屏幕感知\"能力，将以情境感知AI助手形态全新登场。",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-technology-7",
+      "title": "GPT-5、Gemini Ultra等大模型3月集中突破",
+      "description": "本月AI领域迎来多项重大突破，包括GPT-5进阶、Google Gemini新模型及企业级AI工具持续升级。",
+      "url": "https://www.devflokers.com/blog/ai-breakthroughs-march-2026",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-technology-8",
+      "title": "特朗普政府召集AI企业高管，承诺共同承担能源成本",
+      "description": "各大AI公司高管赴白宫与特朗普会面，就AI数据中心巨额能源消耗问题达成承担成本的共识。",
+      "url": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-technology-9",
+      "title": "MIT研发AI规划机器人长期视觉导航，效率提升一倍",
+      "description": "麻省理工学院研究人员利用生成式AI开发出新型长期视觉任务规划方法，在机器人导航等场景的效率较现有技术提升约两倍。",
+      "url": "https://llm-stats.com/ai-news",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-technology-10",
+      "title": "医疗AI监管赛跑：法规能跟上技术的脚步吗？",
+      "description": "随着AI在医疗领域的渗透加速，FDA与HHS正努力制定既能适应当下又能随技术演进的监管框架，业界呼吁政策尽快明确。",
+      "url": "https://www.healthcaredive.com/news/ai-advancement-healthcare-regulation-himss-2026/814268/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-business-1",
+      "title": "甲骨文Q3财报大超预期，盘前涨超10%",
+      "description": "甲骨文2026财年第三财季营收171.90亿美元，同比增22%；净利润37.21亿美元，同比增27%，并上调第四季度业绩指引。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-12/doc-inhqsnwu5019205.shtml",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-business-2",
+      "title": "Bloomberg：AI数据中心融资规模冲向3万亿美元",
+      "description": "全球各大金融机构正加速为AI数据中心建设提供融资，总规模预计将突破3万亿美元，成为史上规模最大的基础设施投资潮。",
+      "url": "https://www.bloomberg.com/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-business-3",
+      "title": "摩根士丹利香港大举招聘合同员工，交易业务激增",
+      "description": "知情人士透露，摩根士丹利在香港大规模招募合同制员工，以应对交易业务爆发式增长带来的人手压力。",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-business-4",
+      "title": "Zalando预测2026年利润大跳，AI助力股价飙升",
+      "description": "欧洲最大时尚电商Zalando发布乐观业绩展望，预计2026年利润将大幅提升，将AI应用列为核心增长驱动力，股价随即急涨。",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-business-5",
+      "title": "Berkshire Hathaway新掌门Abel首次执笔股东信，市场高度关注",
+      "description": "格雷格·阿贝尔接替巴菲特后首度亲笔撰写伯克希尔·哈撒韦年度致股东信，投资者和分析师高度关注其投资哲学与战略取向。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-01/doc-inhpnwmf5290439.shtml",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-business-6",
+      "title": "全国两会闭幕：习近平出席政协闭幕会，经济政策备受关注",
+      "description": "全国政协十四届四次会议在北京人民大会堂举行闭幕会，习近平等党和国家领导人出席，全年经济目标与政策取向获市场广泛关注。",
+      "url": "https://www.yicai.com/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-business-7",
+      "title": "中东战争冲击全球油价，石油储备紧急释放稳市场",
+      "description": "随着霍尔木兹海峡局势持续紧张，国际能源署宣布释放石油储备以平抑市场恐慌，原油价格在高位剧烈波动。",
+      "url": "https://cn.investing.com/news/latest-news",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-business-8",
+      "title": "机器人企业大额融资频现，全球资管巨头持仓曝光",
+      "description": "3月以来，多家人形机器人及工业机器人企业获得大额融资，全球顶级资管机构最新持仓数据同步披露，行业热度持续攀升。",
+      "url": "https://finance.sina.com.cn/stock/y/2026-03-02/doc-inhppxwv1576003.shtml",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-business-9",
+      "title": "Wells Fargo、Piper Sandler双双上调西方石油评级",
+      "description": "华尔街分析师在中东局势升温背景下，接连上调石油板块评级，西方石油(OXY)成为当日最受关注的能源股之一。",
+      "url": "https://finance.yahoo.com/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-business-10",
+      "title": "Cognizant研究：AI\"即插即用\"是神话，企业仍需专业服务商",
+      "description": "Cognizant最新研究显示，企业在AI采用过程中普遍依赖专业IT服务机构，自主部署AI远比预期复杂，\"AI Builder\"服务模式正快速兴起。",
+      "url": "https://news.cognizant.com/2026-03-10-Cognizant-Research-Shows-Plug-and-Play-AI-is-a-Myth",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-sports-1",
+      "title": "中国队夺冬残奥轮椅冰壶混双金牌，创历史首金",
+      "description": "2026米兰冬残奥会上，中国组合王蒙/杨金桥以9比7险胜韩国队，摘得轮椅冰壶混双金牌，这也是该项目冬残奥历史上诞生的首枚金牌。",
+      "url": "https://news.sina.com.cn/zx/ds/2026-03-12/doc-inhqsnwu5020429.shtml",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-sports-2",
+      "title": "欧冠八强战：博德闪耀3-0大胜葡萄牙体育，豪取欧冠五连胜",
+      "description": "北京时间3月12日，挪威劲旅博德闪耀主场以3-0完胜葡萄牙体育，在欧冠赛场豪取五连胜，晋级之势势不可挡。",
+      "url": "https://news.sina.com.cn/zx/ds/2026-03-12/doc-inhqsnwu5020429.shtml",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-sports-3",
+      "title": "2026 March Madness：全美大学篮球淘汰赛激战正酣，自动晋级名额陆续出炉",
+      "description": "NCAA男篮锦标赛\"疯狂三月\"进入白热化阶段，McNeese、Lehigh、Idaho等多支球队相继锁定自动晋级资格，选拔日前各路豪强争夺激烈。",
+      "url": "https://www.ncaa.com/news/basketball-men/article/2026-03-12/tracking-31-ncaa-mens-basketball-conference-tournaments-auto-bids-2026-march",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-sports-4",
+      "title": "NFL自由球员市场开启：Daniel Jones与印第安纳波利斯小马续约",
+      "description": "2026年NFL自由球员市场热闹开场，四分卫Daniel Jones与印第安纳波利斯小马签约，Mike Evans则告别坦帕湾海盗投奔旧金山49人。",
+      "url": "https://www.nytimes.com/athletic/7108528/2026/03/12/this-week-in-sports-trivia-march-12-202612-2026/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-sports-5",
+      "title": "前海豚队线卫Bradley Chubb加盟布法罗比尔，签三年合同",
+      "description": "前迈阿密海豚队外线卫Bradley Chubb与布法罗比尔队达成三年合同协议，为比尔队防守阵容再添悍将。",
+      "url": "http://www.espn.com/espn/latestnews",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-sports-6",
+      "title": "2026世界棒球经典赛持续燃战，日本卫冕之路备受关注",
+      "description": "2026年世界棒球经典赛正如火如荼进行，上届三连冠得主日本队再度出征，各路强队角逐激烈，全球棒球迷屏息观战。",
+      "url": "https://eu.usatoday.com/story/sports/mlb/2026/03/09/world-baseball-classic-games-today-schedule-times-tv-march-9/89053850007/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-sports-7",
+      "title": "孙颖莎夺2026 WTT新加坡大满贯冠军",
+      "description": "中国乒乓球名将孙颖莎在2026年WTT新加坡大满贯中夺得冠军，赛后称胜利属于每日刻苦训练的坚持与背后支持的团队。",
+      "url": "https://sports.sina.cn/2026-03-03/detail-inhprmye8008214.d.html",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-sports-8",
+      "title": "2026世界杯伊朗能否参赛？特朗普称\"无所谓\"，足协仍斡旋",
+      "description": "美加墨联合主办的2026年世界杯6月揭幕，特朗普表示不在乎伊朗是否参赛，但美国足协与国际足联仍在积极斡旋确保其出席。",
+      "url": "https://www.chinanews.com.cn/ty/2026/03-04/10581008.shtml",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-sports-9",
+      "title": "2026米兰冬残奥会：多国运动员争金夺银，赛况精彩纷呈",
+      "description": "2026年米兰冬残奥会正在进行中，各国运动员在高山滑雪、冬季两项、冰壶等多个项目上展开激烈争夺，精彩赛况不断。",
+      "url": "https://www.nbcolympics.com/news/live/2026-winter-paralympics-live-updates-mon-march-9-highlights-scores-results-medal-count-day-3",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-sports-10",
+      "title": "NFL自由市场：Maxx Crosby风波与明星球员大规模流动",
+      "description": "2026年NFL自由球员窗口正式开启后风波不断，Maxx Crosby去留问题引发争议，多名明星球员完成跨队转移，联盟格局再度洗牌。",
+      "url": "https://www.cbssports.com/nfl/news/nfl-free-agency-live-updates-tracker-march-11-2026/live/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-war-1",
+      "title": "美以对伊朗战争持续：伊朗扬言打消耗战、摧毁美国经济",
+      "description": "伊朗明确表示将与美以展开消耗战，通过封锁霍尔木兹海峡等手段持续冲击全球能源供应链，扬言让美国乃至全球经济付出代价。",
+      "url": "https://www.guancha.cn/internation/2026_03_12_809718.shtml",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-war-2",
+      "title": "伊朗已向美以目标发射逾500枚弹道导弹，库存告急",
+      "description": "维基百科最新数据显示，自冲突爆发以来伊朗已发射超过500枚弹道导弹，分析人士指出其导弹库存正快速消耗，或转向持久战策略。",
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-war-3",
+      "title": "霍尔木兹海峡告急：伊朗革命卫队击中过境商船",
+      "description": "伊朗伊斯兰革命卫队宣布直接向过境霍尔木兹海峡的商船开火，美国海军以风险过高为由拒绝为商船护航，全球油轮运输陷入危机。",
+      "url": "https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-war-4",
+      "title": "国际能源署紧急释放石油储备，平抑战争冲击下的油价恐慌",
+      "description": "随着中东战局升级导致原油供应受阻，国际能源署协调成员国释放战略石油储备，试图遏制全球油价的恐慌性飙升。",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/11/iran-war-live-tehran-says-us-israel-hit-nearly-10000-civilian-sites",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-war-5",
+      "title": "参轴力量宣布协调伊拉克、黎巴嫩、也门三线联合打击美以基地",
+      "description": "伊朗支持的伊拉克民兵武装Harakat Hezbollah al Nujaba宣布，抵抗轴心正协调三国力量同步打击美以在中东地区的军事基地。",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-10-2026/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-war-6",
+      "title": "乌克兰战场：德国交付PAC-3拦截弹，乌军多处推进",
+      "description": "乌克兰总统泽连斯基宣布德国已交付新一批PAC-3爱国者拦截导弹；与此同时乌军在库皮扬斯克、古利艾波列等地持续推进。",
+      "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-march-11-2026/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-war-7",
+      "title": "俄军向乌克兰发射99架无人机，哈尔科夫首当其冲",
+      "description": "3月11日俄军对乌克兰发动大规模无人机袭击，共发射99架无人机，哈尔科夫城区遭到重点攻击，乌克兰防空部队全力拦截。",
+      "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-march-11-2026/",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-war-8",
+      "title": "美参议院就伊朗战争接受机密简报，国内反战声浪高涨",
+      "description": "美国行政官员就正在进行的对伊军事行动向参议院军事委员会进行机密情报汇报，国内反战批评声音日益强烈。",
+      "url": "https://heathercoxrichardson.substack.com/p/march-10-2026",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-war-9",
+      "title": "解放军3月起启用新版《预备役人员证》，战时动员效能提升",
+      "description": "经中央军委批准，中国人民解放军自2026年3月1日起正式制发启用新版《预备役人员证》，覆盖范围扩大，战时与平时身份认证均适用。",
+      "url": "http://www.mod.gov.cn/gfbw/qwfb/16447940.html",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-12-war-10",
+      "title": "特朗普宣布主要军工企业将把精良级武器产量提升至四倍",
+      "description": "特朗普宣布与洛克希德·马丁、波音等军工巨头会谈后，相关企业已同意将高端武器产量提升四倍，以迅速补充消耗中的弹药库存。",
+      "url": "https://news.sina.com.cn/zx/ds/2026-03-07/doc-inhqeetp1679657.shtml",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    }
+  ],
   "2026-03-11": [
     {
       "id": "2026-03-11-technology-1",
