@@ -1,4 +1,90 @@
 {
+  "2026-03-13": [
+    {
+      "id": "2026-03-13-technology-1",
+      "title": "Morgan Stanley警告：AI重大突破即将来临",
+      "description": "摩根士丹利报告指出，AI扩展定律仍在奏效，各大AI实验室的算力投入即将带来超出预期的重大突破。",
+      "url": "https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/",
+      "publishedAt": "2026-03-13T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-13-technology-2",
+      "title": "SB 657法案：人工智能监管新立法出炉",
+      "description": "美国AI立法更新（3月13日）：SB 657法案拟设立\"人工智能监督法\"，在州总检察长办公室内设立专门机构监管AI消费者问题。",
+      "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-march13-2026",
+      "publishedAt": "2026-03-13T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-13-technology-3",
+      "title": "Atlassian裁员1600人，押注AI转型",
+      "description": "软件巨头Atlassian宣布裁员约10%（约1600人），同时更换首席技术官，加速人工智能战略重组。",
+      "url": "https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx",
+      "publishedAt": "2026-03-13T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-13-technology-4",
+      "title": "Anthropic、KPMG、Perplexity等AI周报",
+      "description": "本周AI行业综合更新，涵盖多家头部企业最新动态与产品进展。",
+      "url": "https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-march-13-updates-from-anthropic-kpmg-perplexity-more/",
+      "publishedAt": "2026-03-13T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-13-technology-5",
+      "title": "马维尔科技：AI基础设施增长或推动股价飙升50%",
+      "description": "分析师预测，AI基础设施大规模扩张将驱动马维尔科技股价在2026年底前大幅上涨。",
+      "url": "https://www.fool.com/investing/2026/03/13/prediction-this-artificial-intelligence-stock-will/",
+      "publishedAt": "2026-03-13T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-13-technology-6",
+      "title": "亚马逊AI全面铺开却引发员工怨声",
+      "description": "据报道，亚马逊强推AI导致企业员工面临监控加剧、工作量增多等问题，内部怨言四起。",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/11/amazon-artificial-intelligence",
+      "publishedAt": "2026-03-13T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-13-technology-7",
+      "title": "中国长征八号甲火箭成功发射20颗低轨卫星",
+      "description": "3月13日凌晨，我国在海南商业航天发射场成功将卫星互联",
+      "url": "",
+      "publishedAt": "2026-03-13T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    }
+  ],
   "2026-03-12": [
     {
       "id": "2026-03-12-technology-1",
