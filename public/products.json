@@ -1,4 +1,79 @@
 {
+  "2026-03-13": {
+    "insight": "> 可视化交互正在成为 AI 对话产品的下一个核心战场——Claude 和 ChatGPT 同天押注「即问即视」，预示着纯文本 Chat 界面的时代正在终结，谁先建立视觉交互的 Stickiness，谁就赢得下一轮 Retention 竞争。",
+    "products": [
+      {
+        "id": "2026-03-13-1",
+        "title": "Claude Interactive Visuals",
+        "score": 91,
+        "description": "产品简介： Claude 现在能在对话中直接生成可交互的图表、图解和可视化内容——无需写代码，对话即生成，免费用户也可用（Beta）",
+        "team": "Anthropic，顶级 AI Safety 公司，Amazon 重金押注",
+        "popularity": "全平台刷屏，多个技术 KOL 实测发图，Twitter 话题热度 Top 3",
+        "url": "https://claude.com/blog/claude-builds-visuals",
+        "opinion": "这不是 Artifact 的升级，是一个新的交互范式——「即问即视」直接拉高了 Claude 的 Stickiness。PMF 信号极强：教育、科普类 Use Case 覆盖 140M+ 周活用户，Engineering 实现难度高但 Retention 回报看得见。",
+        "publishedAt": "2026-03-13T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-13-2",
+        "title": "ChatGPT Interactive Visual Learning",
+        "score": 88,
+        "description": "产品简介： ChatGPT 上线 70+ 数学/科学核心概念的动态交互可视化模块，用户可实时调节变量、操控公式，全球全 Plan 上线",
+        "team": "OpenAI，估值 $300B+，与 Claude 同步押注可视化交互赛道",
+        "popularity": "Reuters、Ars Technica 等主流媒体跟进报道，教育类 Twitter 热议",
+        "url": "https://openai.com/chatgpt",
+        "opinion": "和 Claude 几乎同天发布，但 ChatGPT 的定位更聚焦教育——70 个概念是 MVP，不是终态。关键问题是 DAU 中教育场景占比能否撑起持续迭代投入，需要 A/B Test 数据验证。",
+        "publishedAt": "2026-03-13T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-13-3",
+        "title": "Google Maps × Gemini 十年最大导航改版",
+        "score": 85,
+        "description": "产品简介： Google Maps 集成 Gemini，推出「Ask Maps」AI 问答功能 + 全新 3D 沉浸式导航（透明建筑、立交桥、斑马线精准呈现），覆盖 2B+ 用户",
+        "team": "Google DeepMind × Google Maps，Gemini 3.x 驱动，Street View + 航拍数据训练",
+        "popularity": "TechCrunch、Ars Technica、TechRadar 同日报道，媒体转发量高",
+        "url": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
+        "opinion": "2B+ 用户基数 × 高频刚需场景，这是 Gemini 在 toC 端最有说服力的落地之一。「Ask Maps」的 ROI 逻辑清晰：搜索替代 → 广告转化，Backend 难度高但 Google 有全栈能力。",
+        "publishedAt": "2026-03-13T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-13-4",
+        "title": "OpenAI Sora 2 Video API 开放",
+        "score": 82,
+        "description": "产品简介： OpenAI 正式向开发者开放基于 Sora 2 的 Video Generation API，允许通过程序化方式调用高质量 AI 视频生成能力",
+        "team": "OpenAI，Sora 2 已于 2025 年 9 月面向部分用户发布，此次 API 化是商业化关键一步",
+        "popularity": "Reuters 独家报道，Bloomberg 跟进，开发者社区高度关注",
+        "url": "https://www.reuters.com/business/openai-plans-launch-its-sora-video-tool-chatgpt-information-reports-2026-03-11/",
+        "opinion": "API 开放是 Sora 真正商业化的起点。Token Cost 和 Inference Latency 是核心卡点——视频生成单次成本远高于文本，开发者 ROI 需要在广告、影视制作等高价值场景才能跑通。值得持续追踪定价策略。",
+        "publishedAt": "2026-03-13T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-13-5",
+        "title": "Understudy — 演示一次即可自动化的桌面 AI Agent",
+        "score": 78,
+        "description": "产品简介： 开源桌面 Agent：用户演示一次任务，Understudy 提取意图（而非坐标），记忆路径，逐步自动执行重复工作。无需 API 集成、无需 Workflow Builder",
+        "team": "开源独立开发者，HN Show HN 自荐，110 points / 41 comments",
+        "popularity": "HN Show HN 110 upvotes，41 条评论，活跃技术讨论",
+        "url": "https://github.com/understudy-ai/understudy",
+        "opinion": "「演示一次即学会」的 Hook 极强，直击 Automation 最大痛点——配置成本太高。当前 Layer 1-2 可用，Layer 3-5 是 Roadmap，属于 Early PMF 验证阶段。开源策略有利于社区验证，但商业化路径需想清楚。",
+        "publishedAt": "2026-03-13T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      }
+    ]
+  },
   "2026-03-12": {
     "insight": "> AI 的战场正从\"谁的模型最强\"转向\"谁的分发渠道最宽\"——Copilot Cowork 用 M365 3亿企业用户赋能 Claude，GPT-5.4 用 Excel 10亿用户锁住金融场景，模型能力已是必要非充分条件，**Ecosystem lock-in 才是 2026 的真实决胜变量**。 *由 Linda (OpenClaw) 自动生成 · 数据来源：HN Show / TechCrunch / OpenAI / Anthropic / Microsoft / xAI / Google*",
     "products": [
