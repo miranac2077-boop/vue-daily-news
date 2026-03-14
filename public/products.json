@@ -1,4 +1,79 @@
 {
+  "2026-03-14": {
+    "insight": "AI Agent \"上下文理解\"成为新战场——无论是 Gemini 的 1M token、Compresr 的压缩代理，还是 Nyne 的人类数字足迹层，本质都在解决同一个问题：Agent 不够了解你。谁先建立 identity + context 护城河，谁赢下 Agent 时代的 Retention。",
+    "products": [
+      {
+        "id": "2026-03-14-1",
+        "title": "Gemini 3.1 Pro",
+        "score": 92,
+        "description": "Google DeepMind 最新旗舰模型（3月11日全面开放），推理能力 2x 提升，77.1% ARC-AGI-2，1M token context window，Deep Think 模式支持复杂任务链。",
+        "team": "Google DeepMind，顶级研究+工程纵深",
+        "popularity": "TechCrunch 年度AI大事件专文提及；同期基准评测 12/18 项排名第一",
+        "url": "https://gemini.google.com",
+        "opinion": "真正值得关注的不是跑分，是 1M context + 65K output 同时成立——这让长文档 Agent 场景的 Token Cost 结构彻底变了，Engineering 实现难度从\"不可能\"降到\"可以排期\"。",
+        "publishedAt": "2026-03-14T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-14-2",
+        "title": "Bumble Bee",
+        "score": 84,
+        "description": "Bumble 推出 AI 个人约会顾问\"Bee\"，通过深度对话学习用户价值观、关系目标、沟通风格，替代算法推荐更精准匹配，同步测试取消 swipe 机制。",
+        "team": "Bumble（NASDAQ: BMBL），Whitney Wolfe Herd 亲自主导，Q4 财报发布",
+        "popularity": "TechCrunch 专文报道，财报电话会公开宣布，Beta 即将上线",
+        "url": "https://bumble.com",
+        "opinion": "Gen Z 的 swipe fatigue 是真实痛点，Retention 数据也证明了交友 App 的危机。Bee 的 PMF 假设成立——问题在于用 LLM 做 matchmaking 的 Hallucination 风险，一旦推错一个\"完美对象\"，用户信任归零。上线后重点看 Day-30 Retention，不是 Match Rate。",
+        "publishedAt": "2026-03-14T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-14-3",
+        "title": "Context Gateway (Compresr.ai)",
+        "score": 80,
+        "description": "YC 孵化的 LLM 代理上下文压缩代理，坐在 AI Agent 和 LLM API 之间，当对话超长时自动后台压缩历史，消除 Claude Code / Cursor 等工具的 context 等待卡顿。",
+        "team": "YC-backed Compresr.ai，专注 LLM prompt compression",
+        "popularity": "HN Show HN 86分 / 50评论",
+        "url": "https://compresr.ai",
+        "opinion": "切中 Agent 开发者最真实的痛点——context 爆了就卡死。ROI 逻辑清晰：节省等待时间 = 开发效率提升 = 付费意愿强。Engineering 复杂度中等，但护城河弱，大模型厂商随时可以 native 内置。窗口期 6-12 个月，要快。",
+        "publishedAt": "2026-03-14T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-14-4",
+        "title": "Nyne",
+        "score": 77,
+        "description": "AI Agent 的\"人类上下文层\"——通过爬取用户全数字足迹（Instagram、LinkedIn、Strava、SoundCloud 等），帮助 AI Agent 真正理解用户跨平台身份和偏好。$5.3M Seed 轮刚完成。",
+        "team": "父子联合创始人，UC Berkeley CS + 前 CareRev ML 工程师；Wischoff Ventures + South Park Commons 领投，Gil Elbaz（Google AdSense 联合创始人）参投",
+        "popularity": "TechCrunch 专文报道（2026-03-13），$5.3M 融资公告",
+        "url": "https://nyne.ai",
+        "opinion": "定位精准——Google 有 identity graph 但不对外开放，Nyne 要做开放版本。对 toB AI Agent 公司价值大。但隐私争议是定时炸弹，PMF 验证前先问清楚 compliance 怎么做。",
+        "publishedAt": "2026-03-14T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-14-5",
+        "title": "Channel Surfer",
+        "score": 73,
+        "description": "把 YouTube 变成有线电视体验——AI 自动编排频道，用户打开就有\"正在播放的节目\"，无需主动搜索，降低内容决策疲劳。",
+        "team": "独立开发者，HN 社区自主曝光",
+        "popularity": "HN Show HN #1 · 562分 / 166评论（24小时内）",
+        "url": "https://channelsurfer.tv",
+        "opinion": "这个热度说明 \"content overwhelm\" 是真实 toC 痛点。但商业化路径不清晰——YouTube API 政策随时可以封掉，没有数据护城河。可以验证 PMF，但 Scaling 路上有硬墙。适合观察，不适合押注。",
+        "publishedAt": "2026-03-14T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      }
+    ]
+  },
   "2026-03-13": {
     "insight": "> 可视化交互正在成为 AI 对话产品的下一个核心战场——Claude 和 ChatGPT 同天押注「即问即视」，预示着纯文本 Chat 界面的时代正在终结，谁先建立视觉交互的 Stickiness，谁就赢得下一轮 Retention 竞争。",
     "products": [
