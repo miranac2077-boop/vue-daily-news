@@ -1,4 +1,486 @@
 {
+  "2026-03-15": [
+    {
+      "id": "2026-03-15-technology-1",
+      "title": "Apple重塑Siri，AI驱动版本2026年登场",
+      "description": "苹果正式宣布推出全新AI版Siri，具备\"屏幕感知\"能力，将成为真正的上下文感知助手。",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-technology-2",
+      "title": "NVIDIA GTC 2026大会：AI下一步走向何方",
+      "description": "英伟达与Thinking Machines合作，支持前沿模型训练，AI被誉为当今世界最强大的变革力量。",
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-technology-3",
+      "title": "Meta旗舰AI模型\"Avocado\"因性能问题延期发布",
+      "description": "Meta耗资数十亿推进AI竞赛，新模型因表现不达预期被迫推迟上线。",
+      "url": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-technology-4",
+      "title": "特斯拉Terafab AI芯片制造项目七天内启动",
+      "description": "马斯克宣布特斯拉自研AI芯片生产线\"Terafab\"将在一周内正式投产。",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-technology-5",
+      "title": "美商务部撤回AI芯片出口管制拟议规则",
+      "description": "美国商务部宣布取消原定的AI芯片出口限制计划，释放行业监管松绑信号。",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-technology-6",
+      "title": "Meta计划大规模裁员，AI成本压力持续攀升",
+      "description": "消息人士透露Meta正筹备重大裁员，AI基础设施高昂成本成为主因。",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-technology-7",
+      "title": "特朗普\"创世纪使命\"：AI与量子技术推动国家科学战略",
+      "description": "特朗普政府的Genesis Mission计划将AI与新兴技术应用于能源、药物研发和国家安全等领域。",
+      "url": "https://techstartups.com/2026/03/13/top-tech-news-today-march-13-2026/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-technology-8",
+      "title": "NVIDIA发布2026年AI行业报告：各行业ROI显著提升",
+      "description": "英伟达年度《AI现状》报告显示AI在驱动营收增长、降本增效方面取得实质成果。",
+      "url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-technology-9",
+      "title": "AI泡沫争议：OpenAI今年收入缺口预计高达160亿美元",
+      "description": "有声音质疑AI是否陷入泡沫，OpenAI内部预测今年营收损耗达140-160亿美元。",
+      "url": "https://thesciencesurvey.com/news/2026/03/10/the-artificial-intelligence-bubble/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-technology-10",
+      "title": "AI监管跟不上发展速度？医疗行业呼吁更清晰政策信号",
+      "description": "FDA和HHS正努力制定适应2026年及未来AI快速发展的监管框架，行业期待明确指引。",
+      "url": "https://www.healthcaredive.com/news/ai-advancement-healthcare-regulation-himss-2026/814268/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-business-1",
+      "title": "布伦特原油突破100美元关口，中东局势推动油价暴涨10%",
+      "description": "霍尔木兹海峡紧张局势导致4亿桶战略储备释放失效，布油价格大幅飙升。",
+      "url": "https://cn.investing.com/news/latest-news",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-business-2",
+      "title": "Wall Street顾问团助金融机构导航伊朗冲突风险",
+      "description": "前军方顾问提前预判军事行动，协助华尔街金融机构规避中东地缘风险。",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-business-3",
+      "title": "HSBC、渣打银行在中东冲突中对欧洲银行风险敞口最大",
+      "description": "摩根大通报告指出，HSBC和渣打是欧洲银行中受中东紧张局势影响最深的两家机构。",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-business-4",
+      "title": "阿里千问前负责人林俊旸离职，AI大模型人才争夺加剧",
+      "description": "阿里巴巴千问（Qwen）前核心负责人正式离职，引发外界对大模型团队稳定性的关注。",
+      "url": "https://caifuhao.eastmoney.com/news/20260313095822253979590",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-business-5",
+      "title": "A股光模块板块连涨12天，跑出新龙头",
+      "description": "光模块概念股持续强势，部分企业高端光芯片已开始小批量商用，市场关注度持续升温。",
+      "url": "https://finance.sina.com.cn/wm/2026-03-14/doc-inhqxwhu4270917.shtml",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-business-6",
+      "title": "Bloomberg商业周刊：预测市场崛起与华尔街AI化浪潮",
+      "description": "《商业周刊》聚焦预测市场兴起，及初级银行家如何反向教导前辈使用AI工具。",
+      "url": "https://www.bloomberg.com/magazine/businessweek/26_03",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-business-7",
+      "title": "英伟达GTC 2026：AI股投资甜蜜点来了？克拉默看好",
+      "description": "投资名嘴克拉默在GTC大会前夕力荐某AI股\"处于甜蜜点\"，并提醒市场警惕总统言论风险。",
+      "url": "https://www.cnbc.com/2026/03/10/cramer-this-ai-stock-is-in-the-sweet-spot-plus-an-nvidia-gtc-preview.html",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-business-8",
+      "title": "特朗普宣布AI产业能源费用自付承诺，科技巨头齐聚白宫",
+      "description": "多家AI公司CEO赴华盛顿会见特朗普，承诺自行承担数据中心电力成本。",
+      "url": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-business-9",
+      "title": "印度商业界聚焦2026年预算：基础设施私人资本解锁与数字改革",
+      "description": "印度各界围绕2026年度预算展开讨论，重点关注基础设施融资与数字化长期影响。",
+      "url": "https://timesofindia.indiatimes.com/business",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-business-10",
+      "title": "Cognizant研究：即插即用AI是个神话，企业更青睐专业AI服务商",
+      "description": "最新研究表明，企业在AI采用中普遍偏好专业\"AI Builder\"服务模式，而非自助工具。",
+      "url": "https://news.cognizant.com/2026-03-10-Cognizant-Research-Shows-Plug-and-Play-AI-is-a-Myth",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-sports-1",
+      "title": "世界棒球经典赛半决赛：美国队今日迎战多米尼加共和国",
+      "description": "2026年世界棒球经典赛半决赛在迈阿密LoanDepot Park举行，美国对阵强敌多米尼加。",
+      "url": "https://eu.usatoday.com/story/sports/mlb/2026/03/15/how-to-watch-usa-dominican-republic-world-baseball-classic-march-15/89164148007/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-sports-2",
+      "title": "NCAA男篮赛季冲刺：密西西比爆冷淘汰15号种子阿拉巴马",
+      "description": "密西西比队以80-79险胜阿拉巴马，上演SEC锦标赛四分之一决赛最大冷门。",
+      "url": "https://www.espn.com/espn/latestnews",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-sports-3",
+      "title": "Big Ten锦标赛决赛：密歇根迎战普渡，NCAA大战前最后一役",
+      "description": "密歇根狼獾与普渡锅炉工今日3:30争夺Big Ten冠军，赛前备受瞩目。",
+      "url": "https://www.indystar.com/story/sports/college/2026/03/15/michigan-purdue-channel-today-live-2026-big-ten-tournament-bracket-schedule-march-madness-time-watch/89166208007/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-sports-4",
+      "title": "WTA印第安维尔斯1000：莱巴金娜晋级决赛，将再战萨巴伦卡",
+      "description": "莱巴金娜7-5 6-4击败斯维托丽娜，决赛将重演澳网剧情，迎战世界第一萨巴伦卡。",
+      "url": "https://sports.sina.cn/2026-03-15/detail-inhqyxuk0030596.d.html",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-sports-5",
+      "title": "英超焦点战：曼联主场迎战阿斯顿维拉，双方同积51分争夺欧冠席位",
+      "description": "曼联近期主场4连胜，维拉欧联赛场各有起伏，这场直接对话将极大影响积分榜格局。",
+      "url": "https://sports.sina.cn/2026-03-13/detail-inhqvamq4215271.d.html",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-sports-6",
+      "title": "NBA今日赛程：明尼苏达森林狼对阵俄克拉荷马城雷霆（ABC直播）",
+      "description": "今日NBA常规赛焦点战，森林狼与雷霆下午1时交锋，另有多场精彩对决同步进行。",
+      "url": "https://www.usatoday.com/story/sports/nba/2026/03/15/nba-games-today-schedule-times-tv-march-15/89165993007/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-sports-7",
+      "title": "意甲联赛：那不勒斯主场迎战莱切，争冠势头能否延续？",
+      "description": "那不勒斯坐拥强大主场优势，面对为保级苦战的莱切，志在全取三分。",
+      "url": "https://cj.sina.com.cn/articles/view/7879995911/1d5af320706801n6c6",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-sports-8",
+      "title": "LIV高尔夫：布莱森·德查博第四次夺冠，加时赛惊险胜出",
+      "description": "德查博在LIV高尔夫赛上第四度举起冠军奖杯，通过附加赛一球击败外卡球员Richard T. Lee。",
+      "url": "https://www.si.com/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-sports-9",
+      "title": "中国足球改革：中足联独立运营，成耀东公开支持外援新政与青训联动",
+      "description": "中足联正式独立运营职业联赛，国青主帅成耀东罕见公开发声，支持改革方向。",
+      "url": "https://sports.sina.cn/2026-03-15/detail-inhqytnn0145419.d.html",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-sports-10",
+      "title": "NHL今日赛程：圣路易斯蓝调客战温尼伯喷气机",
+      "description": "NHL常规赛今日多场对决，蓝调与喷气机的交锋成为关注焦点，争夺季后赛席位。",
+      "url": "https://www.usatoday.com/story/sports/nhl/2026/03/15/nhl-games-today-schedule-times-tv-march-15/89165992007/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-war-1",
+      "title": "伊朗否认寻求停火，称将继续复仇，霍尔木兹海峡持续关闭",
+      "description": "伊朗最高领袖公开否认停火意愿，以色列今日对伊朗西部发动大规模空袭，导弹互射持续。",
+      "url": "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-war-2",
+      "title": "美军精确打击卡尔格岛，摧毁伊朗海军水雷库与导弹仓库",
+      "description": "CENTCOM宣布对伊朗卡尔格岛实施大规模精确打击，摧毁多处军事设施。",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-14-2026/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-war-3",
+      "title": "以色列已摧毁160-190套伊朗发射架，西方估计伊朗军力损失超八成",
+      "description": "以军高级官员披露打击战果，西方国家估计伊朗军事力量已被重创超过80%。",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-13-2026/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-war-4",
+      "title": "伊朗发起\"真实承诺-4\"第44轮军事行动，打击美国第五舰队基地",
+      "description": "伊朗动用\"法塔赫\"等多型精确导弹及无人机，攻击以色列北部及美军第五舰队基地。",
+      "url": "https://news.cctv.cn/2026/03/13/ARTIGMwynFlMnRzctxTzNrDp260313.shtml",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-war-5",
+      "title": "美军12天\"史诗狂怒行动\"：累计打击伊朗境内逾5500个目标",
+      "description": "美国中央司令部称已打击伊朗超5500个目标，包括60余艘船只，行动规模空前。",
+      "url": "https://www.voachinese.com/a/us-military-strikes-over-5500-targets-inside-iran-after-12-days-of-decisive-operations-against-regime-20260311/8123825.html",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-war-6",
+      "title": "以色列捣毁帕尔钦基地Taleghan 2核设施，钻地炸弹穿透混凝土防护层",
+      "description": "以军钻地弹成功击穿德黑兰省帕尔钦军事基地疑似核试验设施的混凝土\"石棺\"防护层。",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-12-2026/",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-war-7",
+      "title": "黎巴嫩850人在以色列袭击中丧生，逾百名儿童遇难",
+      "description": "黎巴嫩卫生部披露，自3月2日以来已有850人死于以色列袭击，儿童伤亡令国际社会震惊。",
+      "url": "https://www.theguardian.com/world/live/2026/mar/15/iran-war-news-live-updates-us-israel-middle-east-crisis-latest-kharg-island",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-war-8",
+      "title": "美国从韩国调走\"萨德\"系统增援中东，引发菲律宾和韩国民间担忧",
+      "description": "美军将部分部署在韩国的\"萨德\"反导装备转移至中东，盟友对美安全承诺可靠性提出质疑。",
+      "url": "https://news.sina.com.cn/zx/ds/2026-03-12/doc-inhqtqkh4734551.shtml",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-war-9",
+      "title": "多国军事基地遭袭：伊拉克埃尔比勒、约旦Al Azraq基地被攻击",
+      "description": "德国军方证实，伊拉克和约旦的多国联军基地相继遭到攻击，已启动防空应对措施。",
+      "url": "https://www.legion.org/information-center/news/security/2026/march/five-things-to-know-march-2-2026",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-15-war-10",
+      "title": "人民网分析：特朗普政府面临战争逻辑混乱，或寻机退出伊朗战事",
+      "description": "分析指出美以目标分歧、战争\"终局\"不清晰，特朗普政府承受多重压力或借机脱身。",
+      "url": "http://world.people.com.cn/n1/2026/0313/c1002-40681073.html",
+      "publishedAt": "2026-03-15T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    }
+  ],
   "2026-03-14": [
     {
       "id": "2026-03-14-technology-1",
