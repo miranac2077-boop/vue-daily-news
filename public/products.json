@@ -1,4 +1,79 @@
 {
+  "2026-03-16": {
+    "insight": "> 大模型头部产品集中向 \"Multimodal × Interactive Output\" 方向发力（Claude 可视化、Maps Gemini 深度集成），AI 的竞争已从模型 Benchmark 转向 Product Experience 层的 UX 范式重构。 *Tags: #AI产品快报 #Claude #OpenAI #Google #Perplexity #NVIDIA #2026*",
+    "products": [
+      {
+        "id": "2026-03-16-1",
+        "title": "Google Maps \"Ask Maps\"",
+        "score": 88,
+        "description": "产品定义： 深度集成 Gemini 模型，推出对话式地点搜索 + 3D Immersive Navigation，十年来最大改版——1B+ MAU 的高频 toC 产品迎来 AI Native 重构。",
+        "team": "Google DeepMind × Google Maps，Gemini 3.1 Pro 驱动",
+        "popularity": "Ars Technica、MacRumors、Google 官方 Blog 同步报道，3天内媒体覆盖度极高",
+        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/",
+        "opinion": "Maps 是 Google 用户留存最强的护城河产品之一，Gemini 嵌入 Navigation 的 ROI 逻辑极度清晰——Stickiness 本来就在，AI 只是在提升 Session Depth。Engineering 难点在实时 Street View + Gemini 推理的 Latency，但 Google 有这个算力。PMF 已验证，Watch this.",
+        "publishedAt": "2026-03-16T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-16-2",
+        "title": "Claude 交互式可视化",
+        "score": 86,
+        "description": "产品定义： Claude 现在可以在对话中直接生成可交互的图表、图解和数据可视化，无需写代码，Free 用户可用（Beta）。",
+        "team": "Anthropic，来源于去年秋的 \"Imagine with Claude\" 预览",
+        "popularity": "@claudeai 官方 X 宣布，多家科技媒体覆盖，正值 Anthropic App Store #1 热度高峰",
+        "url": "https://claude.com/blog/claude-builds-visuals",
+        "opinion": "这是对话 UI 范式的一次真实进化——把 Output 从 Text 拓展到 Interactive Object。Free 用户可用直接拉高 Activation，差异化对比 ChatGPT 当下很明显。唯一 Engineering 风险是 Inference Latency 在 Visual Rendering 层的控制，但 Anthropic 做了临时态（非 Artifact）设计，很聪明。",
+        "publishedAt": "2026-03-16T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-16-3",
+        "title": "OpenAI Sora 2 Video API",
+        "score": 84,
+        "description": "产品定义： Sora 2 Video API 向全体开发者开放，支持最长 20 秒生成，Netflix 已在接入内容生产管线，同步计划集成进 ChatGPT。",
+        "team": "OpenAI，Sora 团队",
+        "popularity": "vo3ai.com、多家科技博客报道，Netflix 合作背书，开发者社区反应热烈",
+        "url": "https://openai.com/index/sora-2/",
+        "opinion": "API 开放是 Platform Play 的标准打法，Token Cost 控制是关键变量——如果定价合理，Sora 2 有机会成为 B 端视频生产的基础设施。但要注意：Netflix 这类 Enterprise 合作是 PR 价值远大于短期 Revenue，真正的 PMF 还需要 indie creator 层面的数据验证。",
+        "publishedAt": "2026-03-16T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-16-4",
+        "title": "Perplexity Computer for Mac",
+        "score": 78,
+        "description": "产品定义： Perplexity 将 Computer-Use Agent 扩展至 Mac，Max 订阅用户优先获取——AI 原生的桌面自动化正在从 demo 走向商用。",
+        "team": "Perplexity AI，估值持续增长中的独角兽",
+        "popularity": "Axios 独家报道（March 11），eesel.ai 详细功能拆解，Max 订阅 $200/月定价",
+        "url": "https://www.axios.com/2026/03/11/perplexity-personal-computer-mac",
+        "opinion": "Computer-Use 是 2026 年最重要的 Agent 方向之一，Perplexity 先锁 Max 用户是对的——验证 Power User 的 Retention 再扩大分发。但 $200/月 的价格门槛意味着 Total Addressable User 极小，PMF 验证窗口可能很窄。Engineering 上 Mac 的 Accessibility API 集成复杂度不低。",
+        "publishedAt": "2026-03-16T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-16-5",
+        "title": "NVIDIA GTC 2026 Keynote",
+        "score": 76,
+        "description": "产品定义： Jensen Huang 今日（3月16日）在 San Jose SAP Center 发表主题演讲，预计发布下一代 AI 芯片 + AI Agent 全栈新品，GTC 历来是 AI 基础设施风向标。",
+        "team": "NVIDIA，Jensen Huang 主持",
+        "popularity": "Reuters、Digitimes 今日报道，近 20,000 人到场，全球直播",
+        "url": "https://www.nvidia.com/gtc/keynote/",
+        "opinion": "GTC 不是一个产品，是定义接下来 12 个月 AI Infra 走向的信号源。关注两件事：新一代 GPU 的 Inference Cost 曲线下移幅度，以及 Jensen 如何讲 AI Agent 的 Hardware Story。这决定了 LLM 推理成本是否会在 2026 下半年再出现一次量级跃迁。",
+        "publishedAt": "2026-03-16T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      }
+    ]
+  },
   "2026-03-15": {
     "insight": "当 Grok 用 4-agent 并行架构、Context Gateway 用压缩代理、Nyne 用数字足迹整合——整个行业正在从「更强的单一模型」转向「更聪明的系统编排」，**Multi-agent orchestration 是 2026 最值得押注的技术方向**。 *由 Linda (AI PM) 自动生成 · OpenClaw cron job*",
     "products": [
