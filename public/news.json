@@ -1,4 +1,486 @@
 {
+  "2026-03-16": [
+    {
+      "id": "2026-03-16-technology-1",
+      "title": "NVIDIA GTC 2026 开幕，Jensen Huang 主题演讲聚焦物理AI与智能工厂",
+      "description": "NVIDIA年度最大AI大会今日在圣何塞正式开幕（3月16-19日），重点展示物理AI、代理AI及推理技术突破",
+      "url": "https://www.nvidia.com/gtc/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-technology-2",
+      "title": "苹果全新AI驱动Siri将于2026年登场",
+      "description": "苹果官宣全面重构Siri，具备屏幕感知与上下文理解能力，是近年来最大升级",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-technology-3",
+      "title": "ByteDance暂停视频AI模型发布，版权纠纷成导火索",
+      "description": "据The Information报道，字节跳动因版权争议暂停旗下视频AI模型的公开上线计划",
+      "url": "https://www.reuters.com/technology/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-technology-4",
+      "title": "AI大泡沫危机论升温：OpenAI内部预测2026年营收损失最高达160亿美元",
+      "description": "科技媒体分析指出AI行业估值虚高，OpenAI内部投影显示今年潜在营收缺口巨大",
+      "url": "https://thesciencesurvey.com/news/2026/03/10/the-artificial-intelligence-bubble/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-technology-5",
+      "title": "Uber联合创始人Kalanick创办Atoms公司，专注专用机器人领域",
+      "description": "Travis Kalanick在离开Uber后再度出山，新公司Atoms瞄准专业化机器人市场",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-technology-6",
+      "title": "AI监管难以跟上技术发展：医疗领域FDA政策面临挑战",
+      "description": "HIMSS 2026大会上，监管机构坦言AI发展速度已超出传统政策制定框架，FDA正加速应对",
+      "url": "https://www.healthcaredive.com/news/ai-advancement-healthcare-regulation-himss-2026/814268/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-technology-7",
+      "title": "2026年AI从炒作走向实用主义：新架构、小模型、世界模型成核心趋势",
+      "description": "TechCrunch年度预测指出今年AI行业将聚焦可落地产品，告别单纯概念炒作",
+      "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-technology-8",
+      "title": "Guardian深度报道：AI公司正在成为新型军火商",
+      "description": "从加沙到伊朗，AI驱动的精确武器被广泛使用，呼吁对AI战争应用加强监管",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-technology-9",
+      "title": "LLM实时更新追踪：GPT、Claude、Gemini、Llama等500+模型今日动态",
+      "description": "llm-stats.com今日记录多个主流大模型版本更新与API变更，包括新MMLU基准测试数据",
+      "url": "https://llm-stats.com/llm-updates",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-technology-10",
+      "title": "彼得·蒂尔在罗马秘密举办\"反基督\"主题闭门演讲，引发天主教关注",
+      "description": "硅谷投资人蒂尔在梵蒂冈附近发起系列神学讲座，探讨技术资本主义与末世论",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-business-1",
+      "title": "印度Sensex大涨939点，Nifty50收复23,400关口，结束三连跌",
+      "description": "印度股市周一强势反弹超1%，投资者借机逢低买入，中东局势趋稳提振情绪",
+      "url": "https://www.thehindubusinessline.com/markets/stock-market-live-updates-march-16-2026/article70746185.ece",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-business-2",
+      "title": "SpaceX聘请Gibson Dunn和Davis Polk作为IPO法律顾问",
+      "description": "消息人士透露SpaceX正加速推进史上最大规模科技IPO，法律团队已组建完毕",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-business-3",
+      "title": "美国对中国负极材料撤销双反关税裁决，国内电池产业链受益",
+      "description": "美国际贸易委员会裁定中国负极材料未实质损害美国产业，消除最高160%关税威胁",
+      "url": "https://finance.sina.com.cn/headline/2026-03-16/doc-inhrevan2627172.shtml",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-business-4",
+      "title": "英国政府宣布2026年取消33项风电组件进口关税",
+      "description": "英国自4月1日起取消风电塔筒、管桩等清洁能源组件关税，利好中国出口商",
+      "url": "https://finance.sina.cn/stock/ssgs/2026-03-16/detail-inhrcpia2946757.d.html",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-business-5",
+      "title": "黄金价格剧烈震荡：现货金跌破4970美元/盎司",
+      "description": "受中东冲突及美元走强影响，国际金价日内宽幅波动，一度突破5020美元后大幅回落",
+      "url": "https://finance.sina.com.cn/headline/2026-03-16/doc-inhrctqw6057491.shtml",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-business-6",
+      "title": "泰晤士水务获逾44亿美元股权注入方案，债务危机迎转机",
+      "description": "贷款方提出大规模股权重组计划，英国最大水务公司或得以避免破产清算",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-business-7",
+      "title": "特朗普下令削减住房建设和抵押贷款领域监管红tape",
+      "description": "白宫新行政令要求各机构简化房贷审批流程，以应对持续高企的住房成本危机",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-business-8",
+      "title": "中国2026年GDP增长目标4.5%-5%，\"十五五\"开局明确宏观政策方向",
+      "description": "两会确认2025年主要经济目标顺利完成，2026年经济工作重心转向高质量发展",
+      "url": "https://finance.sina.com.cn/headline/2026-03-16/doc-inhrevan2627172.shtml",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-business-9",
+      "title": "公募\"固收+\"基金今年正收益占比超90%，发行规模突破350亿",
+      "description": "受益于债市走强，今年固收增强类产品供需两旺，机构配置需求持续释放",
+      "url": "https://finance.sina.com.cn/stock/y/2026-03-16/doc-inhrcphy6167519.shtml",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-business-10",
+      "title": "铝价2026年迄今上涨近15%，中东冲突推动大宗商品全面重定价",
+      "description": "能源供应担忧叠加避险情绪，铝、银等工业金属价格大幅波动，铝录得2023年来最大周涨幅",
+      "url": "https://www.cnbc.com/2026/03/05/stock-market-today-live-updates.html",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-sports-1",
+      "title": "2026世界棒球经典赛半决赛：意大利对阵委内瑞拉在迈阿密上演",
+      "description": "WBC半决赛今日开打，两支欧美劲旅争夺决赛资格，赛事在LoanDepot球场举行",
+      "url": "https://eu.usatoday.com/story/sports/mlb/2026/03/16/how-to-watch-venezuela-italy-world-baseball-classic-march-16/89167941007/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-sports-2",
+      "title": "March Madness 2026 NCAA锦标赛正式打响",
+      "description": "美国大学篮球最盛大赛事本周拉开帷幕，64强激战即将上演，Selection Sunday已完成抽签",
+      "url": "https://www.today.com/news/sports/when-does-march-madness-start-2026-rcna263357",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-sports-3",
+      "title": "NBA：雷霆主场116-103击败森林狼，SGA出战33分钟领衔得分",
+      "description": "谢伊-吉尔杰斯-亚历山大全场22投高效发挥，雷霆稳固西部领先地位",
+      "url": "https://sports.sina.cn/2026-03-16/detail-inhreeev8831869.d.html",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-sports-4",
+      "title": "西甲：巴塞罗那5-2大胜塞维利亚，拉菲尼亚帽子戏法成最大功臣",
+      "description": "拉菲尼亚继承梅西衣钵，成为近50年来第二位在西甲对阵塞维利亚戴帽的巴萨球员",
+      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801nlgu.html",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-sports-5",
+      "title": "英超预告：利物浦主场迎战热刺，争四压力山大",
+      "description": "周一英超焦点战，利物浦需借主场优势追赶积分，热刺则为保级拼死一战",
+      "url": "https://cj.sina.com.cn/articles/view/7879995911/1d5af320706801nedq",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-sports-6",
+      "title": "2026世界杯最新动态：中东战火致西班牙vs阿根廷\"决赛之决赛\"取消",
+      "description": "原定于卡塔尔多哈举办的2026年Finalissima因中东战争被迫取消，欧洲杯赛程亦受影响",
+      "url": "https://www.nytimes.com/athletic/live-blogs/world-cup-2026-live-updates-news-tickets-latest-week-ten/XQ6rpLQeR8AQ/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-sports-7",
+      "title": "米兰冬残奥会倒数第二赛日：中国队多点发力抓住最后夺金机会",
+      "description": "中国代表团在意大利泰塞罗迎来关键赛日，多个项目冲击奖牌",
+      "url": "https://epaper.jxxw.com.cn/resfile/2026-03-16/03/jxrb2026031603.pdf",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-sports-8",
+      "title": "F1中国站：安东内利夺冠，法拉利内斗排三四，汉密尔顿重返领奖台",
+      "description": "F1上海站上演戏剧性一幕，法拉利两车相争殃及池鱼，汉密尔顿抓住机会重返表彰台",
+      "url": "https://sports.163.com/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-sports-9",
+      "title": "乒乓球WTT重庆冠军赛女单决赛：蒯曼激战七局不敌张本美和",
+      "description": "中国小将蒯曼在决赛中斗志昂扬，终以微弱差距不敌日本选手张本美和，获得亚军",
+      "url": "https://sports.163.com/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-sports-10",
+      "title": "日本女足7-0大胜菲律宾，4连胜直通2026年世界杯",
+      "description": "日本女足以悬殊比分横扫菲律宾，提前锁定亚洲杯四强席位并直接晋级世界杯",
+      "url": "https://sports.163.com/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-war-1",
+      "title": "美国欧洲盟友拒绝特朗普呼吁：拒绝派军舰开辟霍尔木兹海峡航路",
+      "description": "德国等欧洲国家明确拒绝加入特朗普要求的\"护航联盟\"，不愿被卷入升级的美以对伊战争",
+      "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-war-2",
+      "title": "以色列在黎巴嫩升级地面攻势，已致850人死亡含107名儿童",
+      "description": "自3月2日真主党火箭袭以事件重燃冲突以来，以军黎巴嫩攻势持续扩大，平民伤亡惨重",
+      "url": "https://apnews.com/live/iran-war-israel-trump-03-15-2026",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-war-3",
+      "title": "伊朗外长：将把与美以的战争进行到底",
+      "description": "伊朗外交部长强硬表态，称伊朗已做好\"无限期\"应战准备，拒绝接受任何停火条件",
+      "url": "https://www.moneycontrol.com/world/us-israel-iran-war-news-live-updates-missile-dubai-drone-attacks-mines-in-strait-of-hormuz-16th-march-2026-liveblog-13861121.html",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-war-4",
+      "title": "伊朗封锁霍尔木兹海峡夺取战争主动权，美国陷入被动",
+      "description": "分析人士指出伊朗以最小代价取得最大战略效果，成功扼住全球能源动脉让美国措手不及",
+      "url": "https://www.guancha.cn/internation/2026_03_15_810145.shtml",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-war-5",
+      "title": "美国参议院战争授权投票失败，特朗普对伊打击行动继续无约束推进",
+      "description": "参议院反战派未能通过战争权力法案，白宫继续在国会监督缺位下推进中东军事行动",
+      "url": "https://www.cnbc.com/2026/03/04/us-iran-war-live-updates.html",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-war-6",
+      "title": "美军派遣\"的黎波里\"号两栖攻击舰及海军陆战队远征队赴中东",
+      "description": "五角大楼向中东增兵，\"的黎波里\"号携F-35战机及数千名海军陆战队员驶向波斯湾",
+      "url": "https://www.justsecurity.org/134034/early-edition-march-16-2026/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-war-7",
+      "title": "CENTCOM已对卡尔克岛进行大规模精确打击，摧毁海雷储存及导弹设施",
+      "description": "美军中央司令部公布最新战果，卡尔克岛海军水雷库、导弹储存设施遭到定点清除",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-14-2026/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-war-8",
+      "title": "中国外交部：再次呼吁各方立即停止军事行动，避免冲突外溢全球",
+      "description": "外交部发言人林剑在例行记者会上强调，中方高度关注中东局势对全球经济的冲击",
+      "url": "https://sputniknews.cn/20260316/1070271309.html",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-war-9",
+      "title": "伊朗宣称将追捕并击毙内塔尼亚胡，以总理发布视频自证在世",
+      "description": "伊朗高调声称将对以色列总理发出全球追缉令，引发国际社会高度关注",
+      "url": "https://military.china.com/zh_cn/",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-16-war-10",
+      "title": "日本加速\"再军事化\"：部署远程进攻性武器，中国国防部发出严正警告",
+      "description": "解放军发言人指出日本已彻底撕下\"专守防卫\"伪装，中方警告日本勿以武力侵犯中国主权",
+      "url": "http://www.mod.gov.cn/gfbw/qwfb/16447954.html",
+      "publishedAt": "2026-03-16T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    }
+  ],
   "2026-03-15": [
     {
       "id": "2026-03-15-technology-1",
