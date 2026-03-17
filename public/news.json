@@ -1,4 +1,486 @@
 {
+  "2026-03-17": [
+    {
+      "id": "2026-03-17-technology-1",
+      "title": "Nvidia GTC 2026：Jensen Huang豪言AI芯片营收将达1万亿美元",
+      "description": "黄仁勋在GTC年度大会主题演讲中宣布，Blackwell与Rubin芯片至2027年将合计创收逾1万亿美元，Nvidia股价随即涨近5%。",
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-technology-2",
+      "title": "Nvidia与AWS携手构建全球最大代理AI基础设施",
+      "description": "双方合作整合NVIDIA加速计算与AWS云服务，为企业和科研机构提供能自主推理、规划与执行的AI基础设施。",
+      "url": "https://www.reuters.com/world/asia-pacific/nvidia-ceo-set-reveal-new-chips-software-ai-megaconference-gtc-2026-03-16/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-technology-3",
+      "title": "Meta推迟发布代号\"Avocado\"的新一代AI大模型",
+      "description": "Meta因性能测试未达标而推迟该模型发布，但内部数据显示其已超越Google Gemini 2.5，Zuckerberg仍在重金押注AI竞赛。",
+      "url": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-technology-4",
+      "title": "苹果官宣2026年推出全面AI重构的全新Siri",
+      "description": "全新Siri将具备\"屏幕感知\"能力，成为真正的情境感知助手，标志苹果在AI领域的重大转型。",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-technology-5",
+      "title": "谷歌、微软、Meta等八大科技巨头签署反诈骗AI安全自愿承诺",
+      "description": "八家科技公司承诺共享威胁情报、共同打击滥用AI服务实施诈骗的行为。",
+      "url": "https://llm-stats.com/ai-news",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-technology-6",
+      "title": "特朗普召集AI公司高管赴白宫，承诺自负AI能耗成本",
+      "description": "AI行业领袖齐聚华盛顿，在电力成本飙升的背景下承诺自行承担AI数据中心的巨额能源费用。",
+      "url": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-technology-7",
+      "title": "Nvidia发布基于Groq技术的全新CPU与AI推理系统",
+      "description": "GTC大会上Nvidia揭晓面向推理计算的全新芯片架构，正面迎战AI芯片市场日益激烈的竞争。",
+      "url": "https://techstartups.com/2026/03/16/top-tech-news-today-march-16-2026/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-technology-8",
+      "title": "Cognizant研究报告：企业AI部署\"即插即用\"是个神话",
+      "description": "最新调研显示企业在落地AI时普遍依赖专业IT服务商，\"AI即开即用\"的幻想在现实中难以实现。",
+      "url": "https://news.cognizant.com/2026-03-10-Cognizant-Research-Shows-Plug-and-Play-AI-is-a-Myth",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-technology-9",
+      "title": "欧洲出版商联合向欧盟施压，要求加速对谷歌搜索的反垄断行动",
+      "description": "欧洲出版商和科技企业警告称，AI正颠覆信息获取方式，若欧盟拖延反垄断调查将加剧市场损害。",
+      "url": "https://techstartups.com/2026/03/16/top-tech-news-today-march-16-2026/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-technology-10",
+      "title": "Block CEO Jack Dorsey宣布裁员逾4000人，押注AI重塑组织架构",
+      "description": "Dorsey表示配备AI工具的精简团队可超越规模更大的传统团队，Block正加速向AI驱动型公司转型。",
+      "url": "https://www.marketingprofs.com/opinions/2026/54379/ai-update-march-6-2026-ai-news-and-views-from-the-past-week",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-business-1",
+      "title": "黄仁勋豪言Blackwell/Rubin芯片2027年前创收1万亿美元，股价涨近5%",
+      "description": "华尔街见闻报道，黄仁勋在GTC演讲中大幅上调收入预测，英伟达刷新日内高点。",
+      "url": "https://wallstreetcn.com/articles/3767668",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-business-2",
+      "title": "布伦特原油突破100美元关口，霍尔木兹海峡供应危机推高油价",
+      "description": "受美伊战事影响，布油单日暴涨10%，中东供应链中断引发全球市场剧烈波动。",
+      "url": "https://cn.investing.com/news/latest-news",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-business-3",
+      "title": "CPO光互连概念股涨超300%，2026年仍被视为A股最确定主线",
+      "description": "行业分析指出CPO正从高端AI场景快速渗透通用数据中心，市场规模呈指数级增长，短期震荡不改长期逻辑。",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-03-16/doc-inhrevak5853637.shtml",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-business-4",
+      "title": "全球对冲基金大规模抛售金融股，本年度最大规模净卖出创记录",
+      "description": "高盛报告显示，截至3月13日当周，全球对冲基金将金融板块列为年内最大净卖出板块。",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-business-5",
+      "title": "德国反对UniCredit敌意收购德国商业银行",
+      "description": "德国财政部发言人表示意大利裕信银行的敌意收购计划不可接受，双方围绕欧洲银行业整合的博弈持续升温。",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-business-6",
+      "title": "Bloomberg：3万亿美元AI数据中心建设潮引发天量融资需求",
+      "description": "全球AI基础设施投资浪潮催生空前规模的资本需求，私募信贷市场面临严峻压力测试。",
+      "url": "https://www.bloomberg.com/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-business-7",
+      "title": "国家统计局召开新闻发布会，公布2026年1-2月国民经济运行数据",
+      "description": "官方通报中国前两月经济运行情况，外界关注消费、投资及外贸等核心指标表现。",
+      "url": "https://www.nbd.com.cn/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-business-8",
+      "title": "阿里千问前负责人林俊旸离职，\"急行军\"背后折射大厂AI人才竞争加剧",
+      "description": "Qwen团队核心人物出走引发广泛关注，折射出国内AI大模型赛道人才争夺白热化。",
+      "url": "https://caifuhao.eastmoney.com/news/20260313095822253979590",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-business-9",
+      "title": "油价飙升致迪拜、阿联酋航班大范围取消，全球航空业受伊战冲击",
+      "description": "中东战事直接冲击全球航空运营，酋长航空等中东航司紧急调整航线应对危机。",
+      "url": "https://timesofindia.indiatimes.com/business",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-business-10",
+      "title": "美国2025年极端天气损失仍超千亿美元，保险业危机持续深化",
+      "description": "尽管灾害成本有所回落，保险公司仍面临极端气候引发的长期偿付压力。",
+      "url": "https://www.npr.org/sections/business/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-sports-1",
+      "title": "NCAA锦标赛\"疯狂三月\"First Four正式打响，UMBC对阵Howard",
+      "description": "3月17日大学篮球锦标赛首四场开战，德克萨斯vs北卡州立同日压轴，全程通过CBS/TBS/truTV及Paramount+播出。",
+      "url": "https://www.usatoday.com/story/sports/ncaab/2026/03/17/ncaa-tournament-schedule-march-madness-games-today-times-first-four/89188917007/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-sports-2",
+      "title": "日本WBC主帅井端弘和宣布赛后请辞，世界棒球经典赛折戟",
+      "description": "ESPN报道，日本队在本届世界棒球经典赛失利后，主教练井端弘和宣布卸任。",
+      "url": "http://www.espn.com/espn/latestnews",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-sports-3",
+      "title": "意甲：佛罗伦萨客场挑战保级队克雷莫纳，历史积分压倒性占优",
+      "description": "北京时间3月17日凌晨意甲对决，佛罗伦萨历史交锋占据绝对优势，克雷莫纳主力后卫和前锋双双缺阵。",
+      "url": "https://sports.sina.com.cn/l/2026-03-16/doc-inhrctqw6051966.shtml",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-sports-4",
+      "title": "西甲：巴列卡诺主场战莱万特，关键保级大战牵动降级区格局",
+      "description": "双方均深陷保级困境，巴列卡诺凭借稳固主场防线被看好，莱万特近期状态持续低迷。",
+      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801nrqg.html",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-sports-5",
+      "title": "澳超生死战：悉尼FC主场迎战墨尔本城，积分差仅一分",
+      "description": "两队分列联赛第2、3位，此役结果将直接影响季后赛席位排序，主场作战的悉尼FC略占优势。",
+      "url": "https://cj.sina.com.cn/articles/view/7879995911/1d5af320706801nn7m",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-sports-6",
+      "title": "NBA：开拓者客场挑战篮网，西部附加赛席位争夺战关键一役",
+      "description": "波特兰开拓者（32胜36负）冲击季后赛附加席位，布鲁克林篮网（17胜50负）成为理想猎物。",
+      "url": "https://sports.sina.cn/2026-03-16/detail-inhrequs9851626.d.html",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-sports-7",
+      "title": "纽约、芝加哥、迈阿密等城市酝酿新建体育场馆，美国体育地产热潮涌现",
+      "description": "The Athletic报道，多个大城市同步推进新球场项目，美国体育基础设施进入新一轮投资周期。",
+      "url": "https://www.nytimes.com/athletic/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-sports-8",
+      "title": "巴萨3月17日动态汇总：欧冠备战情况及伤情最新进展",
+      "description": "雅虎体育整合巴塞罗那最新报道，球队正积极备战欧冠淘汰赛，多名球员伤情持续受关注。",
+      "url": "https://sports.yahoo.com/articles/fc-barcelona-news-17-march-100000541.html",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-sports-9",
+      "title": "MLB春训：红雀队与国民队春训赛事正常进行",
+      "description": "美职棒各队春训战役持续火热，夏威夷媒体实时播报本地球迷关注赛程。",
+      "url": "https://www.staradvertiser.com/2026/03/17/sports/television-and-radio-march-17-2026/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-sports-10",
+      "title": "西甲/意甲多场同日开战，竞彩分析师看好客队与主场强队",
+      "description": "多场欧洲联赛同日开战，德比郡客场不败纪录受考验，克雷莫纳阵容受伤困扰。",
+      "url": "https://sports.sina.cn/2026-03-16/detail-inhrezkn9794812.d.html",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-war-1",
+      "title": "美以对伊军事打击进入第17天，以色列摧毁哈梅内伊专机",
+      "description": "以色列国防军宣布3月16日摧毁前伊朗最高领袖哈梅内伊的专机及德黑兰梅赫拉巴德机场相关设施。",
+      "url": "https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-16",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-war-2",
+      "title": "伊朗发动\"真实承诺-4\"第44轮军事行动，打击美国第五舰队基地",
+      "description": "伊朗使用\"霍拉姆沙赫尔\"等多型精确制导导弹及无人机，对以色列北部军事基地及美军第五舰队发动大规模打击。",
+      "url": "https://news.cctv.cn/2026/03/13/ARTIGMwynFlMnRzctxTzNrDp260313.shtml",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-war-3",
+      "title": "伊朗民兵武装对巴格达美军目标发动两轮袭击，均被拦截",
+      "description": "亲伊武装宣称袭击伊拉克境内美军目标，两次导弹均被成功拦截；阿布扎比平民车辆中弹致1人死亡。",
+      "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-war-4",
+      "title": "以色列在黎巴嫩南部发动逾40次空袭，地面攻势持续扩大",
+      "description": "以军宣布扩大在黎南部的地面行动规模，同日发动40余次空袭，黎以边境局势再度紧张。",
+      "url": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-war-5",
+      "title": "泽连斯基证实：伊朗使用俄制沙希德无人机袭击中东美军基地",
+      "description": "乌克兰总统表示已获取\"百分之百确认\"的情报，伊朗以俄制零件生产的无人机攻击美军目标。",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-15-2026/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-war-6",
+      "title": "特朗普宣称美军已\"重创\"伊朗军队，但拒绝宣布战事结束",
+      "description": "特朗普声称将对伊战争推迟至解决中东局势后再作正式定性，并继续向北约和中国施压要求派舰护航油轮。",
+      "url": "https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-16",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-war-7",
+      "title": "美军精确打击霍尔木兹岛海军水雷与导弹储存设施",
+      "description": "CENTCOM证实美军对伊朗霍尔木兹岛实施大规模精准打击，摧毁伊朗海军水雷库与导弹仓库等关键设施。",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-14-2026/",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-war-8",
+      "title": "特朗普考虑推迟访华行程，中东战事或拖延美中峰会",
+      "description": "白宫暗示若伊朗局势持续升级，特朗普可能需要留守华盛顿，中美领导人峰会面临延期风险。",
+      "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-war-9",
+      "title": "美国将驻韩\"萨德\"系统部分装备调往中东，引发韩国朝野强烈反弹",
+      "description": "美国军方将萨德反导装备调离韩国支援中东行动，韩国民间团体疾呼应终止萨德部署。",
+      "url": "http://www.news.cn/asia/20260313/f1bbc969ddad4f8ab3cc351d97addd64/c.html",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-17-war-10",
+      "title": "中国解放军3月起正式启用全新《预备役人员证》，战时应召参战凭证标准化",
+      "description": "国防部发言人介绍，全军自3月1日起制发新版预备役人员证，覆盖战时参战、军事训练及福利保障等全场景。",
+      "url": "http://www.mod.gov.cn/gfbw/qwfb/16447954.html",
+      "publishedAt": "2026-03-17T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    }
+  ],
   "2026-03-16": [
     {
       "id": "2026-03-16-technology-1",
