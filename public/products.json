@@ -1,4 +1,79 @@
 {
+  "2026-03-17": {
+    "insight": "Nvidia GTC 确立了 \"AI Agent as Enterprise Infrastructure\" 的新范式——未来 6 个月，Agent Platform Layer 的竞争格局将从 OpenAI/Anthropic API 战争，演变为 Nvidia/Google/Microsoft 的 Platform Lock-in 战争。 *来源：HN Show HN / Product Hunt / TAAFT / CNET GTC Live Blog / web_search*",
+    "products": [
+      {
+        "id": "2026-03-17-1",
+        "title": "Nvidia NemoClaw",
+        "score": 89,
+        "description": "Nvidia GTC 发布的开源企业级 AI Agent 平台，基于 OpenClaw 架构，让 Salesforce/Google 等企业可以一键部署本地 AI Agent，跑在 RTX PRO 6000 Blackwell GPU 上，安全隔离、垂直集成。",
+        "team": "Nvidia（$5T 市值）× OpenClaw 开源社区，Jensen Huang 亲自发布",
+        "popularity": "GTC 2026 主场发布，CNBC/TechCrunch/CNET 全媒体头条，$1T 预期订单背书",
+        "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+        "opinion": "Enterprise Agent Platform 是今年最大的 Platform Bet，NemoClaw 直接把 Infrastructure Layer 锁死在 Nvidia 生态里——对 toB 赛道的所有 AI Startup 来说，这是 Moat 还是 Threat，值得认真复盘。ROI 逻辑极度清晰：卖 GPU → 卖 Platform → 锁住 Enterprise 客户 Retention。",
+        "publishedAt": "2026-03-17T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-17-2",
+        "title": "Godogen",
+        "score": 82,
+        "description": "基于 Claude Code Skills 的开源游戏生成 pipeline，输入一句话描述 → 自动生成完整可玩的 Godot 4 游戏（含 GDScript、美术素材、自动视觉 QA 纠错），零人工干预。",
+        "team": "独立开发者 htdt，一年级侧项目，完全开源",
+        "popularity": "HN Show HN 273 points / 175 comments，今日最热 AI 项目；GIGAZINE 英日双语报道",
+        "url": "https://github.com/htdt/godogen",
+        "opinion": "这是\"Text → Playable Product\"最完整的 end-to-end 实现之一。核心 Engineering 挑战（GDScript 训练数据稀缺、视觉 QA 自我纠错）都有真实解法，不是 Demo 骗局。PMF 潜力在独立游戏开发者群体里极高，Retention 取决于生成质量稳定性。",
+        "publishedAt": "2026-03-17T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-17-3",
+        "title": "Unsloth Studio",
+        "score": 76,
+        "description": "LLM 微调框架 Unsloth 推出可视化 Studio 界面，让非工程师也能通过 GUI 完成 fine-tuning，支持所有主流模型（含 DeepSeek、Qwen、Llama），训练速度 2x、VRAM 节省 70%。",
+        "team": "Unsloth AI，GitHub 53.9K stars，Fine-tuning 赛道头部开源项目",
+        "popularity": "HN Show HN 今日上榜（刚发布），GitHub 持续高热，NVIDIA Blog 联合推广",
+        "url": "https://github.com/unslothai/unsloth",
+        "opinion": "Democratizing Fine-tuning 是今年 AI Infra 最确定的趋势之一。Studio GUI 降低了 non-engineer 的使用门槛，但核心问题是：Paid Tier 的 Willingness to Pay 有多强？开源社区用户付费转化率往往是瓶颈，需要看 PMF 数据再判断商业闭环。",
+        "publishedAt": "2026-03-17T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-17-4",
+        "title": "Naoma AI Demo Agent",
+        "score": 74,
+        "description": "B2B SaaS 的 AI 视频销售 Agent，自动 24/7 运行真实产品 Demo，支持 33 种语言，10 秒内启动，早期 Pilot 数据已有无人工参与成交案例。将 \"Book a Demo\" 变成 \"Get an AI Demo Now\"。",
+        "team": "Naoma AI（美国），从销售分析平台 Pivot，YC interview 候选",
+        "popularity": "PH 今日推荐，Martechcube 报道，早期 Pilot 转化率 6-20%",
+        "url": "https://www.naoma.ai/",
+        "opinion": "Sales Demo 自动化的 ROI 逻辑非常清晰——SDR 成本高、响应慢是真实痛点。但 Inference Latency 和 Demo 真实性是关键 Engineering 挑战，Hallucination 在销售场景里的代价很高。6-20% 转化率如果是真实 A/B Test 数据，PMF 可期，但需要更大样本验证。",
+        "publishedAt": "2026-03-17T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-17-5",
+        "title": "ByteDance Seed v1.8",
+        "score": 72,
+        "description": "字节跳动发布 Seed v1.8 多模态 Agent 模型，重点突破 GUI Agent（FreeCAD、CapCut 等重型应用操作）、Tool Orchestration（MCP-Mark 基准）、视觉幻觉减少，定位\"真实世界复杂度边界\"而非传统 Benchmark 刷分。",
+        "team": "字节跳动 Seed 团队，连续多版本迭代，中国 AI 基础模型第一梯队",
+        "popularity": "TAAFT 今日 #1 上榜（1873 saves），字节内部战略级项目",
+        "url": "https://seed.bytedance.com/en/seed1_8",
+        "opinion": "GUI Agent 能在 FreeCAD 这类专业软件里端到端操作，是今年 AI Agent 落地最硬的方向之一。Token Cost 和 Inference Latency 在重型 GUI 场景下是硬约束，字节的算力资源是护城河。关注后续 API 开放节奏，商业化路径比 Benchmark 更重要。",
+        "publishedAt": "2026-03-17T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      }
+    ]
+  },
   "2026-03-16": {
     "insight": "> 大模型头部产品集中向 \"Multimodal × Interactive Output\" 方向发力（Claude 可视化、Maps Gemini 深度集成），AI 的竞争已从模型 Benchmark 转向 Product Experience 层的 UX 范式重构。 *Tags: #AI产品快报 #Claude #OpenAI #Google #Perplexity #NVIDIA #2026*",
     "products": [
