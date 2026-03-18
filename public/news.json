@@ -1,4 +1,486 @@
 {
+  "2026-03-18": [
+    {
+      "id": "2026-03-18-technology-1",
+      "title": "Nvidia GTC 2026 Day 3：AI Agent、迪士尼机器人重磅登场",
+      "description": "黄仁勋在GTC大会上展示AI Agent最新进展，并推出支持自动驾驶的软件平台，MotorTrend授予其2026年度人物奖。",
+      "url": "https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-technology-2",
+      "title": "三星：AI浪潮推动2026年芯片需求强劲",
+      "description": "三星高管表示全球AI热潮将持续拉动芯片需求，但内存价格上涨或影响PC与手机出货量。",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/03/18/samsung-sees-ai-driving-strong-chip-demand-in-2026-executive-says",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-technology-3",
+      "title": "Bloomberg：AI泡沫是否即将破裂？",
+      "description": "随着AI应用从聊天机器人扩展至视频编辑、代码生成等高价值场景，市场开始评估AI投资热潮的可持续性。",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-18/is-an-ai-bubble-set-to-burst-navigating-the-artificial-intelligence-boom",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-technology-4",
+      "title": "黄仁勋GTC演讲：剑指万亿营收，发布LPU与太空芯片",
+      "description": "英伟达CEO大幅上调新一代AI芯片收入预期，正式推出下一代硬件平台并发布\"一键养虾\"等创新软件栈。",
+      "url": "https://finance.sina.com.cn/stock/y/2026-03-18/doc-inhrkfuw1628511.shtml",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-technology-5",
+      "title": "Morgan Stanley警告：2026年上半年AI将迎重大突破，世界尚未准备好",
+      "description": "摩根士丹利最新报告指出，一场变革性的AI飞跃正在临近，多数行业尚未做好应对准备。",
+      "url": "https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-technology-6",
+      "title": "Apple正式宣布全新AI驱动Siri将于2026年亮相",
+      "description": "苹果全面重塑Siri，新版具备\"屏幕感知\"能力，将成为真正的上下文感知智能助手。",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-technology-7",
+      "title": "IBM：2026年将是前沿模型与高效模型分化之年",
+      "description": "IBM首席科学家预测，AI领域将形成追求极限能力与注重效率两大模型路线的明显分野。",
+      "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-technology-8",
+      "title": "TechCrunch：2026年AI从炒作走向务实",
+      "description": "Yann LeCun离开Meta创立世界模型实验室，估值目标50亿美元；Google DeepMind的Genie项目加速推进。",
+      "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-technology-9",
+      "title": "EA 550亿美元收购案：AI或将大幅削减游戏工程师岗位",
+      "description": "华尔街银行开始出售与EA 550亿美元杠杆收购相关的180亿美元债务，EA向投资者表示AI将重塑工程人员结构。",
+      "url": "https://llm-stats.com/ai-news",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-technology-10",
+      "title": "AI代理创建民主化：普通业务用户将可自主部署智能代理",
+      "description": "IBM技术专家指出，设计和部署智能代理的能力正从开发者向普通业务用户延伸，这是2026年最令人兴奋的转变。",
+      "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-business-1",
+      "title": "美联储预计维持利率不变，面临伊朗战争通胀压力与劳动力市场走弱双重挑战",
+      "description": "美联储在当前政策会议上料将按兵不动，通胀与就业之间的权衡使其陷入两难。",
+      "url": "https://www.npr.org/sections/business/",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-business-2",
+      "title": "Lululemon发布疲软业绩展望，关税高企与创始人代理权之争拖累股价",
+      "description": "Lululemon全年营收与利润指引低于预期，国际市场尤其中国成为少数亮点。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-18/doc-inhrkfuu4848966.shtml",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-business-3",
+      "title": "霍尔木兹困局考验各国石油储备，纽约期金跌破5000美元",
+      "description": "中东紧张局势令全球原油供应承压，贵金属价格出现波动，黄金日内跌幅约0.5%。",
+      "url": "https://finance.sina.com.cn/stock/y/2026-03-18/doc-inhrkfuu4886120.shtml",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-business-4",
+      "title": "美股三大指数隔夜收涨：纳指涨0.47%，谷歌、亚马逊均涨超1%",
+      "description": "美国股市周二整体走强，科技股领涨，英伟达小幅下滑0.7%。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-18/doc-inhrkfva3436259.shtml",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-business-5",
+      "title": "UniCredit对德国商业银行发出低价无约束收购要约，欧洲最大跨境银行并购僵局或打破",
+      "description": "这将是2008年金融危机以来欧洲最大跨境银行合并交易，目前仍处于谈判博弈阶段。",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-business-6",
+      "title": "印度股市三连涨：Sensex涨逾700点，Nifty50突破23790",
+      "description": "印度股市在全球不确定性背景下连续第三天上涨，IT与汽车板块领涨，金属与快消品板块承压。",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-18-2026-dalal-street-indian-equities-global-markets-us-iran-war-middle-east-conflict-donald-trump-oil-prices/articleshow/129645781.cms",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-business-7",
+      "title": "OpenAI或年底前上市，中概股多数下跌",
+      "description": "市场消息显示OpenAI IPO计划提速，同期中概股普遍承压，韩国投资者则逆势增持中国资产。",
+      "url": "https://finance.sina.cn/zaobao/app.d.html?date=20260318",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-business-8",
+      "title": "中国财政部：2026年继续实施更加积极财政政策",
+      "description": "官方确认2025年全国一般公共预算支出达28.7万亿元，2026年将进一步加大财政支持力度。",
+      "url": "https://finance.sina.cn/zaobao/app.d.html?date=20260318",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-business-9",
+      "title": "A股科技成长板块早盘反弹，半导体与AI概念集体走强",
+      "description": "受英伟达GTC大会催化，A股半导体、人工智能、通信设备ETF资金大幅流入。",
+      "url": "https://www.yicai.com/",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-business-10",
+      "title": "Accenture与FedEx财报季即将来袭，市场关注企业AI支出指引",
+      "description": "埃森哲与联邦快递将于3月19日发布财报，投资者重点关注AI与自动化投资的业绩反馈。",
+      "url": "https://www.google.com/finance/?hl=en",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-sports-1",
+      "title": "March Madness 2026开幕：First Four首日两场比赛打响",
+      "description": "2026年NCAA男篮锦标赛正式揭幕，11号种子里士满对阵内布拉斯加，16号种子斯蒂芬奥斯汀对阵密苏里州立。",
+      "url": "https://www.today.com/news/sports/how-to-watch-stream-march-madness-2026-rcna263934",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-sports-2",
+      "title": "女子NCAA篮球锦标赛同步开幕，多支强队角逐总冠军",
+      "description": "2026年女子NCAA篮球赛事同日启动，赛程与男子赛事并行，多支种子队备受关注。",
+      "url": "https://www.nbcsports.com",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-sports-3",
+      "title": "欧冠1/8决赛次回合：切尔西主场背水一战迎战巴黎圣日耳曼",
+      "description": "首回合巴黎客场5-2大胜，切尔西需上演惊天逆转，两队有望再现进球大战。",
+      "url": "https://cj.sina.com.cn/articles/view/7879995911/1d5af320706801nut0",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-sports-4",
+      "title": "欧冠1/8决赛：曼城主场迎战皇家马德里，双雄伤病潮影响晋级争夺",
+      "description": "曼彻斯特城与皇马均深陷伤病危机，次回合生死战悬念丛生，皇马被看好客场不败。",
+      "url": "https://cj.sina.com.cn/articles/view/7879995911/1d5af320706801nub8",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-sports-5",
+      "title": "欧冠1/8决赛：阿森纳主场对阵勒沃库森，枪手有望顺利晋级八强",
+      "description": "首回合双方1-1战平，阿森纳凭借主场优势与阵容深度被普遍看好赢下本场晋级战。",
+      "url": "https://cj.sina.com.cn/articles/view/7879995911/1d5af320706801nu9o",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-sports-6",
+      "title": "欧冠：里斯本竞技主场迎战博德闪耀，背水一战能否创造奇迹？",
+      "description": "首回合里斯本竞技客场0-3完败，主场奇迹几乎不可能，挪威黑马博德闪耀有望首次闯入八强。",
+      "url": "https://cj.sina.com.cn/articles/view/7879995911/1d5af320706801nwuk",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-sports-7",
+      "title": "FC巴塞罗那引援进展：巴斯托尼转会选项获牵引力",
+      "description": "意大利媒体报道国际米兰已决定夏窗出售巴斯托尼，巴萨正积极跟进这名后卫的转会事宜。",
+      "url": "https://sports.yahoo.com/articles/fc-barcelona-news-18-march-100000416.html",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-sports-8",
+      "title": "Vanderbilt爆冷击败佛罗里达，SEC锦标赛晋级半决赛",
+      "description": "范德比尔特大学在SEC联赛半决赛中以黑马姿态击败状态火热的佛罗里达，制造本赛季最大冷门之一。",
+      "url": "http://www.espn.com/espn/latestnews",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-sports-9",
+      "title": "March Madness 2026完整支架：PDF版本发布，球迷竞猜热情高涨",
+      "description": "2026年NCAA锦标赛赛程支架已发布，球迷可下载PDF版本参与预测竞猜。",
+      "url": "https://ftw.usatoday.com/story/sports/ncaab/2026/03/18/printable-march-madness-bracket-2026-pdf/89207749007/",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-sports-10",
+      "title": "普渡大学击败UCLA晋级Big Ten决赛，Cluff贡献17分",
+      "description": "18号种子普渡大学在关键时刻依靠Cluff的出色发挥击败UCLA，晋级Big Ten锦标赛决赛。",
+      "url": "http://www.espn.com/espn/latestnews",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-war-1",
+      "title": "伊朗战争最新：以色列打击伊朗关键天然气田，德黑兰威胁袭击海湾各国能源设施",
+      "description": "以色列空军对伊朗天然气田发动精确打击，伊朗随即威胁将对整个海湾地区能源基础设施展开报复。",
+      "url": "https://www.timesofisrael.com/liveblog-march-18-2026/",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-war-2",
+      "title": "伊朗战争死亡人数更新：Hengaw组织估计伊朗军事人员死亡逾4800人",
+      "description": "人权组织最新统计显示，自冲突爆发以来伊朗军事力量死亡人数已大幅攀升至4800+。",
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-war-3",
+      "title": "以色列国防军：将追杀伊朗新任最高领袖穆杰塔巴·哈梅内伊",
+      "description": "以军发言人明确表示将把伊朗新任精神领袖列为打击目标，局势进一步升级。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-18/doc-inhrkfuw1650997.shtml",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-war-4",
+      "title": "俄罗斯谴责美以袭击伊朗核设施为\"不可接受行为\"，警告华盛顿与特拉维夫",
+      "description": "俄方强烈谴责美以联合空袭伊朗核设施，并发出严重警告，中俄对局势升级的态度备受关注。",
+      "url": "https://www.moneycontrol.com/world/us-israel-iran-war-news-live-updates-dubai-doha-missile-drone-attacks-strait-of-hormuz-18th-march-2026-liveblog-13863544.html",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-war-5",
+      "title": "伊朗向海湾国家发动导弹袭击，以色列本古里安机场3架私人飞机受损",
+      "description": "伊朗导弹袭击造成包括2名儿童在内的3人受伤，本古里安机场多架飞机受损，局势持续紧张。",
+      "url": "https://www.timesofisrael.com/liveblog-march-18-2026/",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-war-6",
+      "title": "美军对霍尔木兹海峡附近伊朗导弹阵地使用5000磅级钻地弹药",
+      "description": "美国中央司令部确认，美军再次对伊朗沿海导弹设施发动精确打击，此前已摧毁哈尔格岛军事设施。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-18/doc-inhrkfuw1650997.shtml",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-war-7",
+      "title": "特朗普：北约盟友拒绝支持中东军事行动，美国\"根本不需要任何人帮助\"",
+      "description": "特朗普在\"真实社交\"发文，对北约盟友拒绝参与对伊军事行动表示不意外，并强调美国军事独立性。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-18/doc-inhrkfuu4848966.shtml",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-war-8",
+      "title": "以色列坦克炮击联合国在黎巴嫩阵地，联合国人权办公室警告可能构成战争罪",
+      "description": "以色列军方承认坦克击中联合国阵地，本月以军在黎巴嫩的系列空袭行为引发国际社会严重关切。",
+      "url": "https://www.justsecurity.org/134188/early-edition-march-18-2026/",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-war-9",
+      "title": "伊朗处决一名被指控为以色列间谍的人员",
+      "description": "伊朗司法机构确认处决一名以色列间谍，此举被视为战时内部安全清洗与对外强硬姿态的双重信号。",
+      "url": "https://www.fdd.org/overnight-brief/march-18-2026/",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-18-war-10",
+      "title": "中国国防部3月中旬例行发布：强调对日\"新型军国主义\"保持高度警惕",
+      "description": "国防部新闻发布会上，发言人警告日本加速\"再军事化\"动向，强调中方对任何侵犯主权行为将予以坚决回击。",
+      "url": "http://www.mod.gov.cn/gfbw/qwfb/16449605.html",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    }
+  ],
   "2026-03-17": [
     {
       "id": "2026-03-17-technology-1",
