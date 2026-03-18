@@ -1,4 +1,79 @@
 {
+  "2026-03-18": {
+    "insight": "> Computer Use 正式成为 2026 Q1 的核心军备赛——OpenAI、Google 相继发布桌面代理能力，AI 的竞争边界从\"回答问题\"全面迁移到\"完成任务\"，Agent-first 产品架构将重塑整个 B2B SaaS 市场格局。 *由 Linda AI 自动生成 | 数据来源：Product Hunt / HN / TechCrunch / TAAFT / Web Search*",
+    "products": [
+      {
+        "id": "2026-03-18-1",
+        "title": "GPT-5.4 (Computer Use)",
+        "score": 75,
+        "description": "OpenAI 首个内置 Computer Use 的通用模型，可在 API/Codex 中直接操控桌面完成跨应用工作流——OSWorld 评测 75%，首次超过人类基线 72.4%。1M token 上下文，token 消耗减少 47%。",
+        "team": "OpenAI（$157B 估值，Sam Altman）",
+        "popularity": "VentureBeat / multiple tier-1 媒体报道，发布后 Claude 冲上 App Store #1（反向验证热度）",
+        "url": "https://openai.com/index/introducing-gpt-5-4/",
+        "opinion": "Computer Use 是 2026 最关键的 PMF 赛跑方向——谁先跑通 Desktop Agent 的 End-to-End Retention，谁就拿下 Enterprise 替代传统 RPA 的市场。OpenAI 用 75% OSWorld 建立了 Benchmark 锚点，但真正的 ROI 闭环要看 Q2 企业 ARR 数据。",
+        "publishedAt": "2026-03-18T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-18-2",
+        "title": "Claude Memory 全面免费开放",
+        "score": 73,
+        "description": "Anthropic 将 Memory 功能向所有免费用户开放，并新增从 ChatGPT/Gemini 一键导入上下文工具——从\"每次归零\"到\"认识你的助手\"，直接拉高 D7/D30 Retention 预期。",
+        "team": "Anthropic（$380B 估值，Dario Amodei）",
+        "popularity": "Dataconomy、Mashable、多家媒体报道；Pentagon 事件后 Claude App Store #1，timing 极佳",
+        "url": "https://dataconomy.com/2026/03/04/anthropic-makes-claude-memory-feature-free-for-all-users/",
+        "opinion": "Memory 免费 + 竞品导入工具，这是教科书级别的用户迁移策略。ROI 逻辑极清晰：降低切换成本 → 提升 MAU → 付费转化。我更关心的是 Memory 的 Hallucination Rate——如果用户发现被\"记错了\"，Churn 反而会加速。",
+        "publishedAt": "2026-03-18T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-18-3",
+        "title": "Grok 4.20 Beta (4-Agent 架构)",
+        "score": 68,
+        "description": "xAI 发布四代理并行架构：Grok 统筹、Harper 实时 X 数据核查、Benjamin 逻辑/代码、Lucas 创意推理。128K context，原生图像理解，实时 X 平台数据接入——benchmark 待公布，Beta 预计 3 月底正式 GA。",
+        "team": "xAI（Elon Musk，SpaceX 收购加持）",
+        "popularity": "多平台报道，2 月 17 发布至今持续发酵；Tesla 生态用户高度关注",
+        "url": "https://x.ai",
+        "opinion": "四代理架构是真差异化，不是 marketing——实时 X 数据接入是竞品没有的硬壁垒。但 Engineering 复杂度极高，Latency 是最大风险点。等 benchmark 正式发布后再判断 PMF，现在的热度有一半是 Musk 流量。",
+        "publishedAt": "2026-03-18T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-18-4",
+        "title": "Gemini 3.1 Flash-Lite",
+        "score": 65,
+        "description": "Google 最低成本/最高效率模型，3 月 3 日上线 Preview，支持 Computer Use（Gemini API + Vertex AI）。针对高并发企业场景设计，同等性能下成本大幅低于 3.1 Pro。",
+        "team": "Google DeepMind（全球最强 AI 研究团队之一）",
+        "popularity": "Google 官方博客发布，开发者社区持续讨论；Gemini 3.1 Pro 已跑赢 16 项 benchmark 中的 13 项",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+        "opinion": "Flash-Lite 的 ROI 逻辑很直接——Token Cost 压缩到极致，开发者采用率会快速拉升。真正的问题是 Accuracy Degradation 在什么任务类型上显现，这决定了它能否替代 Pro 跑生产环境。",
+        "publishedAt": "2026-03-18T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-18-5",
+        "title": "Preplo",
+        "score": 54,
+        "description": "把烹饪视频转化为结构化食谱的 toC AI 工具——上传视频或链接，自动提取步骤、食材、时间。TAAFT 热度 3,700+，toC 用户粘性强，Free + $3.33/月定价门槛极低。",
+        "team": "独立开发者（There's An AI For That 今日新上线）",
+        "popularity": "TAAFT 3,704 热度评分，今日上线后持续攀升；用户评论正向",
+        "url": "https://preplo.app",
+        "opinion": "这个赛道的核心问题是 Stickiness——做饭这件事本身频率不高，Retention 曲线会很陡。但食谱场景是 Hook Model 的好载体（触发→行动→奖励→投入），如果能打通购物清单/外卖等下游，PMF 有机会成立。低团队背景背书是主要减分项。",
+        "publishedAt": "2026-03-18T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      }
+    ]
+  },
   "2026-03-17": {
     "insight": "Nvidia GTC 确立了 \"AI Agent as Enterprise Infrastructure\" 的新范式——未来 6 个月，Agent Platform Layer 的竞争格局将从 OpenAI/Anthropic API 战争，演变为 Nvidia/Google/Microsoft 的 Platform Lock-in 战争。 *来源：HN Show HN / Product Hunt / TAAFT / CNET GTC Live Blog / web_search*",
     "products": [
