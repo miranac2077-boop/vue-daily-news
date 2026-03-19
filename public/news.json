@@ -1,4 +1,486 @@
 {
+  "2026-03-19": [
+    {
+      "id": "2026-03-19-technology-1",
+      "title": "Nvidia GTC 2026 全面回顾：AI、机器人与芯片新进展",
+      "description": "Nvidia本周发布会聚焦AI基础设施、自动驾驶及机器人技术，展示多项前沿突破",
+      "url": "https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-technology-2",
+      "title": "Apple 宣布 2026 年推出全面重构的 AI 版 Siri",
+      "description": "新Siri将具备\"屏幕感知\"能力，实现真正的上下文感知交互体验",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-technology-3",
+      "title": "Anthropic 起诉五角大楼，争夺 AI 供应商资格",
+      "description": "Anthropic就美国国防部AI采购资质问题提起诉讼，临时听证定于3月24日",
+      "url": "https://techstartups.com/2026/03/18/top-tech-news-today-march-18-2026/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-technology-4",
+      "title": "中国拥抱 AI 智能体浪潮，政府态度审慎",
+      "description": "AI Agent工具在中国科技圈迅速普及，北京投入巨资推进AI发展但对自主代理持谨慎态度",
+      "url": "https://www.nytimes.com/2026/03/17/business/china-ai-agent.html",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-technology-5",
+      "title": "阿里巴巴跟随科技巨头上调 AI 及云存储价格最高 34%",
+      "description": "阿里云大幅涨价，与全球主要AI云服务商涨价趋势一致",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/alibaba-joins-other-tech-giants-in-raising-ai-prices/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-technology-6",
+      "title": "Meta 延迟发布新 AI 大模型\"Avocado\"",
+      "description": "因性能问题推迟上线，Meta已在AI领域投入数十亿美元",
+      "url": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-technology-7",
+      "title": "Morgan Stanley 警告：2026 年上半年将迎 AI 重大突破，世界尚未准备好",
+      "description": "投行报告指出即将到来的AI跃迁将对各行各业产生颠覆性影响",
+      "url": "https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-technology-8",
+      "title": "IBM：2026 年是前沿模型与高效模型路线之争的分水岭",
+      "description": "IBM首席研究科学家预言今年将是AI模型发展路径的关键转折年",
+      "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-technology-9",
+      "title": "L3Harris 与 Shield AI 完成首次自主电子战演示",
+      "description": "AI驱动的自主电子战能力首次成功演示，标志着军事AI应用新里程碑",
+      "url": "https://www.devflokers.com/blog/ai-news-breakthroughs-march-13-2026",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-technology-10",
+      "title": "NVIDIA 发布2026年AI现状报告：AI正在全面驱动营收增长与效率提升",
+      "description": "NVIDIA年度报告显示AI跨行业落地提速，ROI实现明显",
+      "url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-business-1",
+      "title": "美联储维持利率不变，预计通胀将继续上升",
+      "description": "面对中东战事引发的油价飙升和就业市场疲软，美联储按兵不动",
+      "url": "https://www.reuters.com/business/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-business-2",
+      "title": "道指重挫逾750点创2026年新低，通胀担忧持续压制市场",
+      "description": "油价冲击引发市场避险情绪升温，美股三大指数全线下跌",
+      "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-business-3",
+      "title": "债券市场不再定价2026年任何降息预期",
+      "description": "受英国央行鹰派表态影响，交易员全面撤出年内降息押注",
+      "url": "https://www.bloomberg.com/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-business-4",
+      "title": "伊朗战争推动油价飙升，全球股债双杀",
+      "description": "中东局势升级令能源价格持续攀升，央行被迫考虑进一步收紧政策",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-18/stock-market-today-dow-s-p-live-updates-",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-business-5",
+      "title": "JPMorgan 宣布与明星运动员合作成立理财顾问委员会",
+      "description": "摩根大通推出面向运动员的全新金融咨询服务",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-business-6",
+      "title": "腾讯将于3月18日召开董事会会议并公布全年业绩",
+      "description": "腾讯年度业绩备受市场关注，AI与游戏业务表现为焦点",
+      "url": "https://www.nbd.com.cn/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-business-7",
+      "title": "2026中关村论坛年会即将开幕，国新办举行新闻发布会",
+      "description": "中国科技创新盛会聚焦AI、机器人、商业航天等前沿领域",
+      "url": "https://www.nbd.com.cn/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-business-8",
+      "title": "美联储决策引发市场震荡，专家解读鲍威尔讲话信号",
+      "description": "投资者密切分析美联储主席措辞，寻找未来货币政策走向线索",
+      "url": "https://cn.investing.com/news/latest-news",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-business-9",
+      "title": "机器人企业频现大额融资，全球资管巨头最新持仓曝光",
+      "description": "人形机器人赛道持续受资本追捧，机构持仓结构引发市场关注",
+      "url": "https://finance.sina.com.cn/stock/y/2026-03-02/doc-inhppxwv1576003.shtml",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-business-10",
+      "title": "Block CEO Jack Dorsey 宣布裁员逾4000人，押注AI重组公司",
+      "description": "Dorsey称配备AI工具的精简团队可超越更大规模的传统团队",
+      "url": "https://www.marketingprofs.com/opinions/2026/54379/ai-update-march-6-2026-ai-news-and-views-from-the-past-week",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-sports-1",
+      "title": "2026 NCAA疯狂三月正式开打，男篮首轮16场对决今日全面打响",
+      "description": "首轮赛事今日登场，OSU对阵TCU率先揭幕，赛程紧凑精彩纷呈",
+      "url": "https://www.ncaa.com/news/basketball-men/article/2026-03-19/2026-march-madness-mens-ncaa-tournament-schedule-dates",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-sports-2",
+      "title": "女子疯狂三月首轮今日开赛，专家全程赛事预测出炉",
+      "description": "女子NCAA锦标赛第一轮同步进行，各路专家预测悉数发布",
+      "url": "https://eu.usatoday.com/story/sports/ncaaw/2026/03/19/womens-ncaa-tournament-predictions-march-madness-expert-picks-march-19/89222659007/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-sports-3",
+      "title": "WNBA球员工会与联盟达成新劳资协议，历经8天马拉松谈判",
+      "description": "双方在纽约经过长达8天密集谈判后达成口头协议，新CBA正式落地",
+      "url": "https://www.nytimes.com/athletic/7113991/2026/03/18/wnba-players-new-labor-deal/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-sports-4",
+      "title": "欧冠1/8决赛：巴萨主场迎战纽卡斯尔，雅马尔创19岁以下欧冠进球纪录",
+      "description": "拉明·雅马尔成为欧冠历史上19岁以下最高进球数球员，巴萨晋级形势乐观",
+      "url": "https://sports.yahoo.com/articles/fc-barcelona-news-19-march-100000308.html",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-sports-5",
+      "title": "欧冠焦点战：热刺主场对阵马德里竞技，伤病潮下上演生死救赎",
+      "description": "首回合落败的热刺在白鹿巷誓死一搏，能否完成逆转成最大悬念",
+      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801o4t4.html",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-sports-6",
+      "title": "NBA常规赛：湖人客战火箭，申京复出能否改变战局",
+      "description": "火箭核心申京伤愈复出，詹姆斯与东契奇率领的湖人连胜势头受到考验",
+      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801o1na.html",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-sports-7",
+      "title": "2026京东宿迁马拉松（迁马）即将开跑，赛事热情点燃全城",
+      "description": "大运河马拉松系列赛宿迁站开赛在即，吸引众多跑者参与",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903c4fw.html",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-sports-8",
+      "title": "如何观看2026疯狂三月：直播平台、电视赛程全指南",
+      "description": "CBS Sports与TNT Sports携手转播，流媒体平台同步上线",
+      "url": "https://www.today.com/news/sports/how-to-watch-stream-march-madness-2026-rcna263934",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-sports-9",
+      "title": "巴萨深度分析：传控哲学VS纽卡反击战术，主场晋级胜率更高",
+      "description": "综合双方近况与伤病情况，巴萨主场取胜概率占优",
+      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801o20s.html",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-sports-10",
+      "title": "Google DeepMind为Team USA冬奥运动员打造AI视频分析工具",
+      "description": "利用空间智能技术帮助精英运动员分析技术动作，科技赋能体育训练",
+      "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-war-1",
+      "title": "美以对伊朗军事打击进入第20天，伊朗互联网管控持续升级",
+      "description": "伊朗政府维持全国性断网状态，并开始打击Starlink设备使用者",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-16-2026/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-war-2",
+      "title": "ISW最新报告：美以停战面临重大战略挑战，伊朗誓言霍尔木兹海峡\"永不回原状\"",
+      "description": "伊朗议长加利巴夫警告海峡局势将长期改变，停火路径复杂",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-17-2026/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-war-3",
+      "title": "真主党对以北部发动31次袭击，以军持续扩大黎巴嫩南部地面行动",
+      "description": "真主党声称对以色列北部城镇及军事目标展开密集攻势",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-15-2026/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-war-4",
+      "title": "美军CENTCOM对伊朗海尔格岛实施大规模精确打击",
+      "description": "美军摧毁伊朗海军水雷储存设施、导弹库及多处军事目标",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-14-2026/",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-war-5",
+      "title": "伊朗发起\"真实承诺-4\"第44轮行动，打击美国第五舰队基地",
+      "description": "伊朗使用多型精确制导武器对以色列北部军事基地及美军基地发动打击",
+      "url": "https://news.cctv.cn/2026/03/13/ARTIGMwynFlMnRzctxTzNrDp260313.shtml",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-war-6",
+      "title": "特朗普称希望推迟访华计划，因中东冲突分心",
+      "description": "伊朗战争持续牵扯白宫精力，特朗普对华外交日程被迫调整",
+      "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-war-7",
+      "title": "美从韩国抽调部分导弹防御系统投入中东，引发菲律宾担忧",
+      "description": "美军在亚太地区的安全承诺可靠性受到质疑，地区盟友表示关切",
+      "url": "https://news.sina.com.cn/zx/ds/2026-03-12/doc-inhqtqkh4734551.shtml",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-war-8",
+      "title": "新华社：美以伊战争第17天战事速览，多地持续激烈交火",
+      "description": "战火蔓延至伊拉克、黎巴嫩多地，美以联合军事行动持续推进",
+      "url": "https://www.news.cn/world/20260317/cf3b65aecfb34fc4995af92498dcaa5c/c.html",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-war-9",
+      "title": "人民网分析：伊朗战事多重压力下，特朗普政府或寻机退出",
+      "description": "美以目标分歧、无清晰终局定义，白宫寻找体面退出路径",
+      "url": "http://world.people.com.cn/n1/2026/0313/c1002-40681073.html",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-19-war-10",
+      "title": "中国国防部：全军自3月起启用新版《预备役人员证》",
+      "description": "新证件覆盖战时应召、军事训练及非战争军事行动等多种情境",
+      "url": "http://www.mod.gov.cn/gfbw/qwfb/16447954.html",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    }
+  ],
   "2026-03-18": [
     {
       "id": "2026-03-18-technology-1",
