@@ -1,4 +1,79 @@
 {
+  "2026-03-20": {
+    "insight": "小模型 + Agentic Execution 是本周 AI 产品最强共振信号——GPT-5.4 mini、Copilot Cowork、Gemini Desktop Intelligence 三路并进，AI 的战场正式从\"回答问题\"迁移到\"完成任务\"。 > 数据来源：OpenAI 官方 Blog / Bloomberg / MacRumors / Microsoft 365 Blog / Google Developers Blog / Hacker News Show HN > 生成时间：2026-03-20 09:05 AM PST",
+    "products": [
+      {
+        "id": "2026-03-20-1",
+        "title": "GPT-5.4 mini & nano",
+        "score": 90,
+        "description": "OpenAI 发布最新小模型双连，mini 比 GPT-5 mini 快 2x 且逼近 GPT-5.4 大模型性能，nano 主攻 classification/coding subagent 极低成本场景。 - 🏢 团队：OpenAI，全球最大 AI 商业化公司，月活破 5 亿 - 📊 热度：官方 Blog 发布 + Releasebot 实时追踪，SWE-Bench Pro 跑分持平大模型",
+        "team": "",
+        "popularity": "",
+        "url": "https://openai.com/index/gpt-5-4-mini-and-nano",
+        "opinion": "",
+        "publishedAt": "2026-03-20T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-20-2",
+        "title": "Gemini for Mac",
+        "score": 85,
+        "description": "Google 开启 Gemini Mac 原生 App 私测，搭载 Desktop Intelligence 功能可读取屏幕、跨 App 执行任务，直接对标 Claude for Mac + ChatGPT Mac。 - 🏢 团队：Google DeepMind，Alphabet 旗下，Apple 合作方（iOS 27 Siri 底层） - 📊 热度：Bloomberg + MacRumors 联合报道（2026-03-19），公测时间未定",
+        "team": "",
+        "popularity": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-19/google-begins-testing-gemini-mac-app-to-match-chatgpt-and-claude",
+        "opinion": "",
+        "publishedAt": "2026-03-20T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-20-3",
+        "title": "Microsoft Copilot Cowork",
+        "score": 80,
+        "description": "Copilot 进化到 Agentic 执行层——用户 describe outcome，Cowork 自动拆解任务、读取 Outlook/Teams/Excel 数据、后台执行并在关键节点请求 approve。 - 🏢 团队：Microsoft 365，企业 AI 最大分发渠道，月活 3.2 亿 Office 用户 - 📊 热度：官方 Blog 发布（2026-03-09），Frontier Program 本月末扩大放开",
+        "team": "",
+        "popularity": "",
+        "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
+        "opinion": "",
+        "publishedAt": "2026-03-20T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-20-4",
+        "title": "KittenTTS",
+        "score": 77,
+        "description": "开源轻量 TTS 三连发：15M/40M/80M 参数模型，最小 25MB，CPU 上无 GPU 运行，ONNX 部署，8 种内置声音，edge 设备直接落地。 - 🏢 团队：KittenML，独立开发者团队，有商业授权 + 自定义声音服务 - 📊 热度：HN Show HN 496 points + 167 评论（本周最高 AI 热帖之一）",
+        "team": "",
+        "popularity": "",
+        "url": "https://github.com/KittenML/KittenTTS",
+        "opinion": "",
+        "publishedAt": "2026-03-20T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-20-5",
+        "title": "Google Pixel Drop (March 2026)",
+        "score": 72,
+        "description": "3 月 Pixel 系统更新：Gemini 可跨 App 执行任务（点餐/导航）、Circle to Search 支持图内多物体识别 + 服装 Try It On、Magic Cue 餐厅推荐。 - 🏢 团队：Google，Android 生态 30 亿设备覆盖 - 📊 热度：Google 官方 Blog 发布（2026-03-03），Pixel 用户全量推送",
+        "team": "",
+        "popularity": "",
+        "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
+        "opinion": "",
+        "publishedAt": "2026-03-20T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      }
+    ]
+  },
   "2026-03-19": {
     "insight": "",
     "products": [
