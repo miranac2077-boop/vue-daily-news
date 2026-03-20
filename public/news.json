@@ -1,4 +1,486 @@
 {
+  "2026-03-20": [
+    {
+      "id": "2026-03-20-technology-1",
+      "title": "Meta AI Agent引发大规模数据泄露",
+      "description": "Meta一个AI智能体的指令导致用户及公司敏感数据在内部员工间大规模泄露，引发广泛关注。",
+      "url": "https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-technology-2",
+      "title": "白宫发布国家AI政策框架",
+      "description": "特朗普政府发布全国性AI政策，旨在抢先制定联邦标准，限制各州单独立法，并加强儿童保护和能源成本管控。",
+      "url": "https://www.reuters.com/world/us/white-house-releases-national-ai-framework-2026-03-20/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-technology-3",
+      "title": "NVIDIA GTC 2026：AI、机器人与物理AI全面登场",
+      "description": "NVIDIA年度GTC大会本周在圣何塞召开，发布AI工厂、边缘计算及物理AI等重大进展，MotorTrend授予Jensen Huang年度人物奖。",
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-technology-4",
+      "title": "GPT-5.4、Claude 4.6等新一代AI模型集中亮相",
+      "description": "3月以来OpenAI发布GPT-5.4（支持百万token上下文），Anthropic推出Claude Sonnet 4.6，AI模型军备竞赛进入新阶段。",
+      "url": "https://www.vtnetzwelt.com/ai-development/latest-ai-technology-news-roundup-march-2026/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-technology-5",
+      "title": "IBM：2026年将是前沿模型与高效模型之争的分水岭年",
+      "description": "IBM首席研究科学家预测，今年AI领域核心竞争将聚焦于大型前沿模型与小型高效模型之间的路线分化。",
+      "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-technology-6",
+      "title": "AI立法更新：多州推进AI生成内容问责法案",
+      "description": "美国多个州本周同步推进AI相关立法，包括《2026年AI生成内容问责与隐私保护法》等重要法案进入审议程序。",
+      "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-march20-2026",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-technology-7",
+      "title": "阿里巴巴：未来五年云与AI商业化收入目标破千亿美元",
+      "description": "在2026财年战略会议上，阿里巴巴明确AI商业化目标，含MaaS在内的云及AI收入五年内突破1000亿美元。",
+      "url": "https://finance.sina.com.cn/stock/cpbd/2026-03-20/doc-inhrqtze4148398.shtml",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-technology-8",
+      "title": "麦肯锡报告：AI已自动化全球12%工作任务",
+      "description": "麦肯锡全球研究院3月报告显示，过去两年AI已自动化12%的经济任务，同期新增8%的AI相关新职业类别。",
+      "url": "https://www.insightfulpost.com/what-is-artificial-intelligence-news-2026/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-technology-9",
+      "title": "OPPO K14 5G Pro等多款新品今日印度发布",
+      "description": "3月20日科技产品发布日，OPPO K14 5G Pro 3搭载AI驱动XLA架构智能驾驶辅助系统正式在印度上市。",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-march-20-2026-oppo-k14-5g-pro-3-valour-watch-1r-and-more-10592272/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-technology-10",
+      "title": "Meta锁定270亿美元AI基础设施大单，Nvidia预测万亿芯片市场",
+      "description": "AI算力竞赛从模型炒作进入硬件落地阶段，Meta签下270亿美元基础设施协议，Nvidia预测芯片市场将迈向万亿规模。",
+      "url": "https://techstartups.com/2026/03/17/top-tech-news-today-march-17-2026/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-business-1",
+      "title": "美股今日开盘：市场密切关注伊朗局势与油价走势",
+      "description": "CNBC报道美股今日开盘，投资者神经高度紧绷，伊朗战争引发的能源价格波动与美联储政策走向成为最大变量。",
+      "url": "https://www.cnbc.com/video/2026/03/20/market-open-march-20-2026.html",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-business-2",
+      "title": "西班牙检方要求对BBVA处以1.818亿欧元罚款",
+      "description": "西班牙反腐检察官就BBVA涉嫌参与一起震动商界的间谍丑闻，要求对其处以约2.08亿美元罚款。",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-business-3",
+      "title": "联合利华确认收购麦考密克旗下Cholula酱料品牌意向",
+      "description": "联合利华证实已向麦考密克提出收购要约，此举将把旗下Hellmann's与Cholula品牌合并，打造调味品巨头。",
+      "url": "https://www.reuters.com/business/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-business-4",
+      "title": "中国3月LPR利率今日公布，市场预期维持不变",
+      "description": "中国人民银行今日公布3月一年期及五年期贷款市场报价利率，市场普遍预期维持现有水平。",
+      "url": "https://www.nbd.com.cn/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-business-5",
+      "title": "印度股市大跌逾3%：伊朗局势与油价飙升重创市场",
+      "description": "受中东战争冲击与原油价格急涨、美联储政策不确定性影响，印度股市今日重挫超3%。",
+      "url": "https://www.thehindubusinessline.com/multimedia/audio/bl-morning-report-march-20-2026/article70762355.ece",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-business-6",
+      "title": "黄金价格震荡走高，现货金一度突破4670美元/盎司",
+      "description": "伊朗战争持续升温推动避险情绪高涨，纽约期金及现货黄金日内大幅震荡，盘中一度突破4670美元关口。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-20/doc-inhrqtze4162554.shtml",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-business-7",
+      "title": "高盛预测：4月石油供应回升或推动油价在Q4回落至70美元区间",
+      "description": "高盛分析师预测，随着伊朗局势短期趋稳、供应回升，布伦特原油有望在2026年第四季度回落至70美元以上区间。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-20/doc-inhrqtze4162554.shtml",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-business-8",
+      "title": "美联储维持基准利率区间3.5%-3.75%",
+      "description": "美联储联邦公开市场委员会以11:1投票维持基准利率不变，符合市场预期，主席暗示将持续观察通胀及就业数据。",
+      "url": "https://www.cnbc.com/2026/03/17/stock-market-today-live-updates.html",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-business-9",
+      "title": "中信证券春季论坛：A股迎增量配置新阶段",
+      "description": "中信证券2026年春季资本市场论坛在北京举行，研究团队研判AI、商业航天、生物科技等新质生产力加速落地，推动A股进入新增量阶段。",
+      "url": "https://finance.sina.com.cn/stock/y/2026-03-20/doc-inhrqtyz8128649.shtml",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-business-10",
+      "title": "小米汽车新一代SU7正式上市，深圳国际商用车博览会同日开幕",
+      "description": "小米汽车新一代SU7昨日正式发布，深圳国际商用车生态博览会今日同步开幕，新能源与商用车赛道同步引爆市场关注。",
+      "url": "https://www.nbd.com.cn/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-sports-1",
+      "title": "March Madness 2026首日爆冷：VCU淘汰北卡，德州击败BYU",
+      "description": "NCAA男子篮球锦标赛首轮爆出大冷门，VCU战胜传统强队北卡，德克萨斯力克BYU，多支热门队险象环生。",
+      "url": "https://www.nytimes.com/athletic/7129295/2026/03/19/march-madness-2026-mens-games-scores-bracket/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-sports-2",
+      "title": "内布拉斯加大学终结Power 5\"无NCAA胜利\"历史",
+      "description": "内布拉斯加大学篮球队以大胜特洛伊队的方式，终结了球队作为最后一支无NCAA锦标赛胜利的Power 5球队的历史。",
+      "url": "https://www.nytimes.com/athletic/7129295/2026/03/19/march-madness-2026-mens-games-scores-bracket/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-sports-3",
+      "title": "2026 March Madness第一轮继续：今日比赛全部直播",
+      "description": "NCAA锦标赛第一轮3月20日继续进行，杜克、密歇根、亚利桑那和休斯顿被球迷看好冲击最终四强。",
+      "url": "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2026-03-20/2026-ncaa-tournament-bracket-schedule-scores-march-madness",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-sports-4",
+      "title": "NCAA女子篮球赛程今日公布：多场关键对决同步上演",
+      "description": "2026年NCAA女子篮球锦标赛3月20日赛程全面展开，多场种子队之间的碰撞备受瞩目。",
+      "url": "https://www.usatoday.com/story/sports/ncaaw/2026/03/20/womens-college-basketball-games-today-schedule-times-tv-2026-03-20-00-00-00/89241190007/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-sports-5",
+      "title": "东契奇砍下60分！湖人制造热火8连败",
+      "description": "卢卡·东契奇单场砍下60分，詹姆斯送出三双，阿德巴约贡献28分，湖人大胜热火，延续对阵热火的8连胜势头。",
+      "url": "https://sports.163.com/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-sports-6",
+      "title": "马刺险胜太阳实现4连胜，文班亚马34+12准绝杀锁定季后赛席位",
+      "description": "圣安东尼奥马刺依靠文班亚马34分12篮板的准绝杀表现险胜太阳，时隔7年重新锁定NBA季后赛资格。",
+      "url": "https://sports.163.com/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-sports-7",
+      "title": "美职联宣布2027年改制：夏季起采用跨年赛制",
+      "description": "美国职业足球大联盟官方宣布，将于2027年2月至5月举行短赛季，夏季起正式启动跨年赛制改革。",
+      "url": "https://sports.163.com/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-sports-8",
+      "title": "国际乒联宣布设立双打世界杯，2027年首届举行",
+      "description": "国际乒联执行董事会正式批准设立国际乒联双打世界杯，首届赛事定于2027年举行，标志乒乓球国际赛事体系重大扩容。",
+      "url": "http://www.new-sports.cn/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-sports-9",
+      "title": "欧罗巴联赛：里昂主场迎战维戈塞尔塔",
+      "description": "欧罗巴联赛今日凌晨上演里昂对阵维戈塞尔塔的焦点对决，两队均有望晋级，竞彩分析师看好维戈塞尔塔全身而退。",
+      "url": "https://sports.sina.com.cn/l/2026-03-19/doc-inhrnktx7003526.shtml",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-sports-10",
+      "title": "国家体操队运动员委员会发布新人培养新举措",
+      "description": "中国国家体操队运动员委员会发布探索新型国家队建设方案，聚焦新人培育与队伍风气建设，为2028洛杉矶奥运会储备力量。",
+      "url": "http://www.new-sports.cn/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-war-1",
+      "title": "以色列空袭叙利亚政府军基础设施，报复德鲁兹族平民遭袭事件",
+      "description": "以色列军方宣布，针对叙利亚素维达省德鲁兹平民遭受的袭击，已连夜对叙利亚政府军基础设施实施精准打击。",
+      "url": "https://www.justsecurity.org/134475/early-edition-march-20-2026/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-war-2",
+      "title": "沙特在北部阿朱夫地区拦截伊朗弹道导弹",
+      "description": "伊朗-以色列-美国战争持续升级，沙特防空系统3月20日成功拦截一枚飞越沙特北部阿朱夫地区的伊朗弹道导弹。",
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-war-3",
+      "title": "北约宣布出于安全原因调整在伊拉克驻军部署",
+      "description": "北约发言人哈特表示，鉴于伊朗战争外溢风险上升，北约决定调整在伊拉克的驻军配置以保障人员安全。",
+      "url": "https://sputniknews.cn/20260320/1070359969.html",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-war-4",
+      "title": "伊朗军方警告：攻击能源基础设施将遭到更强烈反击",
+      "description": "伊朗军事总司令部\"哈塔姆·安比亚\"发表声明，警告美以联军对伊朗能源基础设施的袭击是重大错误，报复行动尚未完成。",
+      "url": "https://www.thehindu.com/news/international/iran-israel-usa-war-live-updates-march-19-2026/article70760463.ece",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-war-5",
+      "title": "泽连斯基证实：已向中东派遣200名军事专家",
+      "description": "乌克兰总统泽连斯基证实，已应相关方请求向中东地区派遣200名军事专家，提供技术支持与作战顾问服务。",
+      "url": "https://military.china.com/zh_cn/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-war-6",
+      "title": "美国向中东增兵，或将夺取伊朗关键石油出口枢纽",
+      "description": "据报道，美国正在评估向中东增派军事力量，并可能采取行动控制伊朗关键石油出口枢纽，以迫使德黑兰开放霍尔木兹海峡。",
+      "url": "https://www.reuters.com/world/middle-east/us-weighs-military-reinforcements-iran-war-enters-possible-new-phase-2026-03-18/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-war-7",
+      "title": "伊朗战争前6天花费美国113亿美元，五角大楼向国会汇报",
+      "description": "五角大楼向美国国会报告，对伊朗军事行动前6天已耗费113亿美元，且该数字尚不包括前期军事部署的大量相关费用。",
+      "url": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-war-8",
+      "title": "朝鲜领导人金正恩亲自指挥步兵与坦克进攻性演习",
+      "description": "据朝中社报道，金正恩亲自指挥朝鲜步兵部队和装甲部队进行进攻性军事演习，朝鲜半岛紧张态势再度上升。",
+      "url": "https://sputniknews.cn/20260320/1070350619.html",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-war-9",
+      "title": "中东多处油气设施遭连环袭击，中方强烈关注",
+      "description": "中东战争持续扩大，中国在伊朗及周边地区的多处油气设施遭受连环袭击，中方就局势发展表达强烈关切。",
+      "url": "https://military.china.com/zh_cn/",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-20-war-10",
+      "title": "北约干预利比亚15周年反思：西方军事行动遗留危机未解",
+      "description": "2026年3月20日是北约军事介入利比亚15周年，俄卫星通讯社发文回顾指，利比亚至今仍是西方误导性军事干预的典型负面案例。",
+      "url": "https://sputniknews.cn/20260320/1070353877.html",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    }
+  ],
   "2026-03-19": [
     {
       "id": "2026-03-19-technology-1",
