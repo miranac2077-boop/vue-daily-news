@@ -1,4 +1,79 @@
 {
+  "2026-03-21": {
+    "insight": "桌面端 AI 的\"屏幕感知\"军备竞赛正式打响——Google Gemini for Mac 入局意味着这已不是差异化功能，而是平台标配；谁先在 Screen Context + OS-level Integration 上建立生态护城河，谁就拿下桌面 AI 的下一个五年。 *by Linda · AI Product快报自动化任务 · 2026-03-21*",
+    "products": [
+      {
+        "id": "2026-03-21-1",
+        "title": "Gemini for Mac（Desktop Intelligence）",
+        "score": 88,
+        "description": "产品描述： Google 首款 Mac 原生应用进入 Private Beta，内置 Desktop Intelligence 功能，可读取屏幕内容、直接操控 Mac 上的 App——正面硬杠 Claude + ChatGPT 桌面端。",
+        "team": "Google DeepMind，万亿市值背书，macOS 集成研发资源充足",
+        "popularity": "Bloomberg 独家报道，MacRumors / 9to5Mac 同日跟进，社交媒体广泛转发",
+        "url": "https://9to5mac.com/2026/03/19/bloomberg-google-begins-testing-dedicated-gemini-app-for-mac/",
+        "opinion": "Screen-aware AI 是桌面 AI 的核心护城河。Google 晚了 Claude 和 ChatGPT 至少半年，但 Gmail / Google Drive 深度集成是差异化武器——上线节奏才是关键变量，Beta 越拖越被动。",
+        "publishedAt": "2026-03-21T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-21-2",
+        "title": "GPT-5.4 mini & nano",
+        "score": 85,
+        "description": "产品描述： OpenAI 于 3 月 17 日发布两款小模型，专为高并发、Subagent 工作流优化，把 GPT-5.4 的核心能力压缩进快速、低成本通道。",
+        "team": "OpenAI，行业标杆，API 生态最完善",
+        "popularity": "OpenAI 官方公告，覆盖 ChatGPT Plus/Team/Pro 用户，开发者社区高度关注",
+        "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/",
+        "opinion": "小模型做 Subagent 是今年 Agentic AI 落地的核心路径——Inference Cost 降下来，多智能体工作流才能从 Demo 走向商业化。mini/nano 这波是 OpenAI 抢占 Agent 基础设施的关键一步，ROI 逻辑非常清晰。",
+        "publishedAt": "2026-03-21T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-21-3",
+        "title": "KittenTTS（三款新模型）",
+        "score": 79,
+        "description": "产品描述： 开源 TTS 项目发布 80M/40M/14M 三档新模型，最小版本不足 25MB，支持 Raspberry Pi、低端手机和浏览器端运行，8种音色，int8+fp16 量化。",
+        "team": "KittenML（开源社区），HN Show 两天内获 543 upvotes + 178 评论",
+        "popularity": "HN Show 活跃度 543 points，178条评论，GitHub Star 快速增长",
+        "url": "https://github.com/KittenML/KittenTTS",
+        "opinion": "Edge 端 TTS 是被严重低估的赛道——可穿戴设备、离线 App、隐私敏感场景全都需要它。<25MB 这个 Spec 直接打开了嵌入式部署的可能性，Engineering 难度极低，PMF 明确。值得跟踪。",
+        "publishedAt": "2026-03-21T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-21-4",
+        "title": "Excelmatic v1.2.0（RowSpeak）",
+        "score": 72,
+        "description": "产品描述： 自然语言驱动的 Excel 分析工具，v1.2.0 大升级：优化多轮对话引擎、支持复杂财务报表，新增模板生成功能，累计用户超 34,000。",
+        "team": "独立开发者，TAAFT 平台认证，持续迭代",
+        "popularity": "TAAFT 排名活跃工具，34,803 注册用户，今日更新热度 524 分",
+        "url": "https://excelmatic.ai",
+        "opinion": "\"自然语言操 Excel\" 这个需求非常真实，企业中层是核心用户——但竞争极度拥挤，ChatGPT for Excel 已经进场。Excelmatic 的护城河在于对话连续性和财务场景深度，必须尽快找到垂直行业切入点，否则会被大厂直接碾压。",
+        "publishedAt": "2026-03-21T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-21-5",
+        "title": "LEANSpark",
+        "score": 68,
+        "description": "产品描述： AI 驱动的 Startup Idea Validation 工具，宣称帮创始人在 90 天内验证想法可行性，结合市场数据、竞品分析与 MVP 路径规划。",
+        "team": "独立创业团队，Free + $40/mo 定价，今日在 TAAFT 上线",
+        "popularity": "TAAFT 今日上线，早期数据 174 浏览，定价结构清晰",
+        "url": "https://leanspark.ai",
+        "opinion": "方向对——验证 PMF 是创业最贵的时间成本。但\"90天验证\"本身就是个 PMF 待验证的 Claim。核心问题：它的数据源是什么？AI 输出质量能否超过 Perplexity + 人工判断？如果不能，ROI 逻辑就不成立，付费转化会很惨。",
+        "publishedAt": "2026-03-21T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      }
+    ]
+  },
   "2026-03-20": {
     "insight": "小模型 + Agentic Execution 是本周 AI 产品最强共振信号——GPT-5.4 mini、Copilot Cowork、Gemini Desktop Intelligence 三路并进，AI 的战场正式从\"回答问题\"迁移到\"完成任务\"。 > 数据来源：OpenAI 官方 Blog / Bloomberg / MacRumors / Microsoft 365 Blog / Google Developers Blog / Hacker News Show HN > 生成时间：2026-03-20 09:05 AM PST",
     "products": [
