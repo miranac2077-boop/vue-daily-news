@@ -1,4 +1,486 @@
 {
+  "2026-03-21": [
+    {
+      "id": "2026-03-21-technology-1",
+      "title": "Google Search开始用AI替换新闻标题",
+      "description": "Google正在用AI生成的标题替换搜索结果中的原始新闻标题，引发媒体行业广泛关注。",
+      "url": "https://news.filehippo.com/2026/03/march-21-tech-news-roundup-google-search-uses-ai-to-modify-headlines-microsoft-wants-to-remove-copilot-from-notepad-and-other-apps-windows-11-will-let-you-pause-updates-indefinitely/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-technology-2",
+      "title": "微软计划从Notepad等应用中移除Copilot AI功能",
+      "description": "微软宣布将从Windows 11多款内置应用中撤回Copilot集成，同时允许用户无限期暂停系统更新。",
+      "url": "https://news.filehippo.com/2026/03/march-21-tech-news-roundup-google-search-uses-ai-to-modify-headlines-microsoft-wants-to-remove-copilot-from-notepad-and-other-apps-windows-11-will-let-you-pause-updates-indefinitely/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-technology-3",
+      "title": "Super Micro联合创始人被控向中国走私价值25亿美元AI芯片",
+      "description": "美国司法部对三名Super Micro Computer相关人员提起诉讼，指控其违反出口管制法规，向中国非法输送AI技术。",
+      "url": "https://www.aljazeera.com/news/2026/3/20/three-charged-in-the-us-with-smuggling-ai-chips-into-china",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-technology-4",
+      "title": "Meta AI代理可全程自动投放广告，但ChatGPT广告效果令人失望",
+      "description": "Meta宣布其AI代理现可端到端运行广告投放，而行业数据显示AI广告支出激增63%，但ChatGPT在广告效果上表现不佳。",
+      "url": "https://www.theaimarketers.ai/news032026/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-technology-5",
+      "title": "AI代理开始自主购物、支付账单，甚至打网球",
+      "description": "NeuralBuddies报道指出，AI代理的自主能力正迅速扩展至电商交易、金融支付乃至体育场景。",
+      "url": "https://www.neuralbuddies.com/p/ai-news-recap-march-20-2026",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-technology-6",
+      "title": "英伟达本周累计下跌超4%，但将在2027年前向AWS供应逾百万块GPU",
+      "description": "英伟达股价承压，周五跌3.15%，但与亚马逊云服务的大规模芯片供应协议彰显其长期战略布局。",
+      "url": "https://m.sohu.com/a/999210214_122014422",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-technology-7",
+      "title": "NVIDIA《2026年AI现状报告》：AI正在各行业驱动营收、降低成本",
+      "description": "英伟达年度报告显示，AI在制造、医疗、金融等各行业的落地应用正带来可量化的商业回报。",
+      "url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-technology-8",
+      "title": "苹果将于2026年推出全面重塑的AI版Siri",
+      "description": "苹果正式确认，经过彻底重构的Siri新版本将具备\"屏幕感知\"能力，成为真正的上下文感知助手。",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-technology-9",
+      "title": "研究：生成式AI在创意测试中已超越普通人类平均水平",
+      "description": "一项对比逾10万人与顶级AI系统的大型研究显示，生成式AI在特定创意测试中已能胜过人类平均水平。",
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-technology-10",
+      "title": "英国59%的人用AI自我诊断病情，背后是漫长的候诊时间",
+      "description": "全英调查显示，超过半数民众转向AI进行健康自查，主要原因是全科医生预约等待时间过长。",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-business-1",
+      "title": "美国财政部批准30天授权，允许销售约1.4亿桶伊朗原油",
+      "description": "为缓解全球能源危机，美财长贝森特宣布对已装船的伊朗石油发放限期许可，向市场注入大量供应。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-21/doc-inhrswyi6332035.shtml",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-business-2",
+      "title": "美银警告：霍尔木兹海峡若长期中断，油价或涨至每桶200美元",
+      "description": "美国银行全球研究部门上调布伦特原油预测，警告航运中断将引发能源成本大幅攀升，加剧通胀。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-21/doc-inhrswye3471228.shtml",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-business-3",
+      "title": "Earendil Labs宣布完成7.87亿美元融资，加速AI驱动生物制药研发",
+      "description": "AI药物发现初创公司Earendil Labs完成大规模融资，并据报道正在考虑赴香港IPO。",
+      "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-business-4",
+      "title": "小米新一代SU7涨价引争议，发布会次日股价跌约8.59%",
+      "description": "小米汽车新款SU7定价超出市场预期，引发消费者不满，公司股价随之大幅下挫。",
+      "url": "https://finance.sina.cn/zaobao/app.d.html?date=20260321",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-business-5",
+      "title": "马斯克斥资200亿大单采购中国光伏设备，预计5月首批发货",
+      "description": "消息人士称，马斯克旗下企业正大规模采购中国太阳能设备，首批货物将于今年5月初抵达。",
+      "url": "https://finance.sina.cn/zaobao/app.d.html?date=20260321",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-business-6",
+      "title": "瑞银美国财富管理业务受阻，近200名顾问离职、资产大量流失",
+      "description": "瑞银在整合收购遗留资产过程中遭遇重大挫折，美国业务重组面临重重困难。",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-business-7",
+      "title": "宇树科技IPO获受理，营收17亿元、扣非净利6亿元",
+      "description": "人形机器人企业宇树科技冲刺上市，其强劲的盈利数据引发资本市场高度关注。",
+      "url": "https://finance.sina.cn/zaobao/app.d.html?date=20260321",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-business-8",
+      "title": "中信银行不良率实现\"七连降\"，A股首份上市银行年报出炉",
+      "description": "中信银行2025年年报显示资产质量持续改善，房地产贷款规模继续压缩。",
+      "url": "https://finance.sina.com.cn/stock/stockzmt/2026-03-21/doc-inhrtchf6223869.shtml",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-business-9",
+      "title": "分析师预测美联储2026年将降息三次",
+      "description": "威明顿信托首席经济学家Luke Tilley呼吁美联储今年降息三次，以应对经济放缓压力。",
+      "url": "https://finance.yahoo.com/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-business-10",
+      "title": "采埃孚2025年调整后息税前利润达17亿欧元，中国市场将成增量核心",
+      "description": "德国汽车零部件巨头采埃孚完成大规模瘦身，将中国市场定位为未来增长的关键引擎。",
+      "url": "https://www.nbd.com.cn/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-sports-1",
+      "title": "NCAA男子篮球锦标赛第二轮：田纳西力克迈阿密，终结其灰姑娘之旅",
+      "description": "迈阿密大学以31胜0负的完美正赛战绩创造历史，但田纳西以强悍的身体对抗优势终结了其疯狂三月之旅。",
+      "url": "https://www.nytimes.com/athletic/7129477/2026/03/20/march-madness-2026-mens-games-scores-results-bracket-day-2/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-sports-2",
+      "title": "女子疯狂三月第二轮赛事今日进行，康涅狄格、南卡罗来纳、UCLA悉数登场",
+      "description": "女子NCAA锦标赛今日迎来重头戏，三支头号种子队同日亮相，吸引全美球迷关注。",
+      "url": "https://www.usatoday.com/story/sports/ncaaw/2026/03/21/womens-march-madness-bracket-schedule-how-to-watch-ncaa-tournament-today/89258620007/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-sports-3",
+      "title": "男子疯狂三月第二轮：密歇根、密歇根州立、杜克、休斯顿今日出战",
+      "description": "NCAA男子篮球锦标赛第二轮精彩连番，多支热门强队将争夺通往甜蜜十六强的门票。",
+      "url": "https://sports.yahoo.com/mens-college-basketball/article/march-madness-2026-how-to-watch-all-of-saturdays-games-in-the-mens-ncaa-basketball-tournament-follow-your-brackets-start-times-tv-channels-and-more-105556079.html",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-sports-4",
+      "title": "肯塔基险胜圣克拉拉挺进下一轮，Oweh绝杀压哨三分送加时",
+      "description": "肯塔基大学在疯狂三月首轮比赛中上演惊天逆转，Otega Oweh命中擦板三分将比赛推入加时赛。",
+      "url": "https://eu.usatoday.com/story/sports/ncaab/2026/03/20/march-madness-live-scores-bracket-highlights-today-games-ncaa-tournament-first-round/89231653007/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-sports-5",
+      "title": "英超：十人曼联主场2-2伯恩茅斯，两度领先均遭扳平",
+      "description": "曼联虽两度取得领先，最终以10人应战仍未能守住胜果，积分之争愈加焦灼。",
+      "url": "https://sports.163.com/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-sports-6",
+      "title": "英超焦点战：伯恩茅斯主场迎战曼联，欧战资格争夺一触即发",
+      "description": "北京时间3月21日凌晨，英超第31轮焦点对决将直接影响两队争夺欧洲赛事资格的走势。",
+      "url": "https://sports.sina.cn/2026-03-20/detail-inhrrkwz6805944.d.html",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-sports-7",
+      "title": "FC巴塞罗那最新动态：拉什福德穿巴萨战袍征战欧冠",
+      "description": "前曼联球星马库斯·拉什福德以巴塞罗那球员身份出战欧冠，成为本赛季转会市场的标志性案例。",
+      "url": "https://sports.yahoo.com/articles/fc-barcelona-news-21-march-100000818.html",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-sports-8",
+      "title": "德甲焦点战：莱比锡主场迎战霍芬海姆，欧冠席位6分大战",
+      "description": "德甲第27轮关键对决，莱比锡与霍芬海姆积分相差3分，本场胜负将直接左右欧冠资格归属。",
+      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801ohc4.html",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-sports-9",
+      "title": "意甲：卡利亚里主场迎战那不勒斯，伤停情况成关键变量",
+      "description": "意甲本轮焦点赛事，那不勒斯客战卡利亚里，多名核心球员的伤停状况将是决定胜负的关键。",
+      "url": "https://sports.sina.cn/2026-03-20/detail-inhrrzut6701951.d.html",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-sports-10",
+      "title": "国乒伦敦世乒赛选拔赛第二阶段：周启豪夺冠",
+      "description": "国家乒乓球男队在成都封闭集训中进行2026年伦敦世乒赛选拔，周启豪力压群雄获得参赛资格。",
+      "url": "http://www.new-sports.cn/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-war-1",
+      "title": "特朗普称考虑\"收尾\"中东军事行动，但同时增派部队与战舰",
+      "description": "特朗普表示美国正在考虑结束中东军事行动，然而五角大楼却同步宣布向该地区增兵，两者信号相互矛盾。",
+      "url": "https://apnews.com/live/iran-war-israel-trump-03-20-2026",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-war-2",
+      "title": "伊朗向美英联合基地迭戈加西亚岛发射弹道导弹，均未命中",
+      "description": "伊朗对印度洋上的美英联合军事基地发动导弹袭击，英国证实导弹未能击中目标。",
+      "url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-war-3",
+      "title": "美军宣称已打击8000个伊朗目标，大幅削弱其作战能力",
+      "description": "美国军方表示已对德黑兰的军事力量造成重大打击，但伊朗持续以导弹和无人机进行反击。",
+      "url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-war-4",
+      "title": "美国向中东增派数千名海军陆战队员及水兵",
+      "description": "美-以联合对伊军事行动进入第三周之际，美国宣布向中东进一步增兵，彰显战略承诺。",
+      "url": "https://www.reuters.com/world/us-deploy-thousands-additional-troops-middle-east-officials-say-2026-03-20/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-war-5",
+      "title": "以色列国防部长：对伊朗的打击将在未来一周\"大幅升级\"",
+      "description": "以色列防长卡茨宣布将显著加强对伊朗的军事行动力度，与特朗普\"收尾\"表态形成鲜明对比。",
+      "url": "https://www.nbcnewyork.com/news/national-international/iran-us-israel-war-trump-march-21-2026-live-updates/6479368/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-war-6",
+      "title": "中东战事进入第四周，局势仍无明确结束迹象",
+      "description": "美-以对伊军事行动已持续近一个月，交战双方均未展现停战意愿，国际社会高度关注。",
+      "url": "https://www.mprnews.org/story/2026/03/21/npr-iran-war-fourth-week",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-war-7",
+      "title": "伊朗扬言将对全球旅游目标实施报复性攻击",
+      "description": "随着以色列宣布升级打击力度，伊朗以威胁袭击国际旅游地点予以回应，引发国际社会警惕。",
+      "url": "https://www.nbcnewyork.com/news/national-international/iran-us-israel-war-trump-march-21-2026-live-updates/6479368/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-war-8",
+      "title": "以色列再次空袭德黑兰及贝鲁特\"政权目标\"",
+      "description": "以色列军方宣布对德黑兰发动新一轮空袭，攻击目标为伊朗政权相关设施，同时对黎巴嫩首都南郊实施打击。",
+      "url": "https://www.theguardian.com/world/live/2026/mar/20/iran-war-live-updates-oil-prices-israel-netanyahu-ground-component-us-tensions-hormuz",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-war-9",
+      "title": "五角大楼申请逾2000亿美元国会拨款用于对伊军事行动",
+      "description": "美国国防部向国会提交巨额军费申请，凸显此次中东军事行动的规模与持续性。",
+      "url": "https://mil.gmw.cn/",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-21-war-10",
+      "title": "中国呼吁中东立即停火，外交部强调武力解决不了问题",
+      "description": "中国外交部发言人林剑在例行记者会上重申中方立场，呼吁各方尽快按下军事行动\"停止键\"。",
+      "url": "https://www.mfa.gov.cn/fyrbt_673021/202603/t20260320_11878245.shtml",
+      "publishedAt": "2026-03-21T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    }
+  ],
   "2026-03-20": [
     {
       "id": "2026-03-20-technology-1",
