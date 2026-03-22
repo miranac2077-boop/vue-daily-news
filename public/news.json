@@ -1,4 +1,486 @@
 {
+  "2026-03-22": [
+    {
+      "id": "2026-03-22-technology-1",
+      "title": "Apple 重磅宣布全新 AI 版 Siri 将于 2026 年亮相",
+      "description": "全新 Siri 将具备\"屏幕感知\"能力，可理解上下文，彻底重构为 AI 原生助手。",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-technology-2",
+      "title": "美国起诉三人协助向中国走私超 25 亿美元 AI 芯片",
+      "description": "三名涉案人员与超微（Super Micro Computer）有关联，被指违反出口管制法规向中国输送 AI 硬件。",
+      "url": "https://www.aljazeera.com/news/2026/3/20/three-charged-in-the-us-with-smuggling-ai-chips-into-china",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-technology-3",
+      "title": "OpenAI 计划年底前员工规模翻倍至 8000 人",
+      "description": "据《金融时报》报道，OpenAI 拟将员工人数从 4500 人扩展至 8000 人，以缩小与 Anthropic 的差距。",
+      "url": "https://www.reuters.com/business/openai-nearly-double-workforce-8000-by-end-2026-ft-reports-2026-03-21/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-technology-4",
+      "title": "Nvidia GTC 大会：Jensen Huang 大篇幅介绍 OpenClaw 技术",
+      "description": "OpenClaw 这项六个月前还不存在的技术，已成为市场热议焦点，引发 AI 模型是否已成大宗商品的讨论。",
+      "url": "https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-technology-5",
+      "title": "俄罗斯拟立法赋予自身全面封锁或限制外国 AI 工具权力",
+      "description": "克里姆林宫推动对境内外国 AI 平台实施更严格管控，强化数字主权。",
+      "url": "https://www.reuters.com/technology/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-technology-6",
+      "title": "Google 向全美用户开放 Gemini 个性化 AI 功能",
+      "description": "Gemini 可接入 Gmail、Photos、YouTube 等应用数据，提供更具上下文感知的智能服务。",
+      "url": "https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-technology-7",
+      "title": "数千人出售个人身份数据用于训练 AI 模型",
+      "description": "《卫报》调查发现，越来越多人通过 Kled AI 等平台上传视频、照片换取报酬，引发隐私与伦理争议。",
+      "url": "https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-technology-8",
+      "title": "Anthropic AI 工具可处理 COBOL 编程任务，IBM 股价大跌 20%",
+      "description": "消息公布后，IBM 股价跌至 52 周低位，投资者开始重新审视 AI 对传统 IT 企业的冲击。",
+      "url": "https://www.fool.com/investing/2026/03/22/prediction-this-fallen-artificial-intelligence-ai/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-technology-9",
+      "title": "Morgan Stanley 警告：2026 年上半年 AI 重大突破将至，全球尚未准备好",
+      "description": "摩根士丹利报告指出，即将到来的 AI 能力跃升将对就业、经济与社会结构产生深远影响。",
+      "url": "https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-technology-10",
+      "title": "英国 59% 的人已用 AI 自诊疾病",
+      "description": "全国研究显示，漫长的全科医生候诊时间推动大量英国民众转向 AI 寻求医疗建议。",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-business-1",
+      "title": "国际金价创 43 年最大单周跌幅，现货黄金周跌 10.49%",
+      "description": "金价收于 4491.67 美元/盎司，为 1983 年以来最大单周跌幅，国内金饰品价格随之大幅下滑。",
+      "url": "https://finance.sina.com.cn/roll/2026-03-22/doc-inhrvhfa2407226.shtml",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-business-2",
+      "title": "高盛 CEO：并购活动将在 2026 年加速，美以伊战争扰动有限",
+      "description": "高盛大卫·所罗门表示，尽管中东局势紧张，但全球 M&A 活动仍将提速。",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-business-3",
+      "title": "伊朗外长：霍尔木兹海峡恢复正常须美以停止攻击",
+      "description": "伊朗外长阿拉格齐在与印度外长通话中明确表态，海峡通行权与停战挂钩。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-03-22/doc-inhrurif6816275.shtml",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-business-4",
+      "title": "美股三大指数下挫，债券收益率上升，油价在伊朗战争中维稳",
+      "description": "标普 500、道指、纳指集体走低，市场情绪受地缘冲突及通胀预期双重压制。",
+      "url": "https://timesofindia.indiatimes.com/business",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-business-5",
+      "title": "马斯克宣布将为美国联邦雇员垫付薪资",
+      "description": "据路透社报道，亿万富翁马斯克周六表示将出资覆盖美国政府工作人员的薪酬支出。",
+      "url": "https://www.reuters.com/business/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-business-6",
+      "title": "中国发展高层论坛 2026：脑机接口被纳入\"十五五\"规划，企业需求暴增 5 倍",
+      "description": "强脑科技 CEO 透露，列入六大未来产业后，公司合作需求较去年激增五倍以上。",
+      "url": "https://www.yicai.com/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-business-7",
+      "title": "OpenAI 估值 7300 亿美元，拟扩张至 8000 名员工",
+      "description": "《金融时报》报道，OpenAI 在估值创历史新高的同时加速人才招募，意在超越竞争对手。",
+      "url": "https://www.ft.com/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-business-8",
+      "title": "电动汽车市场承压：各国与车企面临多重变量考验",
+      "description": "NPR 报道，原材料价格、政策变化及地缘局势共同冲击押注 EV 转型的国家和企业。",
+      "url": "https://www.npr.org/sections/business/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-business-9",
+      "title": "今日印度金银价格平稳，延续上周暴跌后的喘息",
+      "description": "印度 24K 金报价每 10 克 145,970 卢比，市场在剧烈波动后进入观望状态。",
+      "url": "https://www.latestly.com/quickly/business/check-silver-and-gold-prices-today-march-22-2026-here-7363906.html",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-business-10",
+      "title": "新浪财经：3 月 22 日国际国内财经新闻精华摘要",
+      "description": "《人民日报》头版聚焦江苏科技创新融合进展及\"以竹代塑\"产业新模式等重要议题。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-22/doc-inhrvhfc9171103.shtml",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-sports-1",
+      "title": "LeBron 詹姆斯打破历史纪录，Kennard 绝杀三分助湖人胜出",
+      "description": "ESPN 报道，詹姆斯在本场创下个人新纪录，Kennard 最后时刻命中三分完成逆转。",
+      "url": "https://www.espn.com/espn/latestnews",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-sports-2",
+      "title": "NCAA 疯狂三月男子篮球第二轮今日激战，多场焦点对决上演",
+      "description": "男子 NCAA 锦标赛第二轮在 3 月 22 日全面展开，TNT Sports 与 CBS Sports 全程直播。",
+      "url": "https://www.ncaa.com/news/basketball-men/article/2026-03-22/2026-march-madness-mens-ncaa-tournament-schedule-dates",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-sports-3",
+      "title": "女子疯狂三月第二轮今日开打，北卡 vs 马里兰揭幕",
+      "description": "女子 NCAA 锦标赛第二轮八场比赛今天全部登场，美联社专家提供详细赛事预测。",
+      "url": "https://www.usatoday.com/story/sports/ncaaw/2026/03/22/womens-march-madness-games-today-schedule-times-tv-2026-03-22-00-00-00/89273675007/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-sports-4",
+      "title": "中国国家男足今日正式集结，备战 FIFA 系列赛赴澳对阵库拉索与喀麦隆",
+      "description": "国足 26 人名单中含两位数 U23 球员，将于 3 月 27 日与 31 日分别迎战两支劲旅。",
+      "url": "https://sports.sina.cn/2026-03-20/detail-inhrrkwz6888275.d.html",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-sports-5",
+      "title": "意甲焦点战：AC 米兰主场迎战都灵，红黑军团力保次席",
+      "description": "AC 米兰将于 22:00 在圣西罗迎接都灵，凭借主场优势与历史战绩被普遍看好。",
+      "url": "https://sports.sina.cn/2026-03-21/detail-inhrtpvt7262675.d.html",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-sports-6",
+      "title": "英超第 31 轮：切尔西客战埃弗顿，能否结束低迷延续不败？",
+      "description": "北京时间 3 月 22 日凌晨，切尔西在古迪逊公园挑战状态不佳的埃弗顿。",
+      "url": "https://cj.sina.com.cn/articles/view/7879995911/1d5af320706801on4q",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-sports-7",
+      "title": "欧洲五大联赛 3 月 22 日赛事预测：伤病潮成关键变量",
+      "description": "多支豪门关键球员缺阵，巴萨、热刺、拜仁等队伍伤停情况将深刻影响比赛走势。",
+      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801omt6.html",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-sports-8",
+      "title": "乒乓球世锦赛备战：周启豪获国家队第二阶段选拔赛冠军",
+      "description": "在成都封闭集训的中国男乒举行伦敦世乒赛团体赛选拔，周启豪夺冠锁定参赛席位。",
+      "url": "http://www.new-sports.cn/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-sports-9",
+      "title": "女子疯狂三月：专家完整赛程预测与第二轮最强分析",
+      "description": "USA TODAY 全程追踪，为球迷提供周日全部第二轮比赛的场馆、时间及专家看法。",
+      "url": "https://www.usatoday.com/story/sports/ncaaw/2026/03/22/womens-ncaa-tournament-predictions-march-madness-expert-picks-march-22/89272990007/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-sports-10",
+      "title": "March Madness 2026 观看指南：所有频道、时间及直播方式汇总",
+      "description": "Yahoo Sports 汇总全部观赛方式，帮助球迷一站式跟踪男子 NCAA 锦标赛全程赛事。",
+      "url": "https://sports.yahoo.com/mens-college-basketball/article/march-madness-2026-how-to-watch-all-of-todays-games-in-the-second-round-of-the-mens-ncaa-basketball-tournament-follow-your-brackets-start-times-tv-channels-and-more-105556958.html",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-war-1",
+      "title": "以色列对伊朗首都德黑兰发动新一轮空袭",
+      "description": "以色列军方宣布正对\"德黑兰核心地带\"的伊朗恐怖政权目标实施打击，局势急剧升温。",
+      "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-war-2",
+      "title": "伊朗防空系统击落以色列 F-15 战机",
+      "description": "伊朗官方媒体报道，一架以色列 F-15 战机在霍尔木兹岛附近被伊朗防空系统拦截击落。",
+      "url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-hezbollah-oil-supply-march-22-2026/article70771375.ece",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-war-3",
+      "title": "以色列国防部长警告：若德黑兰不停手，将让伊朗倒退数十年",
+      "description": "以色列国防部长发出强硬警告，内盖夫沙漠城市及特拉维夫遭导弹密集轰炸后局势紧迫。",
+      "url": "https://www.timesofisrael.com/liveblog-march-22-2026/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-war-4",
+      "title": "伊朗威胁：若美军打击发电厂，将完全封锁霍尔木兹海峡",
+      "description": "伊朗发出最强烈警告，若关键基础设施遭袭，全球约 20% 的石油过境通道将被彻底切断。",
+      "url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-hezbollah-oil-supply-march-22-2026/article70771375.ece",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-war-5",
+      "title": "美军已打击超过 8000 个伊朗军事目标，含 130 艘舰船",
+      "description": "美国中央司令部将领证实，自开战以来美军已对伊朗军事设施展开大规模饱和打击。",
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-war-6",
+      "title": "美军 3 月 21 日使用钻地炸弹打击伊朗纳坦兹核设施",
+      "description": "据塔斯尼姆通讯社报道，美国使用 B61 系列钻地弹针对伊朗核计划核心设施发动精确打击。",
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-war-7",
+      "title": "特朗普：不会宣布伊朗战争结束，但声称已\"摧毁\"其军事力量",
+      "description": "特朗普表示战争将很快结束，强调若放任伊朗获得核武器后果将更加灾难性。",
+      "url": "https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-16",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-war-8",
+      "title": "俄罗斯卫星通讯社：专家指西方在伊朗的野心正遭受挫折",
+      "description": "印度研究员指出，伊朗已为这场战争准备近四十年，美国谋求\"无条件投降\"几乎无法实现。",
+      "url": "https://sputniknews.cn/20260322/1070374523.html",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-war-9",
+      "title": "以色列阿拉德城遭伊朗导弹袭击，造成重大人员伤亡",
+      "description": "伊朗对以色列内陆城市发动报复性打击，以色列军方表示防空系统拦截成功率约 92%。",
+      "url": "https://www.bilibili.com/video/BV1idAuz2E4A/",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-22-war-10",
+      "title": "中国国防部警告日本：穷兵黩武是自取灭亡的不归路",
+      "description": "中国国防部发言人蒋斌回应日本远程攻击性武器部署，警告日方若挑衅中国主权必遭迎头痛击。",
+      "url": "http://www.mod.gov.cn/gfbw/qwfb/16447954.html",
+      "publishedAt": "2026-03-22T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    }
+  ],
   "2026-03-21": [
     {
       "id": "2026-03-21-technology-1",
