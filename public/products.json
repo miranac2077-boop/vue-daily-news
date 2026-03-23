@@ -1,4 +1,79 @@
 {
+  "2026-03-23": {
+    "insight": "> AI 的战场正在从\"谁的模型更强\"转向\"谁的操作层更深\"——Anthropic Dispatch 把 Agent 嵌入日常工作流，Cursor 用开源模型打磨体验，都在证明：**2026 年的 AI PMF，靠的是工作流黏性，而不是 Benchmark 分数。** *#每日产品快报 #AI产品 #PMF #ProductStrategy*",
+    "products": [
+      {
+        "id": "2026-03-23-1",
+        "title": "Claude Cowork Dispatch",
+        "score": 88,
+        "description": "产品定义： Anthropic 新 Feature：用手机远程控制桌面 Claude 执行任务，一条持久对话驱动 PC 端代理——发邮件摘要、整理文件、生成报告，随时随地。",
+        "team": "Anthropic（Dario Amodei 团队，$7B+ 融资背书）",
+        "popularity": "Forbes / NDTV / Reddit r/Anthropic 多端转发，本周最高传播量 Claude 新闻",
+        "url": "https://claude.ai",
+        "opinion": "Dispatch 把 Claude 从\"聊天框\"推向\"操作系统层\"，这是 PMF 跃迁的信号。Mobile-first 控制 desktop agent 的交互范式，Engineering 复杂度极高（持久会话 + 跨设备状态同步），但一旦跑通，Retention 天然锚定在工作流里，很难被替代。",
+        "publishedAt": "2026-03-23T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-23-2",
+        "title": "Cursor Composer 2（基于 Kimi K2.5）",
+        "score": 82,
+        "description": "产品定义： Cursor 发布新编程模型 Composer 2，号称「frontier-level 代码智能」——但实际上是基于 Moonshot AI 的 Kimi K2.5 开源模型做继续预训练 + 高算力 RL，被社区扒皮后 co-founder 公开认错。",
+        "team": "Cursor（$29.3B 估值，ARR 已超 $2B，a16z / Thrive 背书）",
+        "popularity": "TechCrunch 头条报道，X 上 thread 大量传播，HN 高热讨论",
+        "url": "https://cursor.com",
+        "opinion": "产品热度毋庸置疑，但这次透明度翻车是个 Brand Risk。更值得关注的是：顶级美国 AI 公司悄悄 fine-tune 中国开源模型已成常规操作，这个趋势比丑闻本身更重要——开源生态正在重塑 AI Model Moat。",
+        "publishedAt": "2026-03-23T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-23-3",
+        "title": "Atomic – Self-hosted AI Knowledge Base",
+        "score": 77,
+        "description": "产品定义： 把 Markdown 笔记变成语义连接的知识图谱：自动分块、embedding、标签、关联——支持 wiki 合成、空间画布探索和 Agent 查询，完全本地私有部署。",
+        "team": "独立开发者 kenforthewin（Solo），开源 MIT",
+        "popularity": "HN Show HN 139 points / 23 comments（1天内），开源社区高反馈",
+        "url": "https://github.com/kenforthewin/atomic",
+        "opinion": "Privacy-first PKM 的需求在企业和个人开发者群体真实存在，139 HN points 验证了冷启动 PMF。但 Solo 开发 + 纯开源没有商业 ROI 路径，规模化前需要想清楚 Monetization。可以对标 Obsidian 的付费插件生态。",
+        "publishedAt": "2026-03-23T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-23-4",
+        "title": "Revise – AI Editor for Documents",
+        "score": 74,
+        "description": "产品定义： 免费在线文档编辑器，内置 AI 写作 Agent：支持上传文档直接进入 AI 辅助编辑，兼容 .docx / PDF 导出。Word processor 引擎和渲染层全部从头自建，用 Y.js 做 CRDT 协同栈。",
+        "team": "独立开发者 artursapek，个人项目",
+        "popularity": "HN Show HN 74 points / 63 comments，社区讨论质量高",
+        "url": "https://revise.io",
+        "opinion": "从头自建 Word processor 引擎这个技术决策值得关注——说明创始人不想被 TipTap / Quill 等开源编辑器的架构限制住，AI-native 文档编辑的 Engineering 路线是对的。但跟 Notion AI / Google Docs AI 的差异化不够清晰，PMF 需要找到具体垂直场景。",
+        "publishedAt": "2026-03-23T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      },
+      {
+        "id": "2026-03-23-5",
+        "title": "Whacka – Mobile AI App Builder",
+        "score": 70,
+        "description": "产品定义： 从手机端直接通过对话构建 App，面向完全不懂技术的用户，让\"vibe coding\"从桌面延伸到移动端——定价 $9/月起，产品已发布。",
+        "team": "John Goodhew 主导，早期阶段",
+        "popularity": "There's An AI For That 今日上榜，2,361 用户数据点，评分 5.0",
+        "url": "https://whacka.app",
+        "opinion": "Mobile-first 的 no-code builder 切了 Lovable / Bolt 覆盖不到的场景（手机端创作）。但 Retention 是最大问题——用户用手机做出来的东西质量是否足够好到\"真正能用\"？需要跑实验验证 D7 回访率，否则只是噱头。",
+        "publishedAt": "2026-03-23T09:00:00.000Z",
+        "source": {
+          "name": "Linda's AI 产品快报"
+        }
+      }
+    ]
+  },
   "2026-03-22": {
     "insight": "> 当 Anthropic 以 Sonnet 定价交付 Opus 级能力，整个市场的 Price/Performance 基准线被重置——2026 年 Q2 的 AI 竞争，本质是谁能以更低 Token Cost 提供更高上下文质量。 *Tags: #AI产品快报 #Claude #Grok #Perplexity #开源 #TTS #知识库*",
     "products": [
