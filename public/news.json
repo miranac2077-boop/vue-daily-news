@@ -1,4 +1,486 @@
 {
+  "2026-03-25": [
+    {
+      "id": "2026-03-25-technology-1",
+      "title": "OpenAI关闭Sora应用并终止迪士尼合作",
+      "description": "OpenAI突然下线旗下AI视频工具Sora，并终止与迪士尼的合作协议，震惊业界。",
+      "url": "https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-on-wednesday-march-25-2026-/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-technology-2",
+      "title": "Arm与Meta联合发布全球首款\"AGI CPU\"",
+      "description": "两家科技巨头共同推出专为AGI工作负载设计的新一代处理器，引发广泛关注。",
+      "url": "https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-on-wednesday-march-25-2026-/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-technology-3",
+      "title": "Claude AI今日出现服务中断",
+      "description": "Anthropic旗下Claude AI在3月25日遭遇服务异常，用户反映无法正常访问。",
+      "url": "https://ftw.usatoday.com/story/tech/2026/03/25/is-claude-ai-down-latest-updates-march-26-2026/89314612007/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-technology-4",
+      "title": "LiteLLM供应链遭攻击，影响9700万次下载",
+      "description": "热门AI库LiteLLM遭受供应链攻击，波及范围极广，安全警报拉响。",
+      "url": "https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-on-wednesday-march-25-2026-/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-technology-5",
+      "title": "Arm发布新一代AI芯片，预计带来数十亿美元年收入",
+      "description": "Arm推出最新AI芯片架构，公司预期该产品将大幅提升年度营收。",
+      "url": "https://www.reuters.com/technology/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-technology-6",
+      "title": "苹果宣布2026年推出全面重构AI版Siri",
+      "description": "苹果正式官宣新一代Siri，将具备屏幕感知能力和上下文理解，成为真正的AI助手。",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-technology-7",
+      "title": "Meta向高管提供有史以来首次股票期权",
+      "description": "Meta为留住AI竞赛中的顶尖人才，首次向高管提供股票期权并大幅提高薪酬。",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-technology-8",
+      "title": "Super Micro三名高管被控走私AI芯片至中国",
+      "description": "司法部指控Super Micro联合创始人等三人涉嫌将价值25亿美元的美国AI技术非法出口至中国。",
+      "url": "https://www.aljazeera.com/news/2026/3/20/three-charged-in-the-us-with-smuggling-ai-chips-into-china",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-technology-9",
+      "title": "Morgan Stanley警告：2026年AI大突破来临，世界尚未准备好",
+      "description": "摩根士丹利发布报告称，变革性AI飞跃即将在2026年上半年到来，多数行业尚未应对。",
+      "url": "https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-technology-10",
+      "title": "AI网络安全威胁升级：黑客大规模使用AI发动攻击",
+      "description": "RSAC 2026大会揭示，AI已不再只是防御工具，黑客正规模化利用AI突破网络防线。",
+      "url": "https://lnt.ma/stache-tech-ai-cyber-big-tech-shake-up-march-25-2026/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "technology",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-business-1",
+      "title": "伊朗战争重创全球经济：PMI普遍下滑，滞胀风险上升",
+      "description": "全球多国3月采购经理人指数低于预期，欧元区PMI初值敲响滞胀警钟，经济复苏势头受挫。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-25/doc-inhscxke1210925.shtml",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-business-2",
+      "title": "中国人民银行开展5000亿元MLF操作",
+      "description": "央行以固定数量、利率招标方式开展1年期5000亿元中期借贷便利操作，维护银行体系流动性充裕。",
+      "url": "https://finance.sina.com.cn/stock/y/2026-03-25/doc-inhsecsh3739609.shtml",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-business-3",
+      "title": "巴克莱上调2026年标普500年终目标至7650点",
+      "description": "巴克莱银行尽管承认中东局势和通胀风险，仍上调美股全年目标，维持乐观展望。",
+      "url": "https://www.reuters.com/business/finance/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-business-4",
+      "title": "NatWest出售HR咨询子公司Mentor",
+      "description": "英国NatWest银行将旗下人力资源咨询业务Mentor出售给私募支持的Empowering People Group，继续精简业务。",
+      "url": "https://www.reuters.com/business/finance/natwest-sell-hr-consultancy-unit-mentor-streamlining-push-sky-news-reports-2026-03-25/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-business-5",
+      "title": "印度股市大涨：Nifty50和Sensex分别涨超1.5%",
+      "description": "受油价回落利好，印度两大股指强势反弹，Sensex单日涨逾1200点，创近期新高。",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-25-2026-dalal-street-indian-equities-global-markets-us-iran-war-middle-east-conflict-donald-trump-oil-prices/articleshow/129790649.cms",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-business-6",
+      "title": "中国建设银行拟引入党委书记，强化金融监管",
+      "description": "据悉中国建设银行计划新设党委书记职位，将成为四大国有银行中最后一家设立该职位的银行。",
+      "url": "https://www.thewirechina.com/2026/03/25/the-daily-roundup-march-25-2026/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-business-7",
+      "title": "小微企业融资新趋势：私募信贷成最快增长来源",
+      "description": "金融市场一个此前不透明的角落——私募信贷——正成为小企业融资增长最快的渠道。",
+      "url": "https://www.npr.org/sections/business/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-business-8",
+      "title": "黄金避险需求高涨，机构看好黄金长期投资价值",
+      "description": "地缘政治持续紧张叠加美元体系重构预期，黄金投资需求维持高位，多家机构发表看涨报告。",
+      "url": "https://cj.sina.com.cn/articles/view/7857201856/1d45362c001903kbrc",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-business-9",
+      "title": "小米等多家中国企业发布最新财报业绩",
+      "description": "小米等多家上市公司公布季度业绩，引发市场关注；理想汽车等企业同步披露回购及采购计划。",
+      "url": "https://finance.sina.com.cn/stock/cpbd/2026-03-25/doc-inhsecse6964827.shtml",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-business-10",
+      "title": "OpenAI计划年底前将员工规模扩大至8000人",
+      "description": "《金融时报》报道，OpenAI拟将员工总数近乎翻倍，重点强化企业销售与产品交付能力。",
+      "url": "https://techstartups.com/2026/03/24/top-tech-news-today-march-24-2026/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "business",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-sports-1",
+      "title": "米凯拉·希弗林平纪录夺得第6座女子世界杯总冠军水晶球",
+      "description": "美国高山滑雪传奇米凯拉·希弗林在挪威赛季终站平纪录捧得第6座总冠军奖杯，创造历史。",
+      "url": "https://www.reuters.com/sports/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-sports-2",
+      "title": "NBA今日赛事：湖人客战步行者，骑士米切尔42分延续连胜",
+      "description": "洛杉矶湖人客场对阵印第安纳步行者，湖人为10.5分热门；骑士米切尔42分帮助球队4连胜。",
+      "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/los-angeles-lakers-vs-indiana-pacers-injury-report-whos-playing-injured-and-questionable-players-head-to-head-records-team-stats-and-more-march-25-2026/articleshow/129802967.cms",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-sports-3",
+      "title": "尼克斯93-92险胜篮网，赛季对阵净胜14连",
+      "description": "纽约尼克斯以1分险胜布鲁克林篮网，本赛季与篮网的交手取得14连胜。",
+      "url": "http://www.espn.com/espn/latestnews",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-sports-4",
+      "title": "2026 FIFA世界杯倒计时不足百日，25支球队客场球衣在沪发布",
+      "description": "包括阿根廷、德国、西班牙在内的25支国家队2026世界杯客场球衣首次在中国上海亮相。",
+      "url": "https://www.chinanews.com.cn/ty/2026/03-21/10590566.shtml",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-sports-5",
+      "title": "萨拉赫官宣今夏离开利物浦，33岁告别9年9冠传奇生涯",
+      "description": "利物浦官宣埃及球星穆罕默德·萨拉赫将于2026年夏季离队，结束长达9年的辉煌旅程。",
+      "url": "https://sports.163.com/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-sports-6",
+      "title": "NBA今日赛程：亚特兰大老鹰对阵底特律活塞等多场精彩对决",
+      "description": "3月25日NBA赛程包含老鹰战活塞等多场比赛，全天精彩不断。",
+      "url": "https://www.usatoday.com/story/sports/nba/2026/03/25/nba-games-today-schedule-times-tv-march-25/89312177007/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-sports-7",
+      "title": "火箭117-95大胜老鹰，终结其11连胜",
+      "description": "休斯顿火箭强势击败亚特兰大老鹰，杜兰特贡献25分，终结老鹰赛季最长连胜。",
+      "url": "http://www.espn.com/espn/latestnews",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-sports-8",
+      "title": "掘金客战太阳，欧篮联米兰对决摩纳哥",
+      "description": "NBA西部强强对话，掘金客场挑战太阳；欧篮联焦点战AC米兰迎战摩纳哥。",
+      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801p158.html",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-sports-9",
+      "title": "MLB赛季开幕在即，3月25日全日赛程公布",
+      "description": "美国职业棒球大联盟本日多场春训/开季比赛同步进行，赛程详情正式公布。",
+      "url": "https://eu.usatoday.com/story/sports/mlb/2026/03/25/mlb-games-today-schedule-times-tv-03252026/89312215007/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-sports-10",
+      "title": "国乒选拔赛第二阶段：周启豪夺冠锁定伦敦世乒赛资格",
+      "description": "中国国家乒乓球男队在成都举行2026伦敦世乒赛第二阶段选拔赛，周启豪夺冠晋级。",
+      "url": "http://www.new-sports.cn/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "sports",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-war-1",
+      "title": "伊朗拒绝美国15点停火方案，提出包含赔偿和霍尔木兹主权的反案",
+      "description": "伊朗拒绝美方通过巴基斯坦传达的15点停火提案，反提索取战争赔偿并要求控制霍尔木兹海峡。",
+      "url": "https://apnews.com/live/iran-war-israel-trump-03-25-2026",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-war-2",
+      "title": "伊朗用导弹袭击以色列重要电站，未造成伤亡",
+      "description": "伊朗向以色列海岸城市发射导弹，目标锁定主要电力设施，以色列防空系统部分拦截。",
+      "url": "https://www.timesofisrael.com/liveblog-march-25-2026/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-war-3",
+      "title": "美国向中东增兵：第82空降师约2000人出发，另有5000名海军陆战队待命",
+      "description": "特朗普政府命令美军向中东大规模增兵，包括空降师及海军陆战队远征部队。",
+      "url": "https://www.reuters.com/world/us-deploy-thousands-additional-troops-middle-east-officials-say-2026-03-20/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-war-4",
+      "title": "伊朗对和平谈判持怀疑态度，称美国增兵是战争伪装",
+      "description": "伊朗外交部发言人表示，美方持续军事部署令其无法相信华盛顿的谈判诚意。",
+      "url": "https://www.justsecurity.org/134848/early-edition-march-25-2026/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-war-5",
+      "title": "伊拉克宣布\"不会保持沉默\"，美军空袭致其7名士兵阵亡",
+      "description": "伊拉克宣称美以联军空袭造成其国防部辖下军事医疗设施人员伤亡，强烈谴责并发出警告。",
+      "url": "https://www.timesofisrael.com/liveblog-march-25-2026/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-war-6",
+      "title": "纽约时报：美以对伊战争进入新阶段，连串袭击犹太机构",
+      "description": "随着美以-伊朗战争持续演进，多地犹太设施遭到连环袭击，局势持续升温。",
+      "url": "https://www.nytimes.com/2026/03/25/podcasts/the-headlines/us-troops-iran-attacks-jewish-sites.html",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-war-7",
+      "title": "俄罗斯防空系统一夜击落389架乌克兰无人机",
+      "description": "俄国防部称，防空力量在24小时内拦截并击落近400架乌克兰无人机，创单日记录。",
+      "url": "https://sputniknews.cn/20260325/",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-war-8",
+      "title": "战争授权案在美国参议院表决失败，特朗普获授权继续对伊打击",
+      "description": "美国参议院战争授权决议投票失败，这意味着特朗普政府可继续对伊朗实施军事行动。",
+      "url": "https://www.cnbc.com/2026/03/04/us-iran-war-live-updates.html",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-war-9",
+      "title": "分析：美以对伊战争持续冲击全球能源与经济",
+      "description": "中东冲突已进入第四周，油价反弹，全球供应链持续承压，分析人士警告经济代价日益上升。",
+      "url": "https://finance.sina.com.cn/headline/2026-03-25/doc-inhscxke1210925.shtml",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    },
+    {
+      "id": "2026-03-25-war-10",
+      "title": "特朗普向北约及中国施压，要求派遣军舰护卫油轮",
+      "description": "特朗普要求北约盟国及中国派出海军力量保护中东石油运输航线，引发外交争议。",
+      "url": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel",
+      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "source": {
+        "name": "每日综合新闻"
+      },
+      "category": "war",
+      "urlToImage": null
+    }
+  ],
   "2026-03-24": [
     {
       "id": "2026-03-24-technology-1",
